@@ -339,7 +339,40 @@
         .review-avatar { width: 44px; height: 44px; border-radius: 50%; background: linear-gradient(135deg, #1e40af, #3b82f6); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; }
         .review-name { font-weight: 700; color: var(--dark); font-size: 0.95rem; }
         .review-city { color: var(--gray); font-size: 0.82rem; }
-    </style>
+    
+/* === SA: navegacion y footer global (inyectado) === */
+.sa-nav{background:var(--primary,#1e40af);border-bottom:3px solid var(--secondary,#10b981)}
+.sa-nav-in{max-width:1200px;margin:0 auto;padding:0 12px;display:flex;flex-wrap:wrap;align-items:center;gap:2px}
+.sa-nav a{color:#fff;text-decoration:none;font-size:.9rem;font-weight:600;padding:12px 13px;white-space:nowrap;border-radius:6px;display:inline-block}
+.sa-nav a:hover{background:rgba(255,255,255,.16)}
+.sa-nav a[aria-current="page"]{background:rgba(255,255,255,.24)}
+.sa-nav .sa-nav-cta{background:var(--secondary,#10b981);margin-left:auto}
+@media(max-width:700px){.sa-nav-in{overflow-x:auto;flex-wrap:nowrap}.sa-nav a{padding:11px 10px;font-size:.83rem}.sa-nav .sa-nav-cta{margin-left:0}}
+
+.sa-related{background:var(--light,#f8fafc);padding:48px 0}
+.sa-related .sa-in{max-width:1200px;margin:0 auto;padding:0 20px}
+.sa-related h2{font-size:1.45rem;margin:0 0 6px;color:var(--dark,#0f172a);text-align:center}
+.sa-related .sa-sub{text-align:center;color:var(--gray,#64748b);margin:0 0 26px;font-size:.95rem}
+.sa-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.sa-card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:20px;text-decoration:none;display:block;transition:transform .15s,box-shadow .15s}
+.sa-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(15,23,42,.10)}
+.sa-card .sa-ico{font-size:1.6rem;display:block;margin-bottom:8px}
+.sa-card strong{display:block;color:var(--primary,#1e40af);font-size:1rem;margin-bottom:5px;line-height:1.35}
+.sa-card span.sa-d{color:var(--gray,#64748b);font-size:.87rem;line-height:1.5;display:block}
+
+.sa-footer{background:var(--dark,#0f172a);color:#e2e8f0;padding:46px 0 22px;margin-top:0}
+.sa-footer .sa-in{max-width:1200px;margin:0 auto;padding:0 20px}
+.sa-fgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:30px;text-align:left}
+.sa-fcol h4{color:#fff;font-size:.98rem;margin:0 0 13px;font-weight:700}
+.sa-fcol ul{list-style:none;margin:0;padding:0}
+.sa-fcol li{margin-bottom:7px}
+.sa-fcol a{color:#cbd5e1;text-decoration:none;font-size:.9rem}
+.sa-fcol a:hover{color:#fff;text-decoration:underline}
+.sa-fcol p{color:#cbd5e1;font-size:.9rem;line-height:1.6;margin:0 0 9px}
+.sa-fbottom{border-top:1px solid rgba(255,255,255,.14);margin-top:30px;padding-top:18px;text-align:center;font-size:.83rem;color:#94a3b8;line-height:1.7}
+.sa-fbottom a{color:#94a3b8;text-decoration:none;margin:0 6px}
+.sa-fbottom a:hover{color:#fff}
+</style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://gpscarro.com/"},{"@type":"ListItem","position":2,"name":"Servicios","item":"https://gpscarro.com/servicios/"},{"@type":"ListItem","position":3,"name":"GPS Camiones","item":"https://gpscarro.com/servicios/gps-camiones.html"}]}</script>
 </head>
 <body>
@@ -347,15 +380,10 @@
         <div class="container">
             <div class="header-content">
                 <a href="../" class="logo">📍 Seguimiento Activo</a>
-                <nav class="nav-links">
-                    <a href="../">Inicio</a>
-                    <a href="../#precios">Precios</a>
-                    <a href="../#caracteristicas">Características</a>
-                    <a href="../#contacto">Contacto</a>
-                </nav>
+                
             </div>
         </div>
-    </header>
+    </header><nav class="sa-nav" aria-label="Navegación principal"><div class="sa-nav-in"><a href="../">Inicio</a><a href="../servicios/" aria-current="page">Servicios</a><a href="../industrias/">Industrias</a><a href="../ciudades/">Ciudades</a><a href="../blog/">Blog</a><a href="../#contacto">Contacto</a><a class="sa-nav-cta" href="https://wa.me/573160592569?text=Hola!%20Quiero%20informacion%20sobre%20GPS%20vehicular">📱 WhatsApp</a></div></nav>
 
     <nav class="breadcrumb">
         <div class="container">
@@ -637,13 +665,7 @@
         </div>
     </section>
 
-    <footer class="footer">
-        <div class="container">
-            <p>📍 Seguimiento Activo GPS Colombia</p>
-            <p><a href="../">Inicio</a> <a href="./">Servicios</a> <a href="gps-carros.html">GPS Carros</a> <a href="gps-motos.html">GPS Motos</a> <a href="gps-maquinaria.html">GPS Maquinaria</a> <a href="../ciudades/">Ciudades</a> <a href="../industrias/">Industrias</a> <a href="../blog/">Blog</a></p>
-            <p style="margin-top: 20px; opacity: 0.6;">&copy; 2026 Seguimiento Activo. Certificado MinTIC y Policía Nacional.</p>
-        </div>
-    </footer>
+    <footer class="sa-footer" role="contentinfo"><div class="sa-in"><div class="sa-fgrid"><div class="sa-fcol"><h4>📍 Seguimiento Activo GPS</h4><p>Empresa colombiana especializada en rastreo GPS vehicular. Instalación profesional a domicilio en todo el país.</p><p><strong>WhatsApp:</strong> <a href="https://wa.me/573160592569">+57 316 059 2569</a></p><p>Certificado MinTIC y Policía Nacional</p></div><div class="sa-fcol"><h4>Servicios</h4><ul><li><a href="../servicios/gps-carros.html">GPS para Carros</a></li><li><a href="../servicios/gps-motos.html">GPS para Motos</a></li><li><a href="../servicios/gps-camiones.html">GPS para Camiones</a></li><li><a href="../servicios/gps-maquinaria.html">GPS Maquinaria</a></li><li><a href="../servicios/">Ver todos los servicios →</a></li></ul></div><div class="sa-fcol"><h4>Ciudades principales</h4><ul><li><a href="../ciudades/gps-bogota.html">GPS Bogotá</a></li><li><a href="../ciudades/gps-medellin.html">GPS Medellín</a></li><li><a href="../ciudades/gps-cali.html">GPS Cali</a></li><li><a href="../ciudades/gps-barranquilla.html">GPS Barranquilla</a></li><li><a href="../ciudades/">Ver las 32 ciudades →</a></li></ul></div><div class="sa-fcol"><h4>Industrias</h4><ul><li><a href="../industrias/flotas-transporte.html">Flotas y Transporte</a></li><li><a href="../industrias/taxis.html">Taxis y Apps</a></li><li><a href="../industrias/domiciliarios.html">Domiciliarios</a></li><li><a href="../industrias/construccion.html">Construcción</a></li><li><a href="../industrias/">Ver todas las industrias →</a></li></ul></div><div class="sa-fcol"><h4>Blog</h4><ul><li><a href="../blog/mejor-gps-carro-colombia-2026.html">Mejor GPS 2026</a></li><li><a href="../blog/gps-vs-airtag-comparacion.html">GPS vs AirTag</a></li><li><a href="../blog/como-funciona-gps-vehicular.html">¿Cómo funciona el GPS?</a></li><li><a href="../blog/">Ver todos los artículos →</a></li></ul></div></div><div class="sa-fbottom"><p>&copy; 2026 Seguimiento Activo GPS Colombia</p><p><a href="../privacidad.html">Privacidad</a>·<a href="../terminos.html">Términos</a>·<a href="../sitemap.xml">Mapa del sitio</a></p></div></div></footer>
 
     <a href="https://wa.me/573160592569?text=Hola!%20Quiero%20GPS%20para%20camiones" class="whatsapp-float" aria-label="Contactar por WhatsApp">📱</a>
 
@@ -655,5 +677,31 @@
             });
         });
     </script>
+
+<!-- SA: tracking GA4 de leads (WhatsApp / telefono / formulario) -->
+<script>
+(function(){
+  function el(t){return (t && t.nodeType===1) ? t : (t && t.parentElement) || null;}
+  function sect(a){var s=a.closest('section');return (s&&s.id)?s.id:'general';}
+  document.addEventListener('click',function(e){
+    if(typeof gtag!=='function')return;
+    var n=el(e.target); if(!n||!n.closest)return;
+    var a=n.closest('a[href]'); if(!a)return;
+    var h=a.getAttribute('href')||'';
+    if(h.indexOf('wa.me')>-1||h.indexOf('api.whatsapp.com')>-1){
+      gtag('event','whatsapp_click',{event_category:'lead',event_label:location.pathname,
+        page_path:location.pathname,page_section:sect(a),link_text:(a.textContent||'').trim().slice(0,60)});
+    }else if(h.indexOf('tel:')===0){
+      gtag('event','phone_click',{event_category:'lead',event_label:location.pathname,
+        page_path:location.pathname});
+    }
+  },true);
+  document.addEventListener('submit',function(){
+    if(typeof gtag!=='function')return;
+    gtag('event','form_submit',{event_category:'lead',event_label:location.pathname,
+      page_path:location.pathname});
+  },true);
+})();
+</script>
 </body>
 </html>
