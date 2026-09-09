@@ -1,0 +1,87 @@
+# Seguimiento Activo GPS Colombia
+
+> Servicio colombiano de rastreo GPS vehicular en tiempo real, con instalacion a domicilio en 32 ciudades del pais. Certificado por MinTIC y la Policia Nacional. Instalacion unica de $120.000 y mensualidad de $47.600, que incluye el plan de datos del equipo, la plataforma web y la app Monitor-X para Android y iPhone.
+
+Contacto: WhatsApp +57 316 059 2569 (Seguimiento Activo GPS). Sitio: https://gpscarro.com
+
+## Que incluye el servicio
+
+- Ubicacion en tiempo real y historial de recorridos
+- Geocercas con alertas de entrada y salida
+- Apagado remoto del motor (solo con el vehiculo detenido o a baja velocidad)
+- Alertas de exceso de velocidad y de encendido no autorizado
+- Odometro y control de mantenimientos por kilometraje
+- App Monitor-X incluida, sin costo adicional
+
+## Servicios por tipo de vehiculo
+
+- [GPS para carros](https://gpscarro.com/servicios/gps-carros.html): rastreo para vehiculos particulares
+- [GPS para motos](https://gpscarro.com/servicios/gps-motos.html): equipo compacto de instalacion oculta
+- [GPS para camiones](https://gpscarro.com/servicios/gps-camiones.html): control de flota y transporte de carga
+- [GPS para maquinaria](https://gpscarro.com/servicios/gps-maquinaria.html): maquinaria amarilla y equipo pesado
+
+## Sectores atendidos
+
+- [Flotas y transporte de carga](https://gpscarro.com/industrias/flotas-transporte.html)
+- [Taxis y conductores de apps](https://gpscarro.com/industrias/taxis.html)
+- [Domiciliarios y mensajeria](https://gpscarro.com/industrias/domiciliarios.html)
+- [Construccion y obra](https://gpscarro.com/industrias/construccion.html)
+- [Rent a car y alquiler de vehiculos](https://gpscarro.com/industrias/rent-a-car.html)
+- [Agricultura](https://gpscarro.com/industrias/agricultura.html)
+
+## Guias del blog
+
+- [Mejor GPS para Carro en Colombia 2026: Guia de Compra](https://gpscarro.com/blog/mejor-gps-carro-colombia-2026.html): Guia completa para elegir el mejor GPS para carro en Colombia 2026
+- [GPS para Flotas de Empresas en Colombia 2026](https://gpscarro.com/blog/gps-para-flotas-empresas-colombia.html): Guia completa de GPS para flotas empresariales en Colombia
+- [Como Recuperar un Carro Robado con GPS en Colombia](https://gpscarro.com/blog/como-recuperar-carro-robado-gps.html): Guia paso a paso para recuperar un vehiculo robado usando GPS en Colombia
+- [GPS Vehicular vs Apple AirTag 2026: Comparación Completa](https://gpscarro.com/blog/gps-vs-airtag-comparacion.html): Comparación completa GPS vehicular vs Apple AirTag para rastreo de vehículos en Colombia 2026
+- [GPS para Motocicletas Colombia 2026 🏍️ Guía Completa](https://gpscarro.com/blog/gps-motocicletas-guia-completa.html): Guía completa de GPS para motos en Colombia 2026
+- [GPS Antirrobo: Como Proteger tu Carro del Robo en Colombia](https://gpscarro.com/blog/gps-vs-robo-carros.html): Estadisticas de robo de carros en Colombia y como el GPS ayuda a recuperar vehiculos robados
+- [Como el GPS Reduce Costos en Flotas de Transporte](https://gpscarro.com/blog/gps-flotas-ahorro.html): Casos reales de empresas colombianas que ahorraron 15-25% en costos operativos con GPS vehicular
+- [Como Usar la App Monitor-X: Tutorial Completo](https://gpscarro.com/blog/app-monitor-x-tutorial.html): Tutorial completo de la app Monitor-X para rastreo GPS
+- [Que son las Geocercas y Como Usarlas](https://gpscarro.com/blog/geocercas-que-son.html): Aprende que son las geocercas GPS, como funcionan y para que sirven
+- [Como Funciona el GPS Vehicular: Guia Completa 2026](https://gpscarro.com/blog/como-funciona-gps-vehicular.html): Aprende como funciona el GPS vehicular paso a paso
+- [10 Beneficios de Instalar GPS en tu Carro](https://gpscarro.com/blog/beneficios-gps-carro.html): Descubre los 10 principales beneficios de instalar un GPS en tu carro
+
+## Cobertura
+
+Instalacion a domicilio en 32 ciudades. Indice completo: https://gpscarro.com/ciudades/
+
+- [GPS en Arauca](https://gpscarro.com/ciudades/gps-arauca.html)
+- [GPS en Armenia](https://gpscarro.com/ciudades/gps-armenia.html)
+- [GPS en Barranquilla](https://gpscarro.com/ciudades/gps-barranquilla.html)
+- [GPS en Bogota](https://gpscarro.com/ciudades/gps-bogota.html)
+- [GPS en Bucaramanga](https://gpscarro.com/ciudades/gps-bucaramanga.html)
+- [GPS en Cali](https://gpscarro.com/ciudades/gps-cali.html)
+- [GPS en Cartagena](https://gpscarro.com/ciudades/gps-cartagena.html)
+- [GPS en Cucuta](https://gpscarro.com/ciudades/gps-cucuta.html)
+- [GPS en Florencia](https://gpscarro.com/ciudades/gps-florencia.html)
+- [GPS en Ibague](https://gpscarro.com/ciudades/gps-ibague.html)
+- [GPS en Leticia](https://gpscarro.com/ciudades/gps-leticia.html)
+- [GPS en Manizales](https://gpscarro.com/ciudades/gps-manizales.html)
+- [GPS en Medellin](https://gpscarro.com/ciudades/gps-medellin.html)
+- [GPS en Mitu](https://gpscarro.com/ciudades/gps-mitu.html)
+- [GPS en Mocoa](https://gpscarro.com/ciudades/gps-mocoa.html)
+- [GPS en Monteria](https://gpscarro.com/ciudades/gps-monteria.html)
+- [GPS en Neiva](https://gpscarro.com/ciudades/gps-neiva.html)
+- [GPS en Pasto](https://gpscarro.com/ciudades/gps-pasto.html)
+- [GPS en Pereira](https://gpscarro.com/ciudades/gps-pereira.html)
+- [GPS en Popayan](https://gpscarro.com/ciudades/gps-popayan.html)
+- [GPS en Puerto Carreno](https://gpscarro.com/ciudades/gps-puerto-carreno.html)
+- [GPS en Puerto Inirida](https://gpscarro.com/ciudades/gps-puerto-inirida.html)
+- [GPS en Quibdo](https://gpscarro.com/ciudades/gps-quibdo.html)
+- [GPS en Riohacha](https://gpscarro.com/ciudades/gps-riohacha.html)
+- [GPS en San Andres](https://gpscarro.com/ciudades/gps-san-andres.html)
+- [GPS en San Jose Del Guaviare](https://gpscarro.com/ciudades/gps-san-jose-del-guaviare.html)
+- [GPS en Santa Marta](https://gpscarro.com/ciudades/gps-santa-marta.html)
+- [GPS en Sincelejo](https://gpscarro.com/ciudades/gps-sincelejo.html)
+- [GPS en Tunja](https://gpscarro.com/ciudades/gps-tunja.html)
+- [GPS en Valledupar](https://gpscarro.com/ciudades/gps-valledupar.html)
+- [GPS en Villavicencio](https://gpscarro.com/ciudades/gps-villavicencio.html)
+- [GPS en Yopal](https://gpscarro.com/ciudades/gps-yopal.html)
+
+## Opcional
+
+- [Politica de privacidad](https://gpscarro.com/privacidad.html)
+- [Terminos y condiciones](https://gpscarro.com/terminos.html)
+- [Mapa del sitio](https://gpscarro.com/sitemap.xml)

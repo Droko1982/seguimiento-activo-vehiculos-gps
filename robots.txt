@@ -12,6 +12,9 @@ Disallow: /gracias.html
 # Sitemap location
 Sitemap: https://gpscarro.com/sitemap.xml
 
+# Feed del blog
+# https://gpscarro.com/blog/rss.xml
+
 # Google
 User-agent: Googlebot
 Allow: /
