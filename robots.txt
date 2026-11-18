@@ -1,50 +1,51 @@
-# ==============================================
-# Robots.txt - Seguimiento Activo GPS Colombia
-# https://gpscarro.com/
-# ==============================================
+# robots.txt - gpscarro.com (Seguimiento Activo GPS Colombia)
+# Todo el contenido publico puede rastrearse e indexarse, incluso por
+# buscadores y asistentes de inteligencia artificial.
+# Resumen para IA: https://gpscarro.com/llms.txt
+# Version completa:  https://gpscarro.com/llms-full.txt
 
-# Permitir todos los robots
 User-agent: *
 Allow: /
-Disallow: /404.html
 Disallow: /gracias.html
 
-# Sitemap location
-Sitemap: https://gpscarro.com/sitemap.xml
-
-# Feed del blog
-# https://gpscarro.com/blog/rss.xml
-
-# Google
+# Buscadores y asistentes con IA (ChatGPT, Claude, Perplexity, Gemini,
+# Copilot, Apple Intelligence, Meta AI, Amazon, DuckDuckGo, Mistral, You.com)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: GoogleOther
 User-agent: Googlebot
-Allow: /
-
 User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Googlebot-Mobile
-Allow: /
-
-# Bing
 User-agent: Bingbot
-Allow: /
-
-# DuckDuckGo
+User-agent: msnbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: Amazonbot
 User-agent: DuckDuckBot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: YouBot
+User-agent: cohere-ai
+User-agent: CCBot
 Allow: /
+Disallow: /gracias.html
 
-# Social media crawlers
+# Vistas previas en redes sociales y mensajeria
 User-agent: facebookexternalhit
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: LinkedInBot
-Allow: /
-
 User-agent: WhatsApp
-Allow: /
-
+User-agent: Twitterbot
+User-agent: LinkedInBot
+User-agent: TelegramBot
 User-agent: Pinterest
 Allow: /
+
+Sitemap: https://gpscarro.com/sitemap.xml

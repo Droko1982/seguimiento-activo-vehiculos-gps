@@ -1,0 +1,12 @@
+# GitHub Pages (Jekyll) — the site is plain static HTML; this file only keeps
+# internal working documents out of the public site at gpscarro.com.
+# Folders starting with "_" (like _tools/) are never published.
+exclude:
+  - CONTENT-CALENDAR-2026.md
+  - GENERATE-OG-IMAGE.md
+  - MANUAL-STEPS-REQUIRED.md
+  - QUICK-START-DEPLOY.md
+  - SEO-DEPLOYMENT-CHECKLIST.md
+  - SEO-IMPROVEMENTS-SUMMARY.md
+  - README.md
+  - og-image.svg
