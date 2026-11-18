@@ -1,0 +1,356 @@
+[
+  {
+    "slug": "arauca",
+    "name": "Arauca",
+    "dept": "arauca",
+    "lat": 7.0847,
+    "lon": -70.7592,
+    "metro": null,
+    "lead": "GPS para motos, carros y camionetas en Arauca: rastreo en tiempo real en la frontera con Venezuela, la zona de Caño Limón y las sabanas ganaderas.",
+    "intro": [
+      "Arauca es una capital de frontera: está a orillas del río Arauca, frente a El Amparo, en el estado Apure de Venezuela, y se comunica con ese país por el Puente Internacional José Antonio Páez. El comercio binacional, el petróleo de Caño Limón y la ganadería de sabana mueven buena parte de los vehículos de la ciudad. En las calles abundan las motos, y junto a ellas circulan camionetas de contratistas, carros particulares y camiones que entran y salen con carga hacia Tame, Arauquita y Saravena. Con un GPS ves desde el celular dónde está cada uno y cuándo se encendió.",
+      "Las distancias en el departamento son largas y muchos recorridos cruzan tramos abiertos de llano, así que conviene saber con exactitud por dónde anda tu vehículo. El equipo reporta cada 30 segundos donde hay red celular y guarda 12 meses de historial para revisar rutas, horarios y paradas. Si alguien intenta usar el carro o la moto sin permiso, recibes la alerta de encendido y puedes compartir la ubicación en tiempo real con la Policía a través de la línea 123. En los tramos rurales sin señal, la posición se actualiza apenas el equipo recupera cobertura."
+    ],
+    "uses": [
+      {"icon": "🛢️", "title": "Contratistas de la zona petrolera", "text": "Controla las camionetas y vehículos de apoyo que van hacia Caño Limón y las veredas de Todos Los Santos: horas de salida, paradas, velocidad en vía y kilómetros recorridos para soportar cada servicio que facturas."},
+      {"icon": "🐄", "title": "Ganadería en las sabanas araucanas", "text": "Si mueves ganado, insumos o personal entre la ciudad y fincas de corregimientos como Caracol o Maporillal, el historial de recorridos te dice cuánto tardó cada viaje y en qué puntos se detuvo el vehículo."},
+      {"icon": "🌉", "title": "Comercio cerca de la frontera", "text": "Crea una geocerca alrededor del puente José Antonio Páez, de tu bodega o de tu local y recibe un aviso cada vez que el vehículo entra o sale. Es práctico para comerciantes y transportadores que trabajan junto al límite."},
+      {"icon": "🏍️", "title": "Motos para el día a día", "text": "Para quien trabaja en moto en barrios como Meridiano 70, Las Américas o El Porvenir, el odómetro y el historial ayudan a llevar la cuenta de kilómetros y mantenimientos, además de avisarte si alguien la enciende sin permiso."}
+    ],
+    "zones": ["Centro", "Meridiano 70", "La Esperanza", "Las Américas", "El Porvenir", "San Luis", "Córdoba", "El Bosque", "El Recreo", "Fundadores", "Caracol", "Todos Los Santos", "Maporillal"],
+    "roads": [
+      {"name": "Puente Internacional José Antonio Páez", "note": "Une a Arauca con El Amparo, en Venezuela. Una geocerca te avisa cuando tu vehículo se acerca al paso; del otro lado, el reporte depende de la señal colombiana."},
+      {"name": "Vía Arauca–Tame", "note": "Corredor hacia Tame y la Marginal de la Selva, rumbo a Yopal y Bogotá. En recorridos tan largos, el historial confirma tiempos, paradas y velocidad de cada conductor."},
+      {"name": "Vía Arauca–Arauquita–Saravena", "note": "Conecta la capital con el Sarare y la salida hacia Pamplona y Cúcuta. Las alertas de velocidad ayudan a cuidar camiones y camionetas en un trayecto largo."},
+      {"name": "Vía a Caño Limón", "note": "Salida de la ciudad hacia el campo petrolero y las veredas del corregimiento Todos Los Santos. Sirve para verificar turnos, horas de llegada y paradas de los vehículos contratistas."}
+    ],
+    "install_note": "En Arauca la visita se agenda por WhatsApp y el equipo se instala donde tengas el vehículo: casa, parqueadero, local o patio de la empresa. Si tu camioneta sale a campo por varios días, se puede programar la instalación en la ciudad entre un turno y otro. La fecha se confirma según la agenda de visitas a la región.",
+    "faqs": [
+      {"q": "¿El GPS sigue reportando si el vehículo pasa a Venezuela por el puente?", "a": "El equipo trabaja con la red celular colombiana. Mientras reciba señal de un operador colombiano, reporta con normalidad. Del lado venezolano la cobertura no está garantizada y el reporte puede pausarse; la ubicación se actualiza cuando el equipo vuelve a tener señal. Una geocerca en la frontera te avisa en cuanto el vehículo sale del lado colombiano."},
+      {"q": "¿Funciona en los campos petroleros y en las fincas del municipio?", "a": "Funciona donde haya cobertura celular. En la ciudad y sobre las vías principales lo habitual es tener señal; en los campos y en fincas alejadas depende de cada zona. Si el vehículo entra en un sector sin red, el equipo sigue funcionando y la posición se actualiza al recuperarla. El historial de 12 meses te permite revisar los recorridos después."},
+      {"q": "¿Cómo protejo la moto que dejo afuera de la casa en la noche?", "a": "Activa la alerta de encendido y una geocerca alrededor de tu casa: si la moto se enciende o sale de esa zona sin tu permiso, recibes el aviso en el celular. Con la ubicación en tiempo real puedes llamar a la línea 123 y compartirla con la Policía para facilitar la recuperación. Como el equipo va oculto, no es fácil de encontrar."}
+    ],
+    "nearby": ["saravena", "tame", "yopal", "cucuta"]
+  },
+  {
+    "slug": "florencia",
+    "name": "Florencia",
+    "dept": "caqueta",
+    "lat": 1.6144,
+    "lon": -75.6062,
+    "metro": null,
+    "lead": "Rastreo GPS en Florencia, puerta de oro de la Amazonía: controla carros, motos, camiones de ganado y rutas de leche entre la ciudad, el Huila y el norte del Caquetá.",
+    "intro": [
+      "Florencia es la puerta de entrada a la Amazonía colombiana desde el Huila. La ciudad creció a orillas del río Hacha, atravesada por la quebrada La Perdiz y al pie de la cordillera Oriental, y de aquí salen las carreteras que recorren el piedemonte caqueteño. La ganadería y la producción de leche y queso marcan la economía, junto con el comercio y los servicios propios de una capital. Por eso circulan camiones ganaderos, vehículos que recogen leche en las fincas, camionetas, buses intermunicipales y motos que conectan los barrios con el centro.",
+      "Instalar GPS en Florencia te da control sobre trayectos exigentes, como el ascenso de la cordillera hacia Suaza o los viajes hacia El Paujil, El Doncello y San Vicente del Caguán. Desde la app ves la ubicación cada 30 segundos, recibes alertas de exceso de velocidad y registras cada encendido y apagado. Donde hay red celular, que es lo normal en el casco urbano, el reporte es continuo; en veredas alejadas y en algunos tramos de montaña puede faltar la señal, y cuando el equipo la recupera la ubicación vuelve a actualizarse."
+    ],
+    "uses": [
+      {"icon": "🥛", "title": "Rutas de leche y queso", "text": "Si recoges leche en fincas del piedemonte, el GPS registra a qué hora pasó el vehículo por cada punto y cuánto tiempo estuvo detenido. Así compruebas que la ruta se cumple sin depender solo de lo que diga el conductor."},
+      {"icon": "🐄", "title": "Transporte de ganado", "text": "Para camiones que llevan ganado a ferias, subastas o hacia el Huila, el historial de 12 meses guarda cada viaje con paradas, velocidad y kilometraje, información útil para liquidar fletes y revisar tiempos."},
+      {"icon": "🛵", "title": "Domiciliarios en moto", "text": "Negocios que reparten en moto por Juan XXIII, Torasso o La Libertad pueden ver a sus domiciliarios en el mapa, medir tiempos de entrega y recibir alertas si una moto se sale de la zona de trabajo."},
+      {"icon": "🚌", "title": "Transporte intermunicipal", "text": "Propietarios de busetas y camionetas que cubren rutas hacia Morelia, Belén de los Andaquíes o La Montañita pueden ver la flota completa en un solo mapa y recibir alertas de velocidad en carretera."}
+    ],
+    "zones": ["Centro", "Juan XXIII", "Torasso", "Siete de Agosto", "Los Alpes", "La Libertad", "Bellavista", "Villamónica", "Yapurá", "Malvinas", "El Prado", "Ciudadela Siglo XXI", "Caraño", "Venecia"],
+    "roads": [
+      {"name": "Vía Florencia–Suaza–Altamira (hacia Neiva)", "note": "Salida al Huila por la cordillera Oriental, con curvas y pendientes fuertes. Las alertas de velocidad y el registro de paradas ayudan a cuidar camiones y conductores en el ascenso."},
+      {"name": "Vía Florencia–La Montañita–San Vicente del Caguán", "note": "Corredor ganadero que pasa por El Paujil, El Doncello y Puerto Rico. En viajes largos, el historial confirma tiempos, desvíos y kilómetros recorridos por cada vehículo."},
+      {"name": "Vía Florencia–Morelia–Belén de los Andaquíes", "note": "Conecta la capital con el sur del Caquetá y zonas de fincas lecheras. Las geocercas avisan cuando el vehículo llega o sale de cada finca o centro de acopio."}
+    ],
+    "install_note": "En Florencia la instalación se coordina por WhatsApp y se hace a domicilio: casa, parqueadero, empresa o bodega. Si tienes vehículos repartidos en Morelia, La Montañita u otros municipios cercanos, puedes reunirlos en un punto de la ciudad para instalarlos en la misma visita. La fecha se agenda según la programación para Caquetá.",
+    "faqs": [
+      {"q": "¿El GPS funciona en la subida de la cordillera hacia el Huila?", "a": "Funciona en los tramos con cobertura celular. En algunos puntos de montaña la señal puede caer por momentos; el equipo sigue encendido y la ubicación se actualiza en cuanto vuelve la red. Cuando el camión llega a su destino, puedes revisar en el historial el recorrido, las paradas y la velocidad registrada durante el viaje."},
+      {"q": "¿Cubren San Vicente del Caguán y los municipios del norte del Caquetá?", "a": "Sí. El servicio funciona en todo lugar con cobertura celular, así que puedes rastrear vehículos en San Vicente del Caguán, El Doncello, Puerto Rico o El Paujil. La instalación en esos municipios se agenda con anticipación por WhatsApp, y desde Florencia o cualquier otro lugar monitoreas toda la flota en la misma plataforma web."},
+      {"q": "¿Me sirve para controlar el carro que recoge la leche de mi finca?", "a": "Sí. Con geocercas en la finca y en el centro de acopio recibes un aviso cada vez que el vehículo llega o sale, y el reporte de uso muestra horas de encendido, paradas y kilómetros. Es una forma sencilla de verificar que la ruta se haga a tiempo y de programar mantenimientos por kilometraje antes de una falla."}
+    ],
+    "nearby": ["san-vicente-del-caguan", "garzon", "pitalito", "neiva", "mocoa"]
+  },
+  {
+    "slug": "leticia",
+    "name": "Leticia",
+    "dept": "amazonas",
+    "lat": -4.2153,
+    "lon": -69.9406,
+    "metro": null,
+    "lead": "GPS para motos y carros en Leticia: rastreo en el casco urbano y la vía a Tarapacá, en una capital amazónica que solo se conecta con Colombia por aire y río.",
+    "intro": [
+      "Leticia es la capital del Amazonas y el principal destino de turismo de selva del país, pero también una ciudad sin carretera hacia el resto de Colombia: se llega en avión al aeropuerto Alfredo Vásquez Cobo o navegando por el río Amazonas. Por eso su parque automotor es local y pequeño, formado sobre todo por motos, carros particulares, taxis, camionetas de hoteles y operadores turísticos y flotas modestas de comercio y entidades. Conseguir otro vehículo implica traerlo por río o por aire, así que cuidar el que tienes vale doble.",
+      "La ciudad forma una sola mancha urbana con Tabatinga (Brasil), unida por la avenida Internacional, y queda a pocos minutos en lancha de Santa Rosa (Perú). Por eso conviene saber que el GPS trabaja con la red celular colombiana: en Leticia y sobre la vía a Tarapacá reporta cada 30 segundos donde hay señal, y si el vehículo pasa a Tabatinga el reporte depende de que llegue la cobertura del operador colombiano. Si no llega, la ubicación se actualiza al regresar. Una geocerca te avisa en el momento en que tu moto cruza la frontera."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Motos en la frontera con Tabatinga", "text": "Activa una geocerca sobre la avenida Internacional y recibe una alerta cuando tu moto sale de Leticia hacia Brasil. Si alguien la mueve sin tu permiso, lo sabes al instante y puedes avisar a la Policía."},
+      {"icon": "🌳", "title": "Operadores turísticos y hoteles", "text": "Las camionetas que llevan visitantes del aeropuerto a los hoteles o hacia los kilómetros de la vía a Tarapacá quedan visibles en un mapa, con horas de uso y velocidad de cada conductor."},
+      {"icon": "🚕", "title": "Taxis y carros particulares", "text": "En una ciudad pequeña los recorridos son cortos pero constantes. El registro de encendido y apagado y el odómetro muestran cuánto se usa el carro y cuándo toca el mantenimiento por kilometraje."},
+      {"icon": "🏛️", "title": "Flotas de comercio y entidades", "text": "Distribuidoras, empresas de servicios y entidades con vehículos propios controlan su flota desde la plataforma web, con reportes de uso y alertas ilimitadas, sin llevar planillas a mano."}
+    ],
+    "zones": ["Centro", "La Esperanza", "El Castañal", "Victoria Regia", "Once de Noviembre", "San Martín", "Simón Bolívar", "José María Hernández", "Ciudad Jardín", "La Florida", "Costa Rica", "Punta Brava", "Kilómetro 6", "Kilómetro 11 (vía Tarapacá)"],
+    "roads": [
+      {"name": "Vía Leticia–Tarapacá", "note": "Sale de la ciudad y se recorre por kilómetros (Km 6, Km 11, Km 18) sin conectar con otro municipio. El historial muestra hasta dónde llegó el vehículo."},
+      {"name": "Avenida Internacional", "note": "Une Leticia con Tabatinga, con paso libre entre los dos países. Una geocerca aquí te avisa cuándo el vehículo sale del lado colombiano y cuándo regresa."},
+      {"name": "Avenida Alfredo Vásquez Cobo", "note": "Va del parque Santander al aeropuerto y concentra taxis y camionetas que recogen pasajeros. El GPS permite verificar tiempos y recorridos de cada servicio."}
+    ],
+    "install_note": "Como a Leticia solo se llega por aire o río, la instalación se agenda con fecha programada. Escríbenos por WhatsApp con el tipo y la cantidad de vehículos, y organizamos la visita para atender en una jornada a clientes del casco urbano y de la vía a Tarapacá. El equipo se instala oculto, en tu casa o trabajo.",
+    "faqs": [
+      {"q": "¿El GPS funciona si la moto pasa a Tabatinga?", "a": "El equipo usa la red celular colombiana. En Tabatinga puede seguir reportando en los sectores donde alcanza la señal de un operador colombiano, pero no es algo garantizado, y en Santa Rosa, del lado peruano, la cobertura es todavía más incierta. Si se pierde la señal, la ubicación se actualiza al volver a Leticia. Lo más práctico es configurar una geocerca en la frontera."},
+      {"q": "¿Funciona en los kilómetros de la vía a Tarapacá?", "a": "Sí, en los tramos con cobertura celular. Cerca de la ciudad la señal suele ser estable y, a medida que avanzas hacia los kilómetros más lejanos, puede volverse irregular. En esos casos el GPS sigue funcionando y la posición se actualiza cuando recupera la señal, y luego puedes revisar en el historial los puntos que reportó el vehículo."},
+      {"q": "¿Cuánto tarda la instalación si vivo en Leticia?", "a": "No es inmediata como en las ciudades principales, porque la visita se programa. Al escribirnos por WhatsApp te damos la fecha disponible y confirmamos hora y lugar. Ese día se instala el equipo, se configura la app Monitor-X en tu celular y te explicamos cómo usar geocercas, alertas y el apagado remoto del motor."}
+    ],
+    "nearby": ["mitu", "puerto-asis", "mocoa", "florencia"]
+  },
+  {
+    "slug": "mitu",
+    "name": "Mitú",
+    "dept": "vaupes",
+    "lat": 1.2536,
+    "lon": -70.2346,
+    "metro": null,
+    "lead": "GPS para motos, motocarros, camionetas y maquinaria en Mitú: control en el casco urbano y la vía a Monforth, con instalación agendada en el Vaupés.",
+    "intro": [
+      "Mitú, capital del Vaupés, está a orillas del río Vaupés y no tiene carretera hacia el resto del país: las personas y la carga llegan en avión, y el río comunica con las comunidades cercanas. Su red vial se limita a las calles del casco urbano y a la vía que sale hacia Monforth, que hoy se recorre por unas decenas de kilómetros. Por eso cada vehículo cuenta: motos, motocarros, camionetas de entidades y contratistas, y la maquinaria que trabaja en obras públicas y en el mantenimiento de esa vía.",
+      "Cuando traer un repuesto o un vehículo nuevo exige carga aérea, saber dónde está tu moto o tu camioneta y cuánto se usa tiene mucho sentido. El GPS reporta cada 30 segundos donde hay cobertura celular, que en Mitú se concentra en la zona urbana. Sobre la vía a Monforth y en sectores apartados la señal puede faltar; ahí la ubicación se actualiza cuando el equipo vuelve a tener red. Con el odómetro y las alertas por kilometraje programas mantenimientos antes de que una falla deje el vehículo parado."
+    ],
+    "uses": [
+      {"icon": "🛺", "title": "Motos y motocarros urbanos", "text": "Son el transporte diario en barrios como La Floresta, Inaya o La Unión. El equipo oculto avisa si encienden el vehículo sin tu permiso y te deja ver en el mapa dónde está a cualquier hora."},
+      {"icon": "🚜", "title": "Maquinaria de obras públicas", "text": "Volquetas, retroexcavadoras y motoniveladoras de obras municipales o de la vía a Monforth quedan con registro de horas de encendido y recorridos. Somos proveedor autorizado por la Policía Nacional para rastreo de maquinaria amarilla."},
+      {"icon": "🚙", "title": "Camionetas de entidades y contratistas", "text": "Instituciones y contratistas que operan en Mitú pueden revisar en la plataforma web quién usa cada camioneta, a qué horas y hacia dónde, con reportes de uso listos para soportar informes."},
+      {"icon": "🔧", "title": "Mantenimiento con repuestos escasos", "text": "Las alertas de mantenimiento por kilometraje te recuerdan cambiar aceite y revisar piezas a tiempo, algo clave cuando cada repuesto tiene que llegar por avión hasta el Vaupés."}
+    ],
+    "zones": ["Centro", "La Floresta", "La Unión", "Inaya", "Doce de Octubre", "Palmeras", "Las Brisas", "Bosques de Murillo", "Mituseño Urania", "Monforth"],
+    "roads": [
+      {"name": "Vía Mitú–Monforth", "note": "Única carretera que sale del casco urbano y avanza unas decenas de kilómetros hacia Monforth. El historial muestra hasta dónde llegó cada vehículo y cuánto tiempo estuvo en obra."},
+      {"name": "Vía al aeropuerto Fabio Alberto León Bentley", "note": "Por aquí se mueve la carga que llega en avión. Con una geocerca sabes cuándo una camioneta entra o sale de la zona del aeropuerto y cuánto tarda cada entrega."},
+      {"name": "Zona del puerto sobre el río Vaupés", "note": "Punto donde se cruzan el transporte fluvial y el urbano. Una geocerca en el puerto te avisa cuándo llegan o salen los motocarros y camionetas que reparten mercancía."}
+    ],
+    "install_note": "En Mitú la instalación siempre se agenda: escríbenos por WhatsApp, cuéntanos cuántos vehículos tienes y dónde están, y programamos la fecha. Si eres entidad o contratista con varias máquinas, lo ideal es reunirlas en un mismo patio para instalar todo en una sola visita y dejar la plataforma configurada para tu equipo.",
+    "faqs": [
+      {"q": "¿Sirve un GPS en Mitú si la señal celular es limitada?", "a": "Sí, con una aclaración honesta: el equipo reporta donde hay cobertura celular, y en Mitú esa cobertura se concentra en el casco urbano. En la vía a Monforth o en sectores alejados puede quedarse sin señal por ratos; cuando la recupera, la ubicación se actualiza. Para motos, motocarros y camionetas que se mueven dentro de la ciudad, el seguimiento rinde muy bien."},
+      {"q": "¿Puedo ver la camioneta de mi entidad en Mitú desde otra ciudad?", "a": "Sí. La plataforma web y la app Monitor-X funcionan desde cualquier lugar con internet, así que un coordinador en Villavicencio o Bogotá puede ver la camioneta en Mitú, revisar su historial de 12 meses y recibir las alertas de velocidad, encendido o geocercas. La información llega siempre que el vehículo esté en una zona con señal."},
+      {"q": "¿Qué pasa si solo necesito el GPS mientras dura un contrato de obra?", "a": "No hay cláusula de permanencia. Pagas la instalación una vez y la mensualidad mientras lo uses; cuando termine el contrato, cancelas y devuelves el equipo, que está en comodato, sin ningún costo. Es una opción práctica para contratistas que llegan a Mitú por un proyecto y necesitan controlar sus máquinas solo durante la obra."}
+    ],
+    "nearby": ["puerto-inirida", "san-jose-del-guaviare", "san-vicente-del-caguan", "leticia"]
+  },
+  {
+    "slug": "mocoa",
+    "name": "Mocoa",
+    "dept": "putumayo",
+    "lat": 1.1522,
+    "lon": -76.6519,
+    "metro": null,
+    "lead": "GPS vehicular en Mocoa: rastreo de carros, motos, taxis y camiones en la vía a Pitalito, la subida a San Francisco y el corredor hacia Puerto Asís.",
+    "intro": [
+      "Mocoa es la capital del Putumayo y el punto donde el piedemonte andino se encuentra con la llanura amazónica. Rodeada por los ríos Mocoa, Mulato y Sangoyaco, es una ciudad lluviosa y de relieve quebrado, con salida hacia el Huila por Pitalito, hacia el Valle de Sibundoy y Pasto por San Francisco, y hacia el Bajo Putumayo por Villagarzón y Puerto Asís. Por sus calles se mueven motos, taxis, camionetas, camiones de carga y vehículos de entidades y contratistas que atienden obras y la actividad petrolera del departamento.",
+      "Esa mezcla de montaña, lluvia y largas distancias hace del GPS una herramienta práctica. Puedes ver tu vehículo en tiempo real, saber dónde quedó detenido si hay un cierre por derrumbe y revisar 12 meses de historial para comprobar cada viaje. También recibes alertas cuando alguien lo enciende o cuando el conductor supera la velocidad que definiste. En la ciudad y sobre las vías principales el reporte es frecuente donde hay señal; en los tramos de montaña o de selva con menos cobertura, la ubicación se actualiza cuando el equipo vuelve a conectarse."
+    ],
+    "uses": [
+      {"icon": "🛢️", "title": "Contratistas hacia Orito y Puerto Asís", "text": "Si tu camioneta presta servicios a la industria petrolera del Bajo Putumayo, el GPS registra salidas desde Mocoa, tiempos en campo y kilómetros recorridos, información útil para soportar cada servicio."},
+      {"icon": "🚚", "title": "Carga hacia el Huila", "text": "Los camiones que suben a Pitalito con carga o regresan con mercancía quedan monitoreados en los tramos con cobertura, con alertas de velocidad en las curvas y registro de cada parada."},
+      {"icon": "🚕", "title": "Taxis y motos en la ciudad", "text": "Si entregas tu taxi por turnos, ves las horas de encendido y los kilómetros de cada conductor. En motos de barrios como José Homero o Huasipanga, la alerta de encendido y el apagado remoto con el vehículo detenido refuerzan la seguridad."},
+      {"icon": "🌿", "title": "Turismo en el piedemonte", "text": "Operadores que llevan visitantes a sitios cercanos como la cascada Fin del Mundo pueden controlar sus vehículos, horarios y velocidad, y saber a qué hora llega cada grupo a su destino."}
+    ],
+    "zones": ["Centro", "San Agustín", "José Homero", "Huasipanga", "Rumipamba", "Sauces", "Libertador", "Pablo VI", "Obrero", "La Amistad", "Altos de Mocoa", "Bella Vista", "Pueblo Viejo", "San José del Pepino"],
+    "roads": [
+      {"name": "Vía Mocoa–Pitalito", "note": "Principal salida hacia el Huila y el centro del país, con tramos de montaña. El historial de recorridos y las alertas de velocidad ayudan a cuidar conductores y carga."},
+      {"name": "Vía Mocoa–San Francisco y variante San Francisco–Mocoa", "note": "Ruta de montaña hacia el Valle de Sibundoy y Pasto; su tramo viejo es el Trampolín de la Muerte. Ver el vehículo en tiempo real da tranquilidad en el ascenso."},
+      {"name": "Vía Mocoa–Villagarzón–Puerto Asís", "note": "Corredor hacia el Bajo Putumayo y la zona petrolera. Son trayectos largos con calor y lluvia, donde el registro de paradas y kilómetros facilita controlar fletes y turnos."}
+    ],
+    "install_note": "En Mocoa la instalación se coordina por WhatsApp y se agenda fecha. El técnico va a tu casa, parqueadero o empresa, deja el equipo oculto y la app configurada. Si también tienes vehículos en Villagarzón o Puerto Asís, podemos organizar la programación para atender varios puntos del corredor en la misma visita.",
+    "faqs": [
+      {"q": "¿El GPS funciona en el tramo de montaña entre Mocoa y San Francisco?", "a": "Funciona donde haya cobertura celular. En la montaña hay puntos donde la señal se debilita o se pierde; el equipo no se apaga por eso y la ubicación se actualiza al recuperar cobertura. Si el vehículo queda detenido por un cierre de la vía, sabrás en qué sector está apenas vuelva la señal, y podrás avisar a tu familia o a tu empresa."},
+      {"q": "¿Puedo controlar una camioneta que trabaja para el sector petrolero en Puerto Asís u Orito?", "a": "Sí. Desde Mocoa o desde cualquier lugar ves la camioneta en la app y en la plataforma web. Puedes crear geocercas en la base o en la locación para registrar entradas y salidas, recibir alertas de velocidad y sacar reportes de uso con kilómetros y horas de encendido. En zonas sin señal, la posición se actualiza al recuperar cobertura."},
+      {"q": "¿Qué hago si me roban la moto en Mocoa?", "a": "Abre la app Monitor-X y mira la ubicación en tiempo real. Comunícate con la Policía en la línea 123 y comparte esa ubicación para facilitar la recuperación. Si la moto está detenida o va a baja velocidad, puedes activar el apagado remoto del motor. No intentes recuperarla por tu cuenta: deja que actúen las autoridades con la información que les das."}
+    ],
+    "nearby": ["puerto-asis", "pitalito", "pasto", "florencia"]
+  },
+  {
+    "slug": "puerto-carreno",
+    "name": "Puerto Carreño",
+    "dept": "vichada",
+    "lat": 6.1891,
+    "lon": -67.4858,
+    "metro": null,
+    "lead": "GPS en Puerto Carreño: rastreo de motos, motocarros y camionetas en la frontera con Venezuela, donde el río Meta llega al Orinoco.",
+    "intro": [
+      "Puerto Carreño, capital del Vichada, está donde el río Meta desemboca en el Orinoco, con Puerto Páez (Venezuela) al otro lado del Meta. Es una ciudad aislada por tierra durante buena parte del año: la carretera desde Puerto Gaitán atraviesa la sabana de la Orinoquía y se transita sobre todo en temporada seca, mientras que en invierno pesan más el avión y el río. Dentro del casco urbano se mueven motos, motocarros, taxis, camionetas de fincas y de entidades, y vehículos de comercio que distribuyen lo que llega del interior.",
+      "La ganadería extensiva, la pesca, los servicios hoteleros y el turismo de naturaleza en ríos como el Bita marcan la vida local. Para quien tiene un vehículo aquí, un GPS significa saber dónde está a toda hora dentro de la ciudad, recibir alertas de encendido y velocidad y llevar un historial de 12 meses. En sabanas abiertas y fincas lejanas la cobertura celular puede ser escasa o nula, y en esos tramos la ubicación se actualiza cuando el equipo vuelve a tener señal. Una geocerca alrededor de tu casa o negocio te avisa de cualquier salida no prevista."
+    ],
+    "uses": [
+      {"icon": "🛺", "title": "Motocarros de pasajeros y carga", "text": "En una ciudad de distancias cortas, el motocarro lleva pasajeros y mercancía todo el día. Con el GPS sabes en qué barrio está, si salió hacia el aeropuerto o el puerto y si se encendió fuera del horario acordado."},
+      {"icon": "🐄", "title": "Camionetas de fincas ganaderas", "text": "Las camionetas que salen a fincas de la sabana vichadense quedan con historial de recorridos, horas de uso y kilómetros. Así sabes cuánto se usó cada vehículo durante la temporada y cuándo programar su mantenimiento."},
+      {"icon": "🛣️", "title": "Viajes por la Ruta 40 en verano", "text": "Si viajas por carretera hacia Puerto Gaitán en temporada seca, tu familia o tu empresa puede seguir el trayecto desde la app en los tramos con señal y saber dónde se hizo cada parada."},
+      {"icon": "🎣", "title": "Turismo y servicios hoteleros", "text": "Hoteles y operadores de pesca y naturaleza que recogen visitantes en el aeropuerto o los llevan al puerto pueden ver sus vehículos en un mapa y controlar horarios y velocidad de cada conductor."}
+    ],
+    "zones": ["El Centro", "Calarcá", "La Florida", "Simón Bolívar", "Virgilio Barco", "Gabriel Robledo", "Las Granjas", "El Estadio", "La Plazuela", "El Limón", "Casuarito"],
+    "roads": [
+      {"name": "Ruta Nacional 40 hacia Puerto Gaitán", "note": "Conexión terrestre con el Meta por la sabana, transitable sobre todo en temporada seca. En los tramos con señal, el GPS muestra el avance y las paradas del viaje."},
+      {"name": "Vía al aeropuerto Germán Olano", "note": "Eje urbano por donde pasan taxis, motocarros y camionetas que recogen pasajeros y carga aérea. El registro de recorridos ayuda a verificar los tiempos de cada servicio."},
+      {"name": "Zona del puerto sobre los ríos Meta y Orinoco", "note": "Allí se mueven pasajeros y carga fluvial, incluido el paso hacia Puerto Páez. Una geocerca en el puerto registra cuándo llegan o salen tus vehículos de reparto."}
+    ],
+    "install_note": "Para Puerto Carreño la instalación se agenda con anticipación por WhatsApp, teniendo en cuenta la temporada y la disponibilidad de viaje. Reunimos las solicitudes del casco urbano para atenderlas en una misma visita, en tu casa, negocio o finca cercana, y dejamos la app configurada y explicada en tu celular.",
+    "faqs": [
+      {"q": "¿El GPS funciona si mi vehículo está cerca de Puerto Páez o de la frontera?", "a": "Funciona con la red celular colombiana. En la ciudad y en la orilla colombiana reporta con normalidad donde haya señal. No está pensado para operar del lado venezolano: si el equipo deja de recibir la red de un operador colombiano, el reporte se pausa y la ubicación se actualiza cuando recupera cobertura. Una geocerca en el puerto te avisa de movimientos inesperados."},
+      {"q": "¿Sirve para la camioneta de la finca en la sabana?", "a": "Sirve, pero con expectativas claras: en la sabana vichadense hay sectores sin cobertura celular. Mientras la camioneta esté en zona con señal verás su ubicación cada 30 segundos; al entrar en un tramo sin red, el reporte se detiene y se actualiza al recuperarla. De regreso en la ciudad tendrás al día encendidos, kilómetros y alertas de mantenimiento."},
+      {"q": "¿Por qué la instalación no es inmediata en Puerto Carreño?", "a": "Porque es una zona apartada a la que se llega en avión, por río o, en verano, por carretera desde Puerto Gaitán. Por eso la visita se programa: nos escribes por WhatsApp, agendamos la fecha y ese día se instala el equipo oculto, se configura la app Monitor-X y te explicamos geocercas, alertas y apagado remoto."}
+    ],
+    "nearby": ["puerto-inirida", "arauca", "puerto-lopez", "villavicencio", "yopal"]
+  },
+  {
+    "slug": "puerto-inirida",
+    "name": "Puerto Inírida",
+    "dept": "guainia",
+    "lat": 3.8653,
+    "lon": -67.9239,
+    "metro": null,
+    "lead": "Rastreo GPS en Puerto Inírida para motos, motocarros, camionetas y maquinaria: control en el casco urbano y en las vías a Caño Vitina, El Coco y Sabanitas.",
+    "intro": [
+      "Puerto Inírida, capital del Guainía, está en la margen del río Inírida, cerca de la Estrella Fluvial donde el Inírida, el Guaviare y el Atabapo se unen para formar el Orinoco. No tiene carretera hacia el interior del país: se llega en avión al aeropuerto César Gaviria Trujillo o por río desde San José del Guaviare. Su red vial son las calles del casco urbano, la vía al aeropuerto y unos pocos kilómetros pavimentados hacia comunidades como Caño Vitina, El Coco, Sabanitas y Guamal.",
+      "En ese espacio reducido circulan motos, motocarros, taxis, camionetas de entidades y la maquinaria de obras públicas que mantiene calles y vías. Con un GPS sabes en qué barrio está tu vehículo, recibes un aviso si lo encienden sin permiso y llevas el control de horas de trabajo de cada máquina. Dentro de la ciudad el reporte depende de la red celular disponible; hacia las comunidades rurales puede haber tramos sin señal, y allí la ubicación se actualiza cuando el equipo recupera cobertura. En invierno, además, varios caminos rurales quedan bajo el agua y el uso se concentra en la ciudad."
+    ],
+    "uses": [
+      {"icon": "🛺", "title": "Reparto entre el puerto y las bodegas", "text": "Los motocarros y camionetas que mueven mercancía desde el punto de llegada de las embarcaciones hasta bodegas y tiendas quedan con registro de cada viaje, paradas y horarios, sin depender de planillas."},
+      {"icon": "🚜", "title": "Maquinaria alquilada para obras", "text": "Si alquilas una retroexcavadora o una volqueta a una obra, el registro de horas de encendido y una geocerca en el frente de trabajo te dan un soporte objetivo para cobrar por uso real."},
+      {"icon": "🚙", "title": "Camionetas institucionales", "text": "Entidades con camionetas que van al aeropuerto, a los muelles o a las comunidades cercanas pueden ver en la plataforma web quién usa cada vehículo y a qué hora, con reportes listos para control interno."},
+      {"icon": "🌺", "title": "Transporte de visitantes", "text": "Quien lleva turistas al Jardín de las Flores de Inírida, en la vía a Caño Vitina, o al puerto de salida hacia los cerros de Mavecure puede seguir cada vehículo y sus tiempos desde el celular."}
+    ],
+    "zones": ["Centro", "La Primavera", "El Berlín", "Casablanca", "El Galán", "El Paraíso", "Libertadores", "Zona Indígena", "La Esperanza", "El Poblado", "El Jardín", "Caño Vitina", "Coco Viejo", "Sabanitas"],
+    "roads": [
+      {"name": "Vía al aeropuerto César Gaviria Trujillo", "note": "Tramo de la Ruta Nacional 95 que une el casco urbano con el aeropuerto, clave para la carga aérea. Las geocercas registran entradas y salidas de los vehículos de reparto."},
+      {"name": "Vía a Caño Vitina", "note": "Sale hacia el Jardín de las Flores de Inírida y comunidades cercanas. Es uno de los pocos tramos rurales pavimentados; el historial muestra quién lo recorre y cuándo."},
+      {"name": "Vía a El Coco, Sabanitas y Guamal", "note": "Kilómetros pavimentados que unen comunidades rurales con el centro. Fuera del casco urbano la señal puede ser irregular y la ubicación se actualiza al recuperarla."}
+    ],
+    "install_note": "Cuéntanos por WhatsApp qué vehículos tienes (moto, motocarro, camioneta o maquinaria) y en qué barrio están; con eso agendamos la fecha de visita a Inírida. El día acordado se instala el equipo oculto, se activa la app Monitor-X y se configuran geocercas útiles, como tu casa, el muelle o el frente de obra.",
+    "faqs": [
+      {"q": "¿Tiene sentido un GPS en una ciudad sin carreteras hacia el interior?", "a": "Sí, porque el riesgo y el costo están dentro de la ciudad: un vehículo que se pierde o se daña es difícil de reponer en Inírida. El GPS te muestra dónde está, alerta encendidos no autorizados y lleva el kilometraje para que el mantenimiento se haga a tiempo. Además, sin cláusula de permanencia, puedes usarlo solo mientras lo necesites."},
+      {"q": "¿Qué pasa con la señal en las comunidades fuera del casco urbano?", "a": "El equipo depende de la cobertura celular. En la ciudad y en los tramos cercanos el reporte es regular donde llega la red; en comunidades más alejadas o caminos rurales puede no haber señal. En esos casos el GPS no deja de funcionar: la ubicación se actualiza en cuanto vuelve a tener cobertura y puedes revisar los puntos reportados en el historial."},
+      {"q": "¿Puedo poner GPS a una máquina que alquilo para una obra en Inírida?", "a": "Sí. Seguimiento Activo GPS es proveedor autorizado por la Policía Nacional para el rastreo satelital de maquinaria amarilla. Con el registro de encendido y apagado sabes cuántas horas trabajó la máquina, y con una geocerca en el frente de obra recibes una alerta si la mueven de allí sin aviso."}
+    ],
+    "nearby": ["puerto-carreno", "san-jose-del-guaviare", "mitu", "villavicencio"]
+  },
+  {
+    "slug": "quibdo",
+    "name": "Quibdó",
+    "dept": "choco",
+    "lat": 5.6947,
+    "lon": -76.6611,
+    "metro": null,
+    "lead": "GPS para motos, mototaxis y carros en Quibdó: rastreo en tiempo real a orillas del Atrato y en las vías hacia Medellín, Pereira e Istmina.",
+    "intro": [
+      "Quibdó, capital del Chocó, vive de cara al río Atrato y es conocida como una de las ciudades más lluviosas del mundo. En sus calles la moto manda: es el vehículo de trabajo de mototaxistas, domiciliarios, comerciantes y familias, y comparte la vía con taxis, carros particulares, camionetas y camiones que traen mercancía por carretera desde Antioquia y el Eje Cafetero. La minería, el comercio y los servicios de la capital mantienen un movimiento constante entre comunas como la Zona Norte, el Anillo Central, Medrano y Jardín.",
+      "Un GPS en Quibdó sirve para dos cosas: proteger una moto que es tu sustento y controlar vehículos que salen a carreteras de montaña con lluvia frecuente. Desde la app Monitor-X ves la ubicación cada 30 segundos, recibes una alerta si alguien enciende la moto a deshoras y puedes compartir la posición con la Policía por la línea 123. En las vías hacia Medellín y Pereira hay tramos selváticos con señal intermitente; allí la ubicación se actualiza cuando el equipo recupera cobertura."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Mototaxi y moto de trabajo", "text": "Si tu moto es tu herramienta de trabajo, la alerta de encendido a deshoras y la ubicación en tiempo real te ayudan a reaccionar rápido ante un robo. El apagado remoto funciona con la moto detenida o a baja velocidad."},
+      {"icon": "📦", "title": "Domicilios y comercio del centro", "text": "Negocios de Alameda Reyes, César Conto o Pandeyuca que reparten en moto pueden ver a sus domiciliarios en un mapa y crear geocercas para saber cuándo salen del local y cuándo regresan."},
+      {"icon": "⛏️", "title": "Minería y obras en los corregimientos", "text": "Camionetas y maquinaria que trabajan en corregimientos como Tutunendo, La Troje o San Francisco de Ichó quedan con registro de horas de encendido, recorridos y paradas. Somos proveedor autorizado para rastreo de maquinaria amarilla."},
+      {"icon": "🚚", "title": "Carga desde Medellín y Pereira", "text": "Camiones que traen mercancía por El Carmen de Atrato o por Tadó quedan monitoreados en los tramos con señal, con alertas de velocidad y registro de cada parada en carretera."}
+    ],
+    "zones": ["Centro", "Alameda Reyes", "César Conto", "Cristo Rey", "Roma", "Pandeyuca", "Yesca Grande", "Kennedy", "Tomás Pérez", "Santa Ana", "Niño Jesús", "San Vicente", "Medrano", "Tutunendo"],
+    "roads": [
+      {"name": "Vía Quibdó–Medellín", "note": "Pasa por Tutunendo y El Carmen de Atrato antes de subir a Antioquia. Es un trayecto de montaña y lluvia donde conviene seguir el avance del vehículo y sus paradas."},
+      {"name": "Vía Quibdó–Pereira", "note": "Sale por Las Ánimas y Tadó hacia Pueblo Rico y el Eje Cafetero. Las alertas de velocidad y el historial ayudan a controlar camiones y conductores en este corredor."},
+      {"name": "Vía Quibdó–Istmina", "note": "Conecta la capital con la región del San Juan, Istmina y Condoto. En tramos de selva la señal puede faltar y la ubicación se actualiza al recuperar cobertura."}
+    ],
+    "install_note": "En Quibdó la instalación se agenda por WhatsApp y se hace donde tengas el vehículo: casa, parqueadero o negocio. Si trabajas en mototaxi o haces domicilios, cuéntanos tu horario para buscar un momento que no te quite jornada. Como la ciudad está lejos de los grandes centros, la fecha se confirma con anticipación.",
+    "faqs": [
+      {"q": "¿El GPS aguanta la lluvia constante de Quibdó?", "a": "El equipo se instala oculto y protegido dentro de la estructura del vehículo, no expuesto a la intemperie. En las motos se ubica en un punto resguardado. Si en algún momento notas que deja de reportar, el soporte técnico revisa el caso contigo por WhatsApp. Ten en cuenta que la ubicación depende de la señal celular de la zona donde esté la moto."},
+      {"q": "¿Sirve si trabajo en mototaxi y presto la moto por turnos?", "a": "Sí, es uno de los usos más prácticos. Con el registro de encendido y apagado sabes a qué hora empezó y terminó cada turno, y con el odómetro cuántos kilómetros se recorrieron. Si la moto sale de la zona acordada, una geocerca te avisa. Todo lo ves en la app Monitor-X desde tu celular, sin tener que llamar al conductor."},
+      {"q": "¿Funciona en el viaje por carretera a Medellín?", "a": "Funciona en los tramos con cobertura celular, como la salida de Quibdó y los cascos urbanos del recorrido. En partes de la montaña y la selva la señal puede perderse por ratos; el equipo sigue encendido y la ubicación se actualiza cuando vuelve la red. Así puedes compartir el avance del viaje con tu familia o con tu empresa."}
+    ],
+    "nearby": ["medellin", "pereira", "dosquebradas", "manizales"]
+  },
+  {
+    "slug": "san-andres",
+    "name": "San Andrés",
+    "dept": "san-andres-y-providencia",
+    "lat": 12.5847,
+    "lon": -81.7006,
+    "metro": null,
+    "lead": "GPS para motos, mulitas, rent a car y transporte turístico en San Andrés: rastreo sobre la Circunvalar, North End, San Luis y La Loma.",
+    "intro": [
+      "San Andrés es una isla de unos 12 kilómetros de largo donde el turismo y el comercio de puerto libre mueven casi todo. Su parque automotor es muy particular: motos de residentes y de alquiler, carritos de golf o mulitas que los turistas recorren por la Circunvalar, carros de rent a car, taxis, busetas y chivas de recorrido turístico. Todo eso circula en un territorio pequeño, entre el centro comercial de North End, los sectores raizales de La Loma, las playas de San Luis y la zona de El Cove.",
+      "Que la isla sea pequeña no significa que un vehículo no se pierda de vista. Una mulita alquilada puede quedar lejos del punto de devolución, una moto puede salir de su parqueadero de noche o un carro de alquiler puede superar la velocidad permitida. Con el GPS ves cada unidad en el mapa con ubicación cada 30 segundos, recibes alertas de velocidad y encendido, y creas geocercas en hoteles, playas o tu base de alquiler. Si hay un robo, compartes la ubicación con la Policía por la línea 123 para facilitar la recuperación."
+    ],
+    "uses": [
+      {"icon": "⛳", "title": "Alquiler de mulitas", "text": "Si alquilas carritos de golf, ves dónde va cada uno, recibes alertas si supera la velocidad o entra en zonas no permitidas y sabes la hora exacta en que regresó a tu base."},
+      {"icon": "🏍️", "title": "Motos de alquiler y de residentes", "text": "La moto es la forma más práctica de moverse por la isla. El equipo oculto alerta encendidos no autorizados y permite el apagado remoto con la moto detenida o a baja velocidad."},
+      {"icon": "🚗", "title": "Rent a car en la isla", "text": "Controla tu flota de alquiler desde la plataforma web, con kilometraje real por contrato, reportes de uso y alertas de mantenimiento, para que cada carro vuelva al servicio en buen estado."},
+      {"icon": "🚌", "title": "Transporte turístico", "text": "Busetas, chivas y vehículos de tours que recorren la Circunvalar con pasajeros pueden ser monitoreados en tiempo real, con alertas de velocidad que ayudan a cuidar a conductores y visitantes."}
+    ],
+    "zones": ["North End", "Spratt Bight", "Sarie Bay", "Natania", "Rock Hole", "La Loma", "Barrack", "Linval", "El Cove", "San Luis", "Sound Bay", "Tom Hooker", "Smith Channel", "Punta Sur"],
+    "roads": [
+      {"name": "Avenida Circunvalar", "note": "Rodea la isla y une North End con San Luis, Punta Sur y El Cove. Es la ruta habitual de mulitas y motos de alquiler, ideal para alertas de velocidad."},
+      {"name": "Avenida Newball", "note": "Eje del centro en North End, cerca de hoteles y comercio. Con una geocerca sabes cuándo un vehículo de tu flota sale de la zona hotelera o regresa."},
+      {"name": "Vía a La Loma", "note": "Carretera interior que atraviesa la parte alta de la isla, con sectores raizales como Barrack y Linval. El historial muestra recorridos y paradas fuera de la ruta costera."}
+    ],
+    "install_note": "En San Andrés la instalación se coordina por WhatsApp y se agenda fecha. Para empresas de alquiler conviene programarla en horas de baja demanda, cuando las mulitas, motos o carros están en la base, y así instalar varias unidades seguidas. Si también tienes vehículos en Providencia, cuéntanos para revisar la opción de agendarlos.",
+    "faqs": [
+      {"q": "¿Se puede instalar GPS en carritos de golf o mulitas?", "a": "Sí. Las mulitas que se alquilan en la isla pueden llevar el equipo instalado de forma oculta, igual que motos y carros. Desde la app ves su ubicación en tiempo real, recibes alertas de velocidad y encendido, y con geocercas sabes si un cliente lleva el vehículo a una zona no permitida o lo deja lejos del punto de devolución."},
+      {"q": "¿Me sirve para una flota de rent a car o de motos de alquiler?", "a": "Es uno de los usos más útiles en la isla. Ves toda la flota en la plataforma web, revisas el kilometraje de cada contrato, recibes alertas ilimitadas y programas mantenimientos por kilometraje. Como no hay cláusula de permanencia, puedes dar de baja los equipos que ya no necesites, por ejemplo después de temporada alta, y devolverlos sin costo."},
+      {"q": "¿El GPS funciona en toda la isla?", "a": "Funciona donde haya cobertura celular, y en San Andrés lo habitual es tener señal en North End, La Loma, San Luis y sobre la Circunvalar. Si en algún punto la señal falla por un momento, la ubicación se actualiza en cuanto el equipo la recupera. Así puedes seguir tu flota durante los recorridos turísticos y saber dónde quedó cada vehículo al final del día."}
+    ],
+    "nearby": ["cartagena", "barranquilla", "santa-marta", "monteria"]
+  },
+  {
+    "slug": "san-jose-del-guaviare",
+    "name": "San José del Guaviare",
+    "dept": "guaviare",
+    "lat": 2.5729,
+    "lon": -72.6459,
+    "metro": null,
+    "lead": "GPS en San José del Guaviare para carros, motos, camiones y camionetas: rastreo en la vía a Villavicencio, El Retorno y los caminos de La Lindosa.",
+    "intro": [
+      "San José del Guaviare es la capital del Guaviare y la puerta de una región de transición entre la Orinoquía y la Amazonía. A orillas del río Guaviare, la ciudad combina ganadería, pesca, cultivos como plátano, yuca y cacao, y un ecoturismo que crece alrededor de la Serranía de La Lindosa, con las pinturas rupestres de Cerro Azul, la Ciudad de Piedra y la Puerta de Orión. A diferencia de otras capitales amazónicas, tiene conexión por carretera con Villavicencio y el resto del país.",
+      "Esa conexión vial explica el movimiento constante de camiones, camionetas de fincas, buses intermunicipales, vehículos de turismo y motos. Con un GPS ves en tiempo real dónde está cada uno, recibes alertas de velocidad en la carretera hacia el Meta y guardas 12 meses de recorridos para revisar viajes, paradas y kilometraje. Dentro de la ciudad y en los cascos urbanos cercanos el reporte es frecuente donde hay red; en veredas y caminos de la serranía la cobertura es irregular, y allí la ubicación se actualiza cuando el equipo recupera señal."
+    ],
+    "uses": [
+      {"icon": "🐄", "title": "Ganadería y fincas", "text": "Camionetas y camiones que van a fincas por la vía a El Retorno o hacia El Capricho quedan con historial de recorridos, horas de uso y kilómetros, útil para liquidar fletes y programar el mantenimiento."},
+      {"icon": "🧭", "title": "Operadores de ecoturismo", "text": "Si llevas visitantes a Cerro Azul, la Ciudad de Piedra o la laguna Damas del Nare, el GPS te muestra el avance de cada vehículo y te permite avisar a los clientes la hora estimada de llegada."},
+      {"icon": "🚚", "title": "Carga hacia Villavicencio", "text": "Los camiones que llevan productos al Meta o traen mercancía a la ciudad se monitorean en el corredor con alertas de velocidad, registro de paradas y control de horarios de conducción."},
+      {"icon": "🚌", "title": "Buses y transporte intermunicipal", "text": "Empresas y propietarios de vehículos que cubren rutas hacia Granada, El Retorno o Calamar ven la flota en un solo mapa y revisan con el historial si cada salida y llegada se cumplió a tiempo."}
+    ],
+    "zones": ["Centro", "El Porvenir", "Modelo", "La Granja", "Veinte de Julio", "Primero de Octubre", "La Esperanza", "El Dorado", "Villa del Prado", "Santander", "Bello Horizonte", "Divino Niño", "San Jorge", "El Triunfo"],
+    "roads": [
+      {"name": "Vía a Villavicencio por Granada (Meta)", "note": "Conexión por carretera con el Meta y el centro del país. Son viajes largos en los que el historial y las alertas de velocidad ayudan a controlar conductores y tiempos."},
+      {"name": "Vía San José del Guaviare–El Retorno–Calamar", "note": "Corredor hacia el sur del departamento, en zona de fincas. Fuera de los cascos urbanos la señal puede fallar y la ubicación se actualiza cuando el equipo la recupera."},
+      {"name": "Caminos de la Serranía de La Lindosa", "note": "Carreteables que llevan a Cerro Azul, la Ciudad de Piedra y otros atractivos. Con geocercas sabes cuándo un vehículo de turismo llega o sale de cada sitio."}
+    ],
+    "install_note": "En San José del Guaviare la instalación se agenda por WhatsApp y se hace en tu casa, parqueadero, empresa o lugar de trabajo. Como la ciudad tiene conexión por carretera con el Meta, programar la visita es más sencillo que en otras capitales amazónicas; aun así, la fecha se confirma con anticipación según la agenda.",
+    "faqs": [
+      {"q": "¿Puedo saber si mi camioneta de turismo ya llegó a Cerro Azul?", "a": "Sí, si en el sitio hay cobertura celular. Crea una geocerca en el punto de llegada y recibirás un aviso cuando la camioneta entre o salga. En los caminos de la serranía la señal es irregular, así que puede haber tramos en los que la ubicación se actualice con retraso, en cuanto el equipo recupera la red."},
+      {"q": "¿Sirve para un camión que lleva ganado hacia el Meta?", "a": "Sí. Verás el camión en tiempo real en los tramos con señal, recibirás alertas si el conductor supera la velocidad que definas y tendrás un registro de cada parada. Al terminar el viaje, el historial y el odómetro te permiten liquidar el flete con datos y programar el siguiente mantenimiento por kilometraje."},
+      {"q": "¿Instalan el GPS en una finca fuera del casco urbano?", "a": "La instalación es a domicilio y se coordina con anticipación por WhatsApp, así que puede hacerse en tu lugar de trabajo. Para fincas alejadas, a veces es más práctico traer el vehículo a la ciudad el día acordado. Tras la instalación se configura la app Monitor-X y te explicamos geocercas, alertas y apagado remoto."}
+    ],
+    "nearby": ["granada-meta", "villavicencio", "acacias", "san-vicente-del-caguan"]
+  },
+  {
+    "slug": "yopal",
+    "name": "Yopal",
+    "dept": "casanare",
+    "lat": 5.3378,
+    "lon": -72.3959,
+    "metro": null,
+    "lead": "GPS para camionetas petroleras, camiones de ganado, carros y motos en Yopal: rastreo en la Marginal de la Selva, la vía a Aguazul y Paz de Ariporo.",
+    "intro": [
+      "Yopal es la capital de Casanare y el centro de servicios de una región que vive del petróleo y la ganadería. En la ciudad tienen sede empresas del sector de hidrocarburos que operan en campos como Cusiana y Cupiagua, y desde aquí se atienden hatos y fincas arroceras de la sabana casanareña. Por eso conviven camionetas de contratistas, carrotanques, camiones de ganado, buses intermunicipales, carros particulares y una gran cantidad de motos que recorren comunas como Ciudad Campiña, Llano Lindo o Ciro Reina.",
+      "Las distancias en el llano son largas y los vehículos de trabajo pasan buena parte del día en carretera, entre Yopal, Aguazul, Tauramena, Villanueva y Paz de Ariporo. Con el GPS ves cada unidad en el mapa con ubicación cada 30 segundos, controlas velocidad, horas de encendido y kilómetros, y sacas reportes de uso para soportar servicios ante la operadora. En la ciudad y sobre la Marginal de la Selva lo habitual es tener cobertura celular; en hatos alejados y vías internas de los campos puede haber tramos sin señal, donde la ubicación se actualiza al recuperarla."
+    ],
+    "uses": [
+      {"icon": "🛢️", "title": "Camionetas de contratistas petroleros", "text": "Registra salidas, llegadas y tiempos en locación de cada camioneta que va a Cusiana, Cupiagua u otros campos. Los reportes de uso con kilómetros y horas facilitan la facturación de cada servicio."},
+      {"icon": "🐄", "title": "Ganado y hatos llaneros", "text": "Camiones que llevan ganado desde hatos de Paz de Ariporo, Pore o Trinidad hacia Yopal quedan monitoreados, con alertas de velocidad que protegen la carga y al conductor en las rectas del llano."},
+      {"icon": "📱", "title": "Conductores de plataformas y domicilios", "text": "Si trabajas con apps de transporte o domicilios en Yopal, el historial muestra tus recorridos y kilómetros para calcular gastos y mantenimiento, y la alerta de encendido protege el vehículo mientras descansas."},
+      {"icon": "🌾", "title": "Maquinaria agrícola y arrocera", "text": "Tractores, combinadas y maquinaria amarilla de fincas arroceras quedan con registro de horas de encendido y ubicación. Somos proveedor autorizado por la Policía Nacional para rastreo satelital de maquinaria amarilla."}
+    ],
+    "zones": ["Centro", "La Campiña", "El Remanso", "La Primavera", "Llano Lindo", "Ciudad Jardín", "Bello Horizonte", "Casiquiare", "20 de Julio", "Xiruma", "Flor Amarillo", "Camoruco", "Santafé de Morichal", "El Morro"],
+    "roads": [
+      {"name": "Marginal de la Selva, tramo Yopal–Aguazul", "note": "Salida hacia Aguazul, Monterrey, Villanueva y Villavicencio, con tráfico de carga y del sector petrolero. Las alertas de velocidad y el historial ayudan a controlar flotas."},
+      {"name": "Vía Yopal–Paz de Ariporo", "note": "Corredor norte que pasa por Pore y sigue hacia Hato Corozal y Arauca. Es zona ganadera de distancias largas, donde conviene vigilar paradas y tiempos de viaje."},
+      {"name": "Transversal del Cusiana (Aguazul–Sogamoso)", "note": "Cruza la cordillera hacia Boyacá cerca de los campos Cusiana y Cupiagua. En la montaña la señal puede variar y la ubicación se actualiza al recuperarla."},
+      {"name": "Vía Yopal–El Morro", "note": "Sube al piedemonte hacia el corregimiento El Morro y la ruta a Labranzagrande. Útil para vigilar camionetas que trabajan en fincas y veredas de la parte alta."}
+    ],
+    "install_note": "En Yopal la instalación se coordina por WhatsApp y se hace a domicilio: casa, parqueadero, base de la empresa o patio de maquinaria. Para flotas grandes se organizan jornadas por grupos de vehículos, de modo que la operación no se detenga. La fecha y la hora se confirman según la agenda de visitas a Casanare.",
+    "faqs": [
+      {"q": "¿Funciona en los campos petroleros de Casanare?", "a": "Funciona donde haya cobertura celular. En las locaciones y vías internas de los campos la señal varía de un sitio a otro: donde hay red verás la camioneta cada 30 segundos y donde no, la ubicación se actualiza al recuperarla. Una geocerca en la entrada del campo te confirma la hora de llegada y de salida de cada vehículo."},
+      {"q": "¿Sirve para una flota de carga pesada en las vías del llano?", "a": "Sí. Desde la plataforma web ves todos los camiones o tractomulas a la vez, con alertas de velocidad, registro de paradas, odómetro y alertas de mantenimiento por kilometraje. Los reportes de uso te ayudan a comparar conductores y rutas entre Yopal, Villavicencio, Sogamoso o Arauca, y a detectar desvíos o paradas largas."},
+      {"q": "¿El GPS me ayuda a llevar el mantenimiento de la camioneta?", "a": "Sí. El equipo lleva un odómetro y puedes programar alertas de mantenimiento por kilometraje para cambios de aceite, llantas o revisiones. En camionetas que recorren muchos kilómetros entre Yopal y los campos, esto evita que se pasen los intervalos de servicio. También tienes reportes de uso para ver cuánto rodó cada vehículo en el mes."}
+    ],
+    "nearby": ["aguazul", "sogamoso", "tame", "duitama"]
+  }
+]

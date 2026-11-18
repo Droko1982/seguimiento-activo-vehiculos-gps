@@ -1,0 +1,331 @@
+[
+  {
+    "slug": "barranquilla",
+    "name": "Barranquilla",
+    "dept": "atlantico",
+    "lat": 10.9685,
+    "lon": -74.7813,
+    "metro": "Área Metropolitana de Barranquilla",
+    "lead": "Rastreo GPS para carros, motos y camiones en Barranquilla: de Riomar a Rebolo y de la Vía 40 a la Circunvalar, con tu vehículo en el mapa cada 30 segundos.",
+    "intro": [
+      "Barranquilla vive del movimiento: el puerto sobre el río Magdalena, las bodegas y plantas de la Vía 40, el comercio del Centro y los conjuntos que crecen hacia Riomar y Villa Campestre ponen a rodar todos los días carros, motos, busetas y camiones. Con un GPS de Seguimiento Activo ves desde la app Monitor-X dónde está tu vehículo, con la ubicación actualizada cada 30 segundos, y guardas 12 meses de recorridos para revisar a qué hora salió, por dónde pasó y dónde quedó parqueado. Sirve igual para el carro familiar de El Prado que para la camioneta de reparto que entra y sale del área metropolitana varias veces al día.",
+      "La geografía metropolitana es otra razón para tenerlo: en minutos un vehículo pasa de Barranquilla a Soledad por la Calle 30, a Galapa por la Cordialidad o a Puerto Colombia por la Vía al Mar. Con geocercas marcas tu casa, tu bodega o el parqueadero del trabajo y recibes un aviso cada vez que el vehículo entra o sale. Si hay un robo, compartes la ubicación en tiempo real con la Policía a través de la línea 123 para facilitar la recuperación, y con el vehículo detenido o a baja velocidad puedes apagar el motor desde la app. Sin cláusula de permanencia: si cancelas, devuelves el equipo sin costo."
+    ],
+    "uses": [
+      {"icon": "⚓", "title": "Carga en el puerto y la Vía 40", "text": "Para camiones y tractomulas que cargan en los muelles y bodegas sobre el Magdalena: historial de recorridos, registro de encendido y apagado y alertas de velocidad para saber cuánto tiempo pasa cada vehículo en fila y en ruta."},
+      {"icon": "🛵", "title": "Motos de domicilios", "text": "Los domiciliarios que cruzan de Soledad al norte varias veces al día pueden dejar la moto con GPS oculto, recibir alerta si se enciende sin permiso y revisar el recorrido completo de cada jornada desde el celular."},
+      {"icon": "🚕", "title": "Taxis y carros de plataforma", "text": "Si entregas tu carro a otro conductor, ves en tiempo real si está trabajando, en qué zona de la ciudad y a qué velocidad, y comparas el odómetro con lo que te reporta al final del turno."},
+      {"icon": "📦", "title": "Flotas de distribución comercial", "text": "Distribuidoras que surten tiendas en barrios como Rebolo, La Victoria o Las Nieves usan geocercas por zona y reportes de uso para verificar visitas, tiempos muertos y kilómetros recorridos por cada vehículo de la flota."}
+    ],
+    "zones": ["Centro", "El Prado", "Alto Prado", "Riomar", "Villa Country", "Villa Carolina", "Las Flores", "Boston", "Barrio Abajo", "Rebolo", "La Victoria", "El Bosque", "Siape", "Las Nieves"],
+    "roads": [
+      {"name": "Vía 40", "note": "Corredor industrial y portuario junto al río; concentra bodegas, plantas y patios de carga, por eso es clave vigilar horarios de entrada y salida de los camiones."},
+      {"name": "Avenida Circunvalar", "note": "Anillo que rodea la ciudad y conecta con la Cordialidad y la Vía al Mar; por ahí se mueven buses, camiones y carros que prefieren evitar el centro."},
+      {"name": "Vía al Mar", "note": "Une Barranquilla con Puerto Colombia y Cartagena; con el historial ves a qué hora salió el vehículo, dónde paró y a qué velocidad iba en carretera."},
+      {"name": "Calle 30", "note": "Sale hacia Soledad y el aeropuerto Ernesto Cortissoz; útil para seguir taxis, transportes al aeropuerto y vehículos que trabajan entre los dos municipios."}
+    ],
+    "install_note": "En Barranquilla el técnico llega a tu casa, oficina, parqueadero o bodega, y también atiende Soledad, Malambo, Galapa y Puerto Colombia. Coordinas día y hora por WhatsApp y, por ser ciudad principal, la instalación suele quedar lista en menos de 24 horas. Para camiones conviene agendar en el patio, antes o después del turno de cargue.",
+    "faqs": [
+      {"q": "¿Puedo instalar el GPS en un camión que trabaja en el puerto de Barranquilla?", "a": "Sí. El técnico puede ir al patio o parqueadero donde guardas el camión o la tractomula y hacer allí la instalación oculta. Después, desde la plataforma web y la app, ves la ubicación cada 30 segundos, el registro de encendido y apagado y el historial de 12 meses para revisar tiempos en puerto, en fila y en carretera."},
+      {"q": "Mi carro duerme en la calle en Soledad pero trabajo en el norte de Barranquilla, ¿cómo me ayuda el GPS?", "a": "Creas una geocerca alrededor de tu casa en Soledad y otra en tu trabajo. Si el carro sale de la zona de noche o se enciende cuando no debe, te llega una alerta al celular. En caso de robo, compartes la ubicación en tiempo real con la Policía en la línea 123 para facilitar la recuperación del vehículo."},
+      {"q": "¿El GPS sigue reportando si viajo a Cartagena o Santa Marta?", "a": "Sí. El equipo funciona donde haya cobertura de red celular, así que en los tramos con señal de las carreteras de la costa ves el carro en tiempo real. Si pasas por un punto con señal débil, la ubicación se actualiza cuando el equipo la recupera, y todo el viaje queda guardado en el historial para revisarlo después."}
+    ],
+    "nearby": ["soledad", "malambo", "sabanalarga", "cartagena", "santa-marta"]
+  },
+  {
+    "slug": "bucaramanga",
+    "name": "Bucaramanga",
+    "dept": "santander",
+    "lat": 7.1193,
+    "lon": -73.1227,
+    "metro": "Área Metropolitana de Bucaramanga",
+    "lead": "GPS para tu carro o tu moto en Bucaramanga, Floridablanca, Girón y Piedecuesta: ubicación cada 30 segundos, geocercas y alertas directo en tu celular.",
+    "intro": [
+      "Bucaramanga es una ciudad de meseta, rodeada de escarpes y cañadas, y buena parte de su tráfico se reparte entre pocas arterias: la Carrera 27, la Carrera 33, la Autopista Floridablanca y el Anillo Vial hacia Girón. Por ellas pasan cada día carros particulares, motos de trabajo, busetas y camiones que abastecen el comercio de San Alonso, Cabecera del Llano y el Centro. Un GPS de Seguimiento Activo te muestra en la app Monitor-X la posición de tu vehículo, actualizada cada 30 segundos, y guarda un historial de recorridos de 12 meses para que sepas por dónde anduvo, a qué hora se encendió y dónde se quedó quieto.",
+      "El área metropolitana funciona casi como una sola ciudad: muchos viven en Floridablanca o Piedecuesta, trabajan en Bucaramanga y tienen su negocio en Girón o en la zona industrial de Chimitá. Con geocercas marcas cada uno de esos lugares y recibes avisos de entrada y salida. Para talleres de calzado, empresas de confección o distribuidoras avícolas que despachan hacia la Costa, Cúcuta o Barrancabermeja, los reportes de uso, las alertas de velocidad y el odómetro con alertas de mantenimiento ayudan a tener la flota bajo control. En caso de hurto, la posición en vivo se puede compartir con la Policía en la línea 123, lo que facilita la recuperación."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Motos en una ciudad de pendientes", "text": "Para muchos bumangueses la moto es la herramienta de trabajo. Con GPS oculto recibes alerta si alguien la enciende sin permiso y ves en el mapa si subió hacia Morrorico o bajó hacia Girón."},
+      {"icon": "🐔", "title": "Distribución avícola y de alimentos", "text": "Santander es tierra de granjas avícolas. Los furgones que reparten pollo, huevo y alimentos entre Lebrija, Girón, Los Santos y la ciudad pueden llevar control de rutas, paradas y velocidad en cada despacho."},
+      {"icon": "👞", "title": "Talleres de calzado y confección", "text": "Fábricas y talleres de calzado y confección del área metropolitana despachan mercancía en camionetas propias; el historial de recorridos y las geocercas confirman entregas en almacenes, bodegas y terminales de carga."},
+      {"icon": "🛢️", "title": "Camionetas hacia Barrancabermeja", "text": "Contratistas y técnicos del sector petrolero que bajan al Magdalena Medio pueden compartir la ubicación con su empresa, revisar horarios de salida y llegada y recibir alertas cuando el vehículo supera la velocidad permitida."}
+    ],
+    "zones": ["Centro", "Cabecera del Llano", "Sotomayor", "El Prado", "San Alonso", "La Concordia", "Álvarez", "Provenza", "Ciudadela Real de Minas", "Lagos del Cacique", "Mutis", "San Francisco", "Girardot", "Café Madrid"],
+    "roads": [
+      {"name": "Autopista Floridablanca", "note": "Eje principal entre Bucaramanga y Floridablanca, con tráfico pesado en hora pico; el GPS registra tiempos, paradas y velocidades en cada trayecto diario de ida y vuelta."},
+      {"name": "Anillo Vial Floridablanca–Girón", "note": "Conecta Floridablanca con Girón sin pasar por el centro; muy usado por camiones y transporte de carga que entra y sale del área metropolitana."},
+      {"name": "Vía Bucaramanga–Barrancabermeja", "note": "Desciende de la meseta hacia el Magdalena Medio; trayecto de curvas, calor y carga pesada donde las alertas de velocidad resultan especialmente útiles."},
+      {"name": "Vía a Cúcuta por el páramo de Berlín", "note": "Cruza la alta montaña hacia Pamplona y Cúcuta; en algunos tramos la señal celular puede fallar y la ubicación se actualiza cuando el equipo la recupera."}
+    ],
+    "install_note": "En Bucaramanga, Floridablanca, Girón y Piedecuesta la instalación se coordina por WhatsApp y el técnico va hasta tu casa, conjunto, taller o parqueadero; por lo general queda lista en menos de 24 horas. Si el vehículo está en la Mesa de Los Santos, en Lebrija o en una finca, se agenda la fecha con anticipación.",
+    "faqs": [
+      {"q": "Vivo en Floridablanca y trabajo en Bucaramanga, ¿el servicio cubre las dos ciudades?", "a": "Sí. El GPS no depende del municipio sino de la cobertura de red celular, que está presente en las zonas urbanas del área metropolitana. Puedes crear una geocerca en tu casa de Floridablanca y otra en tu oficina de Bucaramanga para recibir avisos cada vez que el carro entra o sale de cada lugar."},
+      {"q": "¿Vale la pena ponerle GPS a una moto de trabajo en Bucaramanga?", "a": "Para quien vive de la moto, sí. El equipo se instala oculto, reporta la ubicación cada 30 segundos y te avisa si alguien la enciende o la mueve fuera de tu horario. Además, el odómetro te recuerda el mantenimiento por kilometraje, algo útil con tanta subida y bajada entre la meseta, Girón y Piedecuesta."},
+      {"q": "¿Funciona el GPS por el Cañón del Chicamocha, camino a San Gil?", "a": "Funciona donde haya cobertura celular. En la vía hacia San Gil por el Cañón del Chicamocha hay tramos donde la señal baja o se pierde; en esos puntos la ubicación se actualiza cuando el equipo recupera la conexión. Al llegar a zonas con señal vuelves a ver el vehículo en tiempo real y el viaje queda en el historial."}
+    ],
+    "nearby": ["floridablanca", "giron", "piedecuesta", "barrancabermeja", "san-gil"]
+  },
+  {
+    "slug": "cali",
+    "name": "Cali",
+    "dept": "valle-del-cauca",
+    "lat": 3.4516,
+    "lon": -76.532,
+    "metro": null,
+    "lead": "Rastreo GPS en Cali para carros, motos y flotas, de Menga a Pance y de Siloé al oriente, con ubicación cada 30 segundos y alertas al celular.",
+    "intro": [
+      "Cali se extiende entre los Farallones y el río Cauca, desde el norte que sale hacia Yumbo por Menga hasta los conjuntos de Valle del Lili y Pance en el sur, y esas distancias obligan a moverse en carro o en moto casi para todo. La moto, en particular, hace parte de la vida caleña: mensajeros, domiciliarios y trabajadores la usan a diario entre el oriente, el centro y el norte. Desde la app Monitor-X sigues tu vehículo con una posición nueva cada 30 segundos, y el historial de 12 meses te permite reconstruir cualquier día con detalle: hora de salida, calles recorridas, paradas y velocidad.",
+      "Además del uso urbano, Cali es punto de partida de rutas muy distintas: la Vía al Mar sube hacia el kilómetro 18 y la carretera a Buenaventura baja al Pacífico, la Panamericana sale hacia Jamundí y el Cauca, y la recta a Palmira lleva al aeropuerto Alfonso Bonilla Aragón y a la zona de ingenios azucareros. Con geocercas te enteras cuando un vehículo sale de la ciudad o llega a su destino, y con las alertas de velocidad controlas a quien conduce en carretera. Y si el vehículo desaparece, la ubicación en tiempo real se comparte con la Policía llamando al 123 para facilitar que lo recuperen."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Motos de mensajería y domicilios", "text": "Si tu moto es tu herramienta de trabajo en Cali, el GPS oculto te avisa si la encienden sin permiso, registra cada recorrido y te permite apagar el motor desde la app cuando está detenida o a baja velocidad."},
+      {"icon": "🌾", "title": "Transporte cañero y agroindustrial", "text": "Las empresas que mueven caña e insumos entre Cali, Candelaria, Palmira y Jamundí controlan con reportes de uso los turnos, las paradas y los kilómetros de cada camión, con alertas de mantenimiento por kilometraje."},
+      {"icon": "🚚", "title": "Carga hacia Buenaventura", "text": "Para tractomulas que bajan al puerto de Buenaventura, el historial muestra tiempos de viaje, paradas y velocidades; en los tramos de montaña sin señal, la ubicación se actualiza cuando el equipo la recupera."},
+      {"icon": "🏘️", "title": "Carros familiares en el sur", "text": "En conjuntos de Ciudad Jardín, Valle del Lili o Pance puedes crear una geocerca en tu parqueadero y recibir aviso si el carro sale de noche, además de ver quién lo usó y por dónde anduvo."}
+    ],
+    "zones": ["Granada", "San Fernando", "Ciudad Jardín", "El Ingenio", "Alfonso López", "Siloé", "San Antonio", "Versalles", "Valle del Lili", "Pance", "Ciudad Córdoba", "Mariano Ramos", "La Flora", "Menga"],
+    "roads": [
+      {"name": "Autopista Simón Bolívar", "note": "Atraviesa el oriente y el sur de Cali con mucho tráfico mixto de motos, buses y camiones; ideal para revisar velocidades y horarios en el historial."},
+      {"name": "Calle 5", "note": "Columna vertebral entre el centro y el sur, con el MIO y gran flujo diario; el GPS te muestra cuánto tarda realmente cada trayecto de ida y vuelta."},
+      {"name": "Vía al Mar", "note": "Sale por el oeste y sube hacia el kilómetro 18, zona de restaurantes y fincas camino al Pacífico; tiene curvas y neblina, por eso conviene vigilar velocidades."},
+      {"name": "Vía Panamericana", "note": "Une Cali con Jamundí, Santander de Quilichao y Popayán; corredor de carga y de viajeros donde una geocerca avisa cuando el vehículo sale del Valle."}
+    ],
+    "install_note": "En Cali el técnico llega a tu casa, conjunto, oficina o parqueadero en cualquier comuna, y también atiende Jamundí, Yumbo, Palmira y Candelaria. Escribes por WhatsApp, eliges la hora y en la ciudad suele quedar instalado en menos de 24 horas. Si se trata de una flota, se coordina en el patio de la empresa para no frenar la operación.",
+    "faqs": [
+      {"q": "¿El GPS funciona en la carretera entre Cali y Buenaventura?", "a": "El equipo reporta por la red celular, así que depende de que haya señal. En la carretera entre Cali y Buenaventura hay tramos de montaña donde la señal es débil o se pierde; en esos puntos la ubicación se actualiza cuando el equipo vuelve a tener señal. En el resto del recorrido y en la ciudad puerto ves el vehículo en tiempo real."},
+      {"q": "Tengo una moto en el oriente de Cali, ¿dónde va el equipo para que no lo encuentren?", "a": "El técnico busca un punto oculto según el modelo de la moto, de modo que el equipo no quede a la vista ni sea fácil de retirar. Por seguridad, esos puntos no se publican. Una vez instalado, recibes alertas de encendido y movimiento, y en caso de robo puedes compartir la ubicación con la Policía en la línea 123."},
+      {"q": "¿Puedo controlar desde Cali un carro que se mueve en Jamundí o Palmira?", "a": "Sí. La app Monitor-X y la plataforma web muestran el vehículo esté donde esté, siempre que haya cobertura celular. Puedes crear geocercas en Jamundí, Palmira o Yumbo y recibir aviso cuando el carro entre o salga, además de revisar el historial de 12 meses para confirmar horarios y rutas."}
+    ],
+    "nearby": ["palmira", "jamundi", "yumbo", "buga", "buenaventura"]
+  },
+  {
+    "slug": "cartagena",
+    "name": "Cartagena",
+    "dept": "bolivar",
+    "lat": 10.391,
+    "lon": -75.4794,
+    "metro": null,
+    "lead": "GPS para carros, motos, vans de turismo y camiones en Cartagena: de Bocagrande a Mamonal y de Crespo a La Boquilla, tu vehículo visible en el celular.",
+    "intro": [
+      "Cartagena combina tres economías que dependen de vehículos en movimiento: el turismo del Centro Histórico, Bocagrande y la zona norte; la actividad portuaria de Manga y El Bosque; y la industria petroquímica de Mamonal. Eso significa vans y carros que llevan visitantes entre el aeropuerto, los hoteles y las playas, camiones que esperan turno en los terminales y camionetas de contratistas que entran y salen de las plantas. Para todos ellos, el rastreo de Seguimiento Activo pone en la app Monitor-X la ubicación de cada vehículo, renovada cada 30 segundos, junto con un historial de 12 meses que sirve para revisar turnos, viajes y paradas.",
+      "Dentro de la ciudad el tráfico se concentra en la Avenida Pedro de Heredia, el Anillo Vial y el Túnel de Crespo, y fuera de ella las rutas llevan a Turbaco, a Barranquilla por la Vía al Mar o a Barú cruzando el Canal del Dique. Las geocercas te avisan cuando un vehículo sale de esas zonas y el registro de encendido y apagado muestra si alguien lo usó de noche. Ante un robo, le das a la Policía, por la línea 123, la ubicación exacta en vivo para facilitar la recuperación, y puedes apagar el motor desde la app con el vehículo detenido o a baja velocidad."
+    ],
+    "uses": [
+      {"icon": "🚐", "title": "Vans y carros de turismo", "text": "Operadores que recogen turistas en el aeropuerto Rafael Núñez y los llevan a hoteles de Bocagrande o a Playa Blanca pueden ver cada vehículo en vivo y confirmar tiempos de recogida con el historial."},
+      {"icon": "⚓", "title": "Camiones del puerto y Mamonal", "text": "Tractomulas y camiones que cargan contenedores en los terminales o insumos en Mamonal ganan control con el registro de encendido, alertas de velocidad y reportes de cuánto tiempo pasan detenidos."},
+      {"icon": "🏍️", "title": "Motos de trabajo y domicilios", "text": "En barrios como Olaya Herrera, El Bosque o Ternera la moto es herramienta diaria; con GPS oculto recibes aviso si la mueven sin permiso y puedes apagar el motor cuando está detenida."},
+      {"icon": "🔑", "title": "Rent a car para visitantes", "text": "Si alquilas carros a turistas, las geocercas te dicen si el vehículo salió del área acordada, el odómetro te ayuda con el mantenimiento y el historial respalda cualquier diferencia en la devolución."}
+    ],
+    "zones": ["Centro Histórico", "Getsemaní", "San Diego", "Bocagrande", "Castillogrande", "Manga", "Pie de la Popa", "Crespo", "Marbella", "El Bosque", "Ternera", "Olaya Herrera", "La Boquilla", "Mamonal"],
+    "roads": [
+      {"name": "Avenida Pedro de Heredia", "note": "Arteria que va del Centro hacia Ternera y la salida a Turbaco, con Transcaribe y alto flujo de motos y buses; el historial muestra recorridos y paradas exactas."},
+      {"name": "Vía al Mar", "note": "Comunica la zona norte y La Boquilla con Barranquilla; carretera rápida donde las alertas de velocidad ayudan a controlar a quien conduce tu vehículo."},
+      {"name": "Variante Mamonal–Gambote", "note": "Permite a la carga pesada llegar a Mamonal y al sur de la bahía sin entrar a la ciudad; clave para seguir tractomulas que vienen del interior del país."},
+      {"name": "Anillo Vial y Túnel de Crespo", "note": "Conectan el Centro y Bocagrande con el aeropuerto y la zona norte; con el GPS mides los tiempos reales de traslado de turistas y empleados."}
+    ],
+    "install_note": "En Cartagena la instalación se coordina por WhatsApp y el técnico va a tu casa, al parqueadero de tu edificio, a tu negocio o a la bodega en Mamonal; en la ciudad suele quedar lista en menos de 24 horas. En Turbaco, Arjona o la zona norte se cuadra el horario según la ruta del día.",
+    "faqs": [
+      {"q": "¿Sirve el GPS para una van que hace traslados a Playa Blanca y Barú?", "a": "Sí. La van se ve en la app durante el trayecto por la vía que cruza el Canal del Dique hacia Barú, siempre que haya cobertura celular. Puedes crear una geocerca en el punto de recogida y otra en la playa para saber cuándo sale y llega, y revisar las velocidades en el historial."},
+      {"q": "Mi carro se queda en el parqueadero de un edificio en Bocagrande, ¿el GPS reporta desde allí?", "a": "El equipo reporta mientras tenga señal celular; en sótanos profundos la señal puede bajar y la ubicación se actualiza al salir. Lo importante es que recibes alerta si el carro se enciende o sale de la geocerca del edificio sin que lo sepas, y en caso de robo puedes compartir su ubicación con la Policía en la línea 123."},
+      {"q": "¿Instalan GPS en camiones y maquinaria que trabajan en Mamonal?", "a": "Sí, en camiones, tractomulas y maquinaria amarilla. Seguimiento Activo es proveedor autorizado por la Policía Nacional para el rastreo satelital de maquinaria amarilla, algo útil para equipos de obra en la zona industrial. La instalación se hace en tu patio o bodega y luego revisas encendido, apagado, recorridos y reportes de uso desde la plataforma web."}
+    ],
+    "nearby": ["turbaco", "el-carmen-de-bolivar", "barranquilla", "sincelejo"]
+  },
+  {
+    "slug": "manizales",
+    "name": "Manizales",
+    "dept": "caldas",
+    "lat": 5.0703,
+    "lon": -75.5138,
+    "metro": null,
+    "lead": "GPS para carros y motos en Manizales: calles empinadas, neblina y Autopista del Café, con tu vehículo ubicado cada 30 segundos en la app Monitor-X.",
+    "intro": [
+      "Manizales está construida sobre el filo de la cordillera Central, y eso se nota al manejar: vías largas por la cresta, como la Carrera 23 y la Avenida Santander, y barrios que se descuelgan en pendientes fuertes hacia Chipre, La Enea o Bosques del Norte. La lluvia y la neblina son frecuentes, y dejar el carro parqueado en una loma es parte de la rutina. Con el GPS de Seguimiento Activo sabes dónde está tu carro o tu moto en cualquier momento, con la ubicación actualizada cada 30 segundos, y cuentas con 12 meses de historial para revisar a qué hora se movió y por qué calles pasó.",
+      "La economía de la ciudad mezcla café, industria y universidades: transportadoras que sacan café y productos de las plantas locales hacia Pereira o el Magdalena, estudiantes que se mueven entre Palogrande y El Cable, y familias que suben los fines de semana hacia la vía al Nevado o bajan a Chinchiná y Santa Rosa de Cabal. Las geocercas te avisan cuando el vehículo entra o sale de esos lugares, y las alertas de velocidad ayudan a vigilar a quien maneja en las bajadas. Frente a un robo, la ubicación en tiempo real puede compartirse con la Policía mediante la línea 123, un dato que facilita la recuperación."
+    ],
+    "uses": [
+      {"icon": "☕", "title": "Transporte de café y carga", "text": "Camiones que recogen café en fincas de Caldas y lo llevan a trilladoras o bodegas pueden registrar cada parada, el tiempo en ruta y la velocidad en las bajadas hacia Chinchiná y el Magdalena."},
+      {"icon": "🎓", "title": "Carros de estudiantes y familias", "text": "Si tu hijo estudia en Manizales y usa el carro de la familia, puedes ver desde otra ciudad dónde está, crear geocercas en la universidad o la casa y recibir alertas de exceso de velocidad."},
+      {"icon": "🏍️", "title": "Motos en ladera", "text": "Las motos son prácticas para subir y bajar las lomas de la ciudad; con GPS oculto recibes aviso si alguien la enciende sin permiso y el odómetro te recuerda el mantenimiento por kilometraje."},
+      {"icon": "🚚", "title": "Flotas que cruzan el Alto de Letras", "text": "Para vehículos que viajan hacia Mariquita, Honda y Bogotá por el Alto de Letras, el historial muestra tiempos y paradas; en tramos de páramo sin señal la ubicación se actualiza al recuperarla."}
+    ],
+    "zones": ["Centro", "Chipre", "Palermo", "La Enea", "Milán", "La Sultana", "Bosques del Norte", "Villapilar", "Los Rosales", "Palogrande", "Alta Suiza", "La Francia", "El Cable", "La Carola"],
+    "roads": [
+      {"name": "Avenida Santander", "note": "Eje que recorre la cresta desde el centro hacia El Cable y Milán; concentra comercio, universidades y vida nocturna, con muchos carros parqueados a lado y lado."},
+      {"name": "Avenida Kevin Ángel", "note": "Vía rápida del norte de la ciudad que descongestiona el centro; por ella se mueve buena parte del tráfico particular y de carga, ideal para revisar velocidades en el historial."},
+      {"name": "Autopista del Café", "note": "Une Manizales con Chinchiná, Santa Rosa de Cabal y Pereira; corredor de carga y de viajes diarios donde una geocerca avisa cuando el vehículo sale de la ciudad."},
+      {"name": "Vía Manizales–Mariquita", "note": "Cruza el Alto de Letras hacia el norte del Tolima y Bogotá; tramo de montaña, curvas y neblina en el que la señal celular puede faltar en algunos puntos."}
+    ],
+    "install_note": "En Manizales y Villamaría el técnico llega a tu casa, edificio, universidad o parqueadero; la cita se agenda por WhatsApp y en la ciudad suele quedar lista en menos de 24 horas. Si el carro está en una finca de Neira, Palestina o del corredor hacia el Nevado, se acuerda la fecha según el acceso.",
+    "faqs": [
+      {"q": "¿El GPS sigue funcionando con la lluvia y la neblina de Manizales?", "a": "Sí. La lluvia y la neblina no impiden el reporte, porque el equipo envía la ubicación por la red celular. Lo que sí puede pasar es que en un sótano profundo o en tramos de montaña sin señal la ubicación tarde en actualizarse; en cuanto el equipo recupera conexión, vuelves a ver el vehículo en tiempo real."},
+      {"q": "¿Puedo apagar el motor desde la app si mi carro está en una calle empinada?", "a": "El apagado remoto se usa con el vehículo detenido o a baja velocidad, precisamente para que sea seguro. En una ciudad de pendientes como Manizales lo recomendable es usarlo cuando el carro está parqueado o casi detenido y, si se trata de un robo, hacerlo en coordinación con la Policía a través de la línea 123."},
+      {"q": "Voy a la Feria de Manizales y dejo el carro en un parqueadero, ¿cómo lo vigilo?", "a": "Antes de dejarlo, crea una geocerca alrededor del parqueadero desde la app Monitor-X. Si el carro sale de esa zona o se enciende mientras disfrutas la feria, te llega una alerta al celular. Después también puedes revisar el historial de recorridos para confirmar que no se movió durante tu ausencia."}
+    ],
+    "nearby": ["chinchina", "santa-rosa-de-cabal", "dosquebradas", "pereira", "la-dorada"]
+  },
+  {
+    "slug": "medellin",
+    "name": "Medellín",
+    "dept": "antioquia",
+    "lat": 6.2442,
+    "lon": -75.5812,
+    "metro": "Área Metropolitana del Valle de Aburrá",
+    "lead": "GPS para carros y motos en Medellín y el Valle de Aburrá: de El Poblado a Robledo y de la Autopista Sur al Túnel de Oriente, ubicación cada 30 segundos.",
+    "intro": [
+      "Medellín ocupa el fondo y las laderas del Valle de Aburrá, y casi todo su tráfico corre paralelo al río por la Autopista Norte, la Autopista Sur y la Avenida Regional, para luego trepar hacia comunas como Manrique, Robledo, Buenos Aires o San Javier. En esa geografía la moto es protagonista: domiciliarios, mensajeros y trabajadores la prefieren porque sube lomas y esquiva trancones. Un equipo de Seguimiento Activo, instalado de forma oculta, te deja ver en la app Monitor-X dónde está tu carro o tu moto, con ubicación cada 30 segundos y un historial de recorridos de 12 meses para revisar cualquier día.",
+      "La ciudad tampoco termina en sus límites: en minutos pasas a Bello, Itagüí, Envigado o Sabaneta, y por Las Palmas o el Túnel de Oriente llegas a Rionegro y al aeropuerto José María Córdova. Con geocercas sabes cuándo tu vehículo entra o sale de la casa, la oficina o el parqueadero; con el registro de encendido y apagado confirmas quién lo usó; y con el odómetro programas el mantenimiento a tiempo. Para empresas de Guayabal o del corredor industrial del sur, los reportes de uso ayudan a controlar la flota. Si llega a ocurrir un robo, la Policía recibe tu ubicación en tiempo real a través de la línea 123."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Motos de domicilios en las laderas", "text": "Para quienes trabajan con la moto entre el centro y comunas altas como Manrique o Robledo, el GPS registra cada recorrido, avisa si la encienden sin permiso y permite apagarla desde la app cuando está detenida."},
+      {"icon": "🚕", "title": "Taxis y carros de plataforma", "text": "Si entregas tu taxi o tu carro a un conductor, ves en tiempo real por dónde trabaja, revisas el kilometraje real del turno con el odómetro y recibes alertas de velocidad en la Regional o las autopistas."},
+      {"icon": "✈️", "title": "Viajes al Oriente antioqueño", "text": "Para carros que suben a Rionegro, Llanogrande o el aeropuerto por Las Palmas o el Túnel de Oriente, las geocercas avisan al salir del valle y el historial muestra tiempos y paradas."},
+      {"icon": "🏭", "title": "Flotas de confección y distribución", "text": "Talleres de confección y distribuidoras de Guayabal, Itagüí y el centro despachan en camionetas y furgones; con reportes de uso y geocercas confirmas entregas, tiempos muertos y rutas de cada vehículo."}
+    ],
+    "zones": ["El Poblado", "Laureles", "Belén", "Robledo", "Castilla", "Manrique", "Buenos Aires", "La América", "Guayabal", "San Javier", "Aranjuez", "La Candelaria", "San Antonio de Prado", "Santa Elena"],
+    "roads": [
+      {"name": "Autopista Norte y Autopista Sur", "note": "Ejes paralelos al río que conectan Bello con Itagüí, La Estrella y Caldas; por ellos pasa gran parte de la carga que entra y sale del valle."},
+      {"name": "Avenida Regional", "note": "Vía rápida junto al río Medellín, muy usada por carros particulares y motos; con alertas de velocidad sabes si alguien maneja tu vehículo por encima del límite."},
+      {"name": "Avenida Las Palmas", "note": "Sube desde El Poblado hasta el alto y el Oriente antioqueño; tramo de pendientes y curvas donde vale la pena vigilar velocidades y paradas."},
+      {"name": "Túnel de Oriente", "note": "Conecta Medellín con Rionegro y el aeropuerto José María Córdova; útil para controlar con geocercas los viajes frecuentes al Oriente."}
+    ],
+    "install_note": "En Medellín y los municipios del Valle de Aburrá la instalación se coordina por WhatsApp; el técnico va a tu casa, unidad residencial, oficina o parqueadero y, en la ciudad, suele quedar lista en menos de 24 horas. Para Rionegro, Llanogrande u otros municipios del Oriente se acuerda la fecha según la agenda.",
+    "faqs": [
+      {"q": "¿El GPS reporta si mi carro está en el sótano de una unidad en El Poblado o Laureles?", "a": "El equipo envía la ubicación por la red celular, así que en sótanos profundos la señal puede bajar y la posición se actualiza al salir. Aun así, en la app ves la última ubicación registrada y, si el carro se enciende o sale de la geocerca del edificio, la alerta te llega en cuanto el equipo tiene señal."},
+      {"q": "¿Qué tan útil es el GPS para una moto en Medellín?", "a": "Mucho, porque la moto suele quedar parqueada en la calle y se mueve todo el día. El equipo se instala oculto, reporta cada 30 segundos y te avisa si alguien la enciende o la mueve. En caso de robo compartes la ubicación en tiempo real con la Policía por la línea 123, y con la moto detenida o a baja velocidad puedes apagar el motor desde la app."},
+      {"q": "¿Puedo seguir el carro cuando viaja a Guatapé o al Suroeste antioqueño?", "a": "Sí, mientras haya cobertura celular. En los tramos con señal de las vías hacia Guatapé, Santa Fe de Antioquia o el Suroeste lo ves en tiempo real; donde se pierde, la ubicación se actualiza al recuperarla. Después puedes revisar todo el viaje en el historial de 12 meses, con paradas, velocidades y horas de encendido."}
+    ],
+    "nearby": ["bello", "itagui", "envigado", "sabaneta", "rionegro"]
+  },
+  {
+    "slug": "pereira",
+    "name": "Pereira",
+    "dept": "risaralda",
+    "lat": 4.8133,
+    "lon": -75.6961,
+    "metro": "Área Metropolitana Centro Occidente",
+    "lead": "GPS para carros, motos y flotas en Pereira y Dosquebradas: del Viaducto a Cerritos y de Cuba a la Avenida 30 de Agosto, ubicación cada 30 segundos.",
+    "intro": [
+      "Pereira es un cruce de caminos del Eje Cafetero: por la Autopista del Café entran y salen vehículos hacia Manizales, Armenia y Cartago, y el Viaducto César Gaviria Trujillo la une con Dosquebradas en un solo flujo diario. El comercio del centro y de Cuba, las clínicas, los centros comerciales y las empresas de la ciudad mueven carros, motos y furgones a toda hora, y en la ciudad incluso se ensamblan motocicletas, así que la moto es protagonista en sus calles. La app Monitor-X te muestra dónde está tu vehículo, con ubicación cada 30 segundos, y guarda 12 meses de recorridos para revisar cualquier jornada.",
+      "Hacia el occidente, la Avenida 30 de Agosto lleva al aeropuerto Matecaña y a Cerritos, sector de condominios campestres, fincas y hoteles, y más allá a La Virginia y Cartago. Con geocercas recibes aviso cuando el vehículo sale de tu casa en Pinares, de la finca en Cerritos o del parqueadero de la empresa en Dosquebradas, y con alertas de velocidad controlas a quien conduce en la autopista. Para flotas, el odómetro con alertas de mantenimiento evita que se pasen los cambios de aceite y las revisiones. Ante un hurto, compartir la ubicación en vivo con la Policía, por la línea 123, facilita la recuperación."
+    ],
+    "uses": [
+      {"icon": "🏍️", "title": "Motos de trabajo y domicilios", "text": "Para mensajeros, domiciliarios y trabajadores que cruzan el Viaducto a diario, el GPS oculto avisa si la moto se enciende sin permiso y permite revisar cada recorrido entre Pereira y Dosquebradas."},
+      {"icon": "🏡", "title": "Fincas y condominios en Cerritos", "text": "Si tu carro o camioneta se queda en una finca o condominio de Cerritos o Combia, una geocerca te avisa cuando sale y el registro de encendido muestra si alguien la usó en tu ausencia."},
+      {"icon": "☕", "title": "Carga cafetera y agrícola", "text": "Camiones que bajan café, plátano y otros productos de las veredas de Risaralda hacia la ciudad pueden llevar control de paradas, tiempos y velocidad, con alertas de mantenimiento por kilometraje."},
+      {"icon": "🚐", "title": "Flotas empresariales y de salud", "text": "Empresas de distribución, mensajería y transporte de pacientes controlan sus vehículos con reportes de uso, geocercas en sedes y clínicas, y alertas de velocidad en la Avenida Circunvalar y la autopista."}
+    ],
+    "zones": ["Centro", "Cuba", "Boston", "Villavicencio", "El Jardín", "San Joaquín", "Villa Santana", "El Poblado", "Pinares de San Martín", "Universidad", "Cerritos", "Combia", "Caimalito", "Puerto Caldas"],
+    "roads": [
+      {"name": "Autopista del Café", "note": "Une Pereira con Manizales, Armenia y Cartago; corredor de carga y de viajes diarios donde las alertas de velocidad ayudan a controlar a los conductores."},
+      {"name": "Avenida 30 de Agosto", "note": "Conecta el centro con el aeropuerto Matecaña y Cerritos; vía de mucho tráfico mixto en la que el historial muestra paradas y tiempos reales."},
+      {"name": "Viaducto César Gaviria Trujillo", "note": "Paso diario entre Pereira y Dosquebradas; con geocercas a cada lado sabes a qué hora cruza tu vehículo y si regresa cuando debe."},
+      {"name": "Variante La Romelia–El Pollo", "note": "Une Dosquebradas con la salida hacia Cerritos y Cartago sin cruzar el centro de Pereira; ruta habitual de camiones y tractomulas."}
+    ],
+    "install_note": "En Pereira, Dosquebradas y Santa Rosa de Cabal el técnico va a tu casa, conjunto, empresa o parqueadero; se cuadra por WhatsApp y en la zona urbana suele quedar listo en menos de 24 horas. Para fincas en Cerritos, Combia o La Florida se acuerdan la fecha y el punto de encuentro.",
+    "faqs": [
+      {"q": "¿Puedo vigilar desde Pereira un carro que se queda en Dosquebradas?", "a": "Sí. El GPS no distingue municipios: mientras haya cobertura celular ves el carro en la app Monitor-X o en la plataforma web desde cualquier lugar. Puedes crear una geocerca en la casa de Dosquebradas y otra en tu trabajo en Pereira, y recibir avisos de entrada y salida en cada una."},
+      {"q": "Tengo una finca en Cerritos, ¿sirve el GPS para la camioneta que se queda allá?", "a": "Sí, y es uno de los usos más prácticos. Creas una geocerca alrededor de la finca y te llega una alerta si la camioneta sale o se enciende cuando no hay nadie autorizado. En caso de robo, compartes la ubicación en tiempo real con la Policía por la línea 123 para facilitar la recuperación."},
+      {"q": "¿Conviene ponerle GPS a una moto nueva comprada en Pereira?", "a": "Sí, sobre todo mientras todavía la estás pagando. El técnico instala el equipo oculto, lo configura contigo y te enseña a usar la app. Desde ese día recibes alertas de encendido y movimiento, ves cada recorrido en el historial y el odómetro te avisa cuándo toca el mantenimiento por kilometraje."}
+    ],
+    "nearby": ["dosquebradas", "santa-rosa-de-cabal", "cartago", "manizales", "armenia"]
+  },
+  {
+    "slug": "tunja",
+    "name": "Tunja",
+    "dept": "boyaca",
+    "lat": 5.5353,
+    "lon": -73.3678,
+    "metro": null,
+    "lead": "GPS para carros, motos y camiones en Tunja: del Centro Histórico a Los Muiscas y de la doble calzada BTS a la vía a Villa de Leyva, todo desde tu celular.",
+    "intro": [
+      "Tunja es una ciudad fría y de altura, capital administrativa y universitaria de Boyacá, atravesada por la doble calzada que une Bogotá con Duitama y Sogamoso. Ese doble papel se refleja en sus vías: en el Centro Histórico se mueven funcionarios, estudiantes y comerciantes entre las carreras 10 y 12, mientras por la Avenida Oriental y la Avenida Universitaria circulan buses, motos y carros hacia la UPTC y el norte. El servicio de Seguimiento Activo pone en tu celular, a través de la app Monitor-X, la ubicación de tu vehículo cada 30 segundos y un historial de recorridos de 12 meses.",
+      "Tunja también es centro de abastecimiento para el campo boyacense: camiones con papa, hortalizas, leche y otros productos llegan de los municipios vecinos y salen hacia Bogotá por la BTS, y muchas familias tienen fincas en veredas como Runta o Pirgua. Con geocercas recibes aviso cuando un vehículo sale de la ciudad o llega a su destino, con el registro de encendido sabes si alguien lo usó de madrugada y con el odómetro programas el mantenimiento. Si el vehículo es robado, puedes entregar su posición en tiempo real a la Policía llamando a la línea 123, lo que facilita su recuperación."
+    ],
+    "uses": [
+      {"icon": "🥔", "title": "Camiones de papa, leche y abastos", "text": "Para transportadores que mueven productos del campo boyacense hacia Tunja y Bogotá, el historial muestra paradas, horarios y velocidad en la doble calzada, y las alertas de mantenimiento cuidan el camión."},
+      {"icon": "🎓", "title": "Carros y motos de estudiantes", "text": "Si tu hijo estudia en la UPTC u otra universidad de Tunja y tiene carro o moto, puedes ver dónde está, crear geocercas en la casa y la universidad y recibir alertas de exceso de velocidad."},
+      {"icon": "🏛️", "title": "Vehículos de contratistas y entidades", "text": "Entidades, contratistas y empresas que visitan municipios de Boyacá pueden verificar con reportes de uso los recorridos de cada vehículo, los kilómetros y el tiempo que permanece detenido en cada sitio."},
+      {"icon": "🚜", "title": "Maquinaria amarilla y agrícola", "text": "Seguimiento Activo es proveedor autorizado por la Policía Nacional para rastreo de maquinaria amarilla; retroexcavadoras, volquetas y tractores en obras o fincas alrededor de Tunja quedan con ubicación y registro de encendido."}
+    ],
+    "zones": ["Centro Histórico", "Los Muiscas", "Santa Inés", "Los Patriotas", "Libertador", "Cooservicios", "Las Quintas", "Altamira", "San Lázaro", "Bello Horizonte", "El Carmen", "Bachué", "Runta", "Pirgua"],
+    "roads": [
+      {"name": "Doble calzada Bogotá–Tunja", "note": "Pasa por Ventaquemada y el Puente de Boyacá; corredor de carga y de viajeros donde las alertas de velocidad ayudan a controlar a quien conduce."},
+      {"name": "Troncal BTS hacia Paipa, Duitama y Sogamoso", "note": "Conecta Tunja con el corredor industrial del norte de Boyacá; útil para seguir camiones y vehículos de empresas que trabajan entre estas ciudades."},
+      {"name": "Vía Tunja–Villa de Leyva", "note": "Ruta turística de fin de semana; con geocercas sabes cuándo sale el carro de la ciudad y el historial guarda paradas y tiempos de viaje."},
+      {"name": "Avenida Oriental", "note": "Bordea el Centro Histórico por el oriente y recibe buena parte del tráfico urbano; el GPS registra tiempos y recorridos diarios de cada vehículo."}
+    ],
+    "install_note": "En Tunja el técnico va a tu casa, conjunto, oficina o parqueadero, y también atiende municipios vecinos como Cómbita, Oicatá o Soracá. Agendas por WhatsApp y en la ciudad suele quedar listo en menos de 24 horas. Para Duitama, Sogamoso, Paipa, Villa de Leyva u otros municipios de Boyacá se acuerda la fecha con anticipación.",
+    "faqs": [
+      {"q": "¿El GPS sirve en la doble calzada entre Tunja y Bogotá?", "a": "Sí. El equipo reporta por la red celular, así que en los tramos con señal ves el vehículo en tiempo real y después puedes revisar paradas y velocidades en el historial. Si en algún punto la señal baja, la ubicación se actualiza cuando el equipo la recupera. Es útil tanto para el carro familiar como para camiones de carga."},
+      {"q": "¿Instalan en otros municipios de Boyacá además de Tunja?", "a": "Sí, la instalación es a domicilio en todo Boyacá. En Tunja suele hacerse en menos de 24 horas; en Duitama, Sogamoso, Paipa, Chiquinquirá, Villa de Leyva y municipios más apartados se agenda la fecha por WhatsApp. Una vez instalado, el GPS funciona donde haya cobertura de red celular, incluidas las veredas que tengan señal."},
+      {"q": "¿Sirve para motos en Tunja?", "a": "Sí. En la moto el equipo va oculto y te avisa si alguien la enciende o la mueve sin permiso, algo útil si la dejas parqueada cerca del Centro Histórico o de la universidad. Además, el odómetro te recuerda el mantenimiento por kilometraje y puedes apagar el motor desde la app con la moto detenida o a baja velocidad."}
+    ],
+    "nearby": ["duitama", "sogamoso", "chiquinquira", "bogota"]
+  },
+  {
+    "slug": "riohacha",
+    "name": "Riohacha",
+    "dept": "la-guajira",
+    "lat": 11.5444,
+    "lon": -72.9072,
+    "metro": null,
+    "lead": "GPS para carros, camionetas y motos en Riohacha y La Guajira: control en la Troncal del Caribe, la vía a Maicao y los viajes al Cabo de la Vela.",
+    "intro": [
+      "Riohacha, capital de La Guajira y distrito especial, se extiende entre el mar Caribe y la desembocadura del río Ranchería, con un centro compacto alrededor de la Avenida La Marina, que todos llaman La Primera, y barrios que crecen hacia el aeropuerto, Boca Grande y El Dividivi. De aquí salen a diario camionetas de turismo hacia el Cabo de la Vela y Punta Gallinas, vehículos que van y vienen de Maicao y camiones que abastecen la ciudad por la Troncal del Caribe. Con un GPS de Seguimiento Activo ves en la app Monitor-X dónde está tu vehículo, con ubicación cada 30 segundos donde haya señal.",
+      "La Guajira es extensa, caliente y en buena parte desértica, con largas distancias entre poblaciones, así que conviene ser claros sobre cómo funciona el servicio: el GPS reporta donde hay cobertura de red celular, que es más estable en Riohacha, Maicao, Uribia y los cascos urbanos, y limitada en buena parte de la Alta Guajira. En los tramos sin señal la ubicación se actualiza cuando el equipo la recupera, y el recorrido queda en el historial de 12 meses. Si te roban el vehículo, la ubicación en tiempo real se puede compartir con la Policía en la línea 123 para facilitar la recuperación."
+    ],
+    "uses": [
+      {"icon": "🏜️", "title": "Camionetas de turismo a la Alta Guajira", "text": "Operadores que llevan visitantes al Cabo de la Vela o Punta Gallinas ven el recorrido mientras haya señal y, al regresar a zonas con cobertura, revisan en el historial paradas, tiempos y velocidad de cada viaje."},
+      {"icon": "🚚", "title": "Carga y comercio con Maicao", "text": "Comerciantes y transportadores que se mueven entre Riohacha, Cuatro Vías y Maicao pueden controlar horarios, paradas y velocidad en la carretera, con geocercas en bodegas y locales de cada ciudad."},
+      {"icon": "🏍️", "title": "Motos para moverse en la ciudad", "text": "La moto es transporte diario en barrios como Coquivacoa, Los Almendros o José Antonio Galán; con GPS oculto recibes alertas de encendido y movimiento y puedes apagar el motor con la moto detenida."},
+      {"icon": "🏗️", "title": "Contratistas y vehículos de obra", "text": "Empresas que hacen obras, interventorías o visitas a corregimientos como Camarones, Tomarrazón o Matitas controlan sus camionetas y su maquinaria con reportes de uso y registro de encendido y apagado."}
+    ],
+    "zones": ["Centro", "Barrio Arriba", "Coquivacoa", "José Antonio Galán", "Marbella", "Cooperativo", "El Libertador", "Aeropuerto", "Boca Grande", "Villa Fátima", "Ciudadela El Dividivi", "Los Almendros", "Camarones", "Tomarrazón"],
+    "roads": [
+      {"name": "Troncal del Caribe hacia Santa Marta", "note": "Pasa por Palomino y bordea la Sierra Nevada hasta Santa Marta; ruta de turismo y carga donde las alertas de velocidad ayudan en los viajes largos."},
+      {"name": "Vía Riohacha–Maicao", "note": "Pasa por Cuatro Vías, el cruce hacia Uribia y Manaure; corredor clave para el comercio de frontera en el que las geocercas confirman salidas y llegadas."},
+      {"name": "Vía a Valledupar por Cuestecitas", "note": "Sale hacia Cuestecitas, San Juan del Cesar y Valledupar; tramo largo y caluroso donde conviene revisar tiempos, paradas y velocidad en el historial."},
+      {"name": "Avenida La Marina (La Primera)", "note": "Eje frente al mar donde se concentran hoteles, comercio y parqueo de visitantes; con una geocerca sabes si el carro se mueve mientras paseas por el malecón."}
+    ],
+    "install_note": "En Riohacha la instalación se coordina por WhatsApp y el técnico va a tu casa, negocio o parqueadero en el día y la hora que acuerden. Para Maicao, Uribia, Manaure, Dibulla o corregimientos del distrito se agendan con anticipación la fecha y un punto de encuentro con buena señal celular.",
+    "faqs": [
+      {"q": "¿Funciona el GPS en la Alta Guajira, camino al Cabo de la Vela o Punta Gallinas?", "a": "Funciona donde haya cobertura de red celular. En Uribia y en parte del camino hay señal, pero en zonas de la Alta Guajira la cobertura es limitada o no existe. En esos tramos la ubicación se actualiza cuando el equipo recupera la señal, y al volver puedes ver el recorrido en el historial de 12 meses."},
+      {"q": "¿Cubren Maicao y la zona de frontera?", "a": "Sí, se instala en Maicao y la fecha se coordina por WhatsApp. El equipo reporta por la red celular y el servicio está pensado para el territorio colombiano. Con una geocerca alrededor de tu negocio en Maicao o en el camino hacia Paraguachón, recibes aviso cada vez que el vehículo entra o sale de esa zona."},
+      {"q": "¿Sirve para camionetas de turismo que salen desde Riohacha?", "a": "Sí, y es un uso muy práctico aquí. El dueño ve la camioneta en tiempo real mientras haya señal, recibe alertas de velocidad y, con el registro de encendido y apagado, sabe a qué hora salió y regresó. El odómetro con alertas de mantenimiento ayuda a cuidar un vehículo que trabaja en arena y trochas."}
+    ],
+    "nearby": ["maicao", "santa-marta", "valledupar"]
+  },
+  {
+    "slug": "sincelejo",
+    "name": "Sincelejo",
+    "dept": "sucre",
+    "lat": 9.3047,
+    "lon": -75.3978,
+    "metro": null,
+    "lead": "GPS para motos, carros y camiones ganaderos en Sincelejo: de Majagual a Venecia y por la Troncal de Occidente, con tu vehículo en el mapa cada 30 segundos.",
+    "intro": [
+      "Sincelejo es la capital de las sabanas de Sucre, una ciudad ganadera y comercial atravesada por la Troncal de Occidente, que la une con El Carmen de Bolívar y Cartagena al norte y con Sampués, Chinú y Sahagún hacia el sur. En sus calles la moto manda: el mototaxismo es fuente de trabajo para muchas familias, y buena parte de los recorridos cortos entre el centro, Majagual, Venecia o Las Margaritas se hacen en dos ruedas. Con un GPS de Seguimiento Activo, instalado de forma oculta, ves en la app Monitor-X dónde está tu moto o tu carro, con ubicación cada 30 segundos y 12 meses de historial.",
+      "Más allá del casco urbano, el vehículo de trabajo es la camioneta o el camión ganadero que entra a fincas por carreteables, lleva animales a subastas y ferias y regresa con insumos. Los fines de semana, muchos bajan al Golfo de Morrosquillo por Toluviejo hasta Tolú y Coveñas. Con geocercas sabes cuándo un vehículo sale de la finca o llega a la playa, y con alertas de velocidad cuidas a quien conduce. El GPS reporta donde haya cobertura celular; en caminos rurales sin señal, la ubicación se actualiza al recuperarla. Y si ocurre un robo, la Policía puede recibir tu ubicación en vivo a través de la línea 123."
+    ],
+    "uses": [
+      {"icon": "🛵", "title": "Mototaxis y motos de trabajo", "text": "Si tu moto es tu sustento o la entregas a otro conductor, el GPS muestra por dónde trabaja, registra encendido y apagado, avisa si la mueven sin permiso y permite apagarla con la moto detenida."},
+      {"icon": "🐄", "title": "Camiones y camionetas ganaderas", "text": "Para el transporte de ganado entre fincas de las sabanas, subastas y plantas de sacrificio, el historial guarda rutas, paradas y tiempos, y el odómetro programa el mantenimiento por kilometraje."},
+      {"icon": "🏖️", "title": "Viajes al Golfo de Morrosquillo", "text": "Carros familiares y vans de turismo que van a Tolú, Coveñas o al embarque hacia las islas de San Bernardo quedan visibles en la app, con geocercas que avisan al salir y al llegar."},
+      {"icon": "🛒", "title": "Distribución comercial en Sucre", "text": "Distribuidoras que surten tiendas en Sincelejo, Corozal, Sampués y otros municipios controlan con reportes de uso las rutas, los tiempos de entrega y la velocidad de cada vehículo de reparto."}
+    ],
+    "zones": ["Centro", "Majagual", "Venecia", "La Ford", "El Cortijo", "Los Alpes", "Las Margaritas", "Las Colinas", "Los Libertadores", "La Campiña", "Normandía", "Chochó", "Sierra Flor"],
+    "roads": [
+      {"name": "Troncal de Occidente", "note": "Atraviesa la ciudad y la conecta con El Carmen de Bolívar y Cartagena al norte y con Sampués, Chinú y Sahagún al sur; corredor de carga, buses y ganado."},
+      {"name": "Vía Sincelejo–Tolú", "note": "Baja por Toluviejo hacia el Golfo de Morrosquillo; ruta de fin de semana y de temporada donde las geocercas avisan cuándo sale y llega el carro."},
+      {"name": "Vía Sincelejo–Corozal", "note": "Corredor corto y transitado hacia Corozal y el aeropuerto Las Brujas; útil para seguir taxis, transporte de pasajeros y vehículos que trabajan en ambos municipios."}
+    ],
+    "install_note": "En Sincelejo coordinas la instalación por WhatsApp y el técnico va a tu casa, negocio, parqueadero o patio; también se atiende Corozal y Sampués. Para fincas en las sabanas o vehículos que están en Tolú y Coveñas se acuerdan una fecha y un punto de encuentro con señal celular.",
+    "faqs": [
+      {"q": "¿Funciona el GPS en las fincas y caminos rurales de Sucre?", "a": "Sí, siempre que haya señal de red celular. En la ciudad, los cascos urbanos y las vías principales la señal suele ser suficiente; en algunos carreteables y fincas apartadas puede faltar, y en esos tramos la ubicación se actualiza cuando el equipo vuelve a tener señal. El recorrido queda guardado en el historial de 12 meses."},
+      {"q": "Tengo una moto que trabaja como mototaxi, ¿cómo me ayuda el GPS?", "a": "Ves en tiempo real por dónde anda la moto, a qué hora se encendió y se apagó y cuántos kilómetros recorrió en el día, algo que sirve mucho si la trabaja otra persona. Si alguien la mueve sin permiso recibes una alerta, y en caso de robo compartes la ubicación con la Policía por la línea 123 para facilitar la recuperación."},
+      {"q": "¿Sirve para el carro en el que viajo a Tolú y Coveñas en temporada?", "a": "Sí. Puedes crear una geocerca en tu casa de Sincelejo y otra en el sitio donde te hospedas en Tolú o Coveñas para saber cuándo sale y llega el carro. Si lo dejas parqueado mientras estás en la playa o paseando por las islas, te llega una alerta si se enciende o se mueve sin autorización."}
+    ],
+    "nearby": ["corozal", "el-carmen-de-bolivar", "sahagun", "lorica", "monteria"]
+  }
+]

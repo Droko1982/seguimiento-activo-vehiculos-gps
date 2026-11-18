@@ -1,0 +1,2157 @@
+[
+  {
+    "slug": "soacha",
+    "name": "Soacha",
+    "dept": "cundinamarca",
+    "lat": 4.5794,
+    "lon": -74.2168,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS para carros, motos y camiones en Soacha: sigue tu vehículo en la Autopista Sur, Ciudad Verde o San Mateo desde el celular, con alertas al instante.",
+    "intro": [
+      "Soacha es la puerta sur de Bogotá, y buena parte de su gente cruza todos los días la Autopista Sur para trabajar, estudiar o repartir mercancía. Entre Compartir, León XIII, Terreros, San Mateo y los conjuntos de Ciudad Verde se mueven a diario motos, carros particulares, busetas y camiones que salen hacia la capital o hacia la vía a Girardot. En ese ir y venir, saber dónde está tu vehículo deja de ser un lujo: con Seguimiento Activo GPS lo ves en el mapa de la app Monitor-X, con ubicación actualizada cada 30 segundos y un historial de recorridos de 12 meses.",
+      "El servicio se adapta a la realidad del municipio: parqueaderos de conjunto, motos que pasan la noche en la calle o en garajes compartidos, y transportadores que hacen rutas cortas entre las bodegas de Soacha, Bosa y el sur de Bogotá. Puedes crear geocercas alrededor de tu casa o del sitio de trabajo, recibir alertas de encendido y de velocidad, y apagar el motor desde el celular con el vehículo detenido o a baja velocidad. La instalación cuesta $120.000 una sola vez, la mensualidad es de $47.600 y no hay cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🏍️",
+        "title": "Motos de trabajo y domicilios",
+        "text": "En Soacha la moto es transporte y herramienta de trabajo. El GPS te avisa si alguien la enciende de madrugada y te deja ver su recorrido, algo clave si la parqueas en la calle o en un garaje compartido."
+      },
+      {
+        "icon": "🚗",
+        "title": "Carro familiar en Ciudad Verde",
+        "text": "Si vives en un conjunto de Ciudad Verde, Hogares Soacha o Maiporé, crea una geocerca alrededor del parqueadero y recibe una notificación cada vez que el carro salga o entre, sin depender de la portería."
+      },
+      {
+        "icon": "🚚",
+        "title": "Reparto entre Soacha y el sur de Bogotá",
+        "text": "Para quien reparte entre Soacha, Bosa, Kennedy y el sur de la capital, el historial muestra paradas, horas de salida y kilómetros, y ayuda a revisar entregas y tiempos perdidos en la Autopista Sur."
+      },
+      {
+        "icon": "🚌",
+        "title": "Busetas y rutas escolares",
+        "text": "Los dueños de busetas y rutas escolares ven en la plataforma web dónde va cada vehículo, reciben alertas de exceso de velocidad y pueden confirmar a qué hora pasó la ruta por cada barrio."
+      }
+    ],
+    "zones": [
+      "Compartir",
+      "Soacha Central",
+      "La Despensa",
+      "Cazucá",
+      "San Mateo",
+      "San Humberto",
+      "Ciudad Verde",
+      "León XIII",
+      "Ciudadela Sucre",
+      "Hogares Soacha",
+      "Terreros",
+      "Maiporé",
+      "Chusacá",
+      "El Charquito"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Sur",
+        "note": "Es el corredor diario hacia Bogotá y comparte espacio con TransMilenio; en los trancones el GPS registra paradas, demoras y horas reales de llegada."
+      },
+      {
+        "name": "Vía Bogotá–Girardot (salida por Chusacá)",
+        "note": "Después del peaje de Chusacá la vía sigue hacia Silvania y Fusagasugá; sirve para seguir viajes de carga y paseos hacia tierra caliente."
+      },
+      {
+        "name": "Vía a Sibaté",
+        "note": "Ramal que se desprende de la Autopista Sur hacia Sibaté y zonas rurales; las geocercas avisan si un vehículo se sale de su ruta habitual."
+      },
+      {
+        "name": "Avenida Indumil",
+        "note": "Enlace con Mosquera y la Sabana de Occidente; el historial ayuda a revisar recorridos y tiempos de quienes trabajan o reparten entre ambos municipios."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp con tu dirección en Soacha y el tipo de vehículo. El técnico va a tu casa, al parqueadero del conjunto o al sitio de trabajo, y por la cercanía con Bogotá la cita suele agendarse rápido. La instalación queda oculta y sales con la app configurada.",
+    "faqs": [
+      {
+        "q": "¿El GPS sirve en los trancones de la Autopista Sur?",
+        "a": "Sí. El equipo reporta por red celular y actualiza la posición cada 30 segundos aunque el vehículo esté casi detenido. En el historial puedes ver cuánto tiempo estuvo parado y a qué hora llegó a cada punto, algo útil si manejas un vehículo de reparto o quieres entender por qué se demoró un conductor."
+      },
+      {
+        "q": "Vivo en Ciudad Verde y parqueo la moto en la calle, ¿qué hago si me la roban?",
+        "a": "Abre la app Monitor-X, mira la ubicación en tiempo real y llama a la línea 123 para compartirla con la Policía; eso facilita la recuperación. Si la moto está detenida o va a baja velocidad, puedes enviar el apagado remoto del motor desde el celular. No intentes recuperarla por tu cuenta."
+      },
+      {
+        "q": "¿Puedo controlar un camión que sale de Soacha hacia Girardot?",
+        "a": "Sí. El GPS funciona en todo el recorrido donde haya cobertura celular, y si en algún tramo se pierde la señal, la ubicación se actualiza cuando el equipo la recupera. Puedes configurar alertas de velocidad, revisar paradas y kilómetros, y programar avisos de mantenimiento por kilometraje para no pasarte de los cambios de aceite."
+      }
+    ],
+    "nearby": [
+      "bogota",
+      "mosquera",
+      "funza",
+      "fusagasuga"
+    ]
+  },
+  {
+    "slug": "chia",
+    "name": "Chía",
+    "dept": "cundinamarca",
+    "lat": 4.8589,
+    "lon": -74.0586,
+    "metro": "Sabana de Bogotá",
+    "lead": "Rastreo GPS en Chía para quien va y viene por la Autopista Norte: ubica tu carro entre Fonquetá, el centro y Bogotá, y recibe alertas en tiempo real.",
+    "intro": [
+      "Chía pasó de ser un pueblo de la Sabana a uno de los municipios más buscados para vivir cerca de Bogotá. Hoy conviven veredas tradicionales como Fonquetá, Tíquiza y Cerca de Piedra con conjuntos residenciales, centros comerciales grandes, restaurantes de fin de semana y campus como el de la Universidad de La Sabana. Esa mezcla produce mucho tráfico en la Avenida Pradilla, en la salida por la Autopista Norte y en la vía hacia Cota, y también muchos carros que pasan horas parqueados en lugares que no siempre tienen vigilancia.",
+      "Con Seguimiento Activo GPS ves tu vehículo en la app Monitor-X y en la plataforma web, con la posición actualizada cada 30 segundos. Si tus hijos usan el carro para ir a la universidad, si arriendas un vehículo a un conductor de plataforma o si tienes una camioneta en una finca de Yerbabuena, puedes revisar recorridos de hasta 12 meses, poner geocercas y recibir alertas de velocidad. Pagas $120.000 una vez por la instalación y $47.600 al mes, sin cláusula de permanencia y con el equipo en comodato."
+    ],
+    "uses": [
+      {
+        "icon": "🎓",
+        "title": "Carro de estudiantes universitarios",
+        "text": "Muchos jóvenes manejan a diario hacia los campus de Chía. Con la app sabes a qué hora salió el carro, por dónde fue y si superó el límite de velocidad que tú definas, sin tener que llamar a cada rato."
+      },
+      {
+        "icon": "🚕",
+        "title": "Conductores de plataformas",
+        "text": "Si entregas tu carro a un conductor de aplicación, el historial muestra kilómetros, horarios de encendido y zonas recorridas, y te ayuda a llevar cuentas claras de los turnos entre Chía, Cota y el norte de Bogotá."
+      },
+      {
+        "icon": "🏡",
+        "title": "Casas y fincas en las veredas",
+        "text": "En Fagua, La Balsa o Fusca hay casas con garaje alejado de la vía. Una geocerca te avisa cuando el vehículo sale del predio, aunque estés trabajando en Bogotá."
+      },
+      {
+        "icon": "🚐",
+        "title": "Furgones de restaurantes y comercio",
+        "text": "Los negocios de comida y los comercios que abastecen a Chía pueden seguir sus furgones de entrega, revisar paradas y programar alertas de mantenimiento por kilometraje para no fallar en temporada alta."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Fagua",
+      "Tíquiza",
+      "Fonquetá",
+      "Cerca de Piedra",
+      "Bojacá",
+      "La Balsa",
+      "Samaria",
+      "Yerbabuena",
+      "Fusca"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Norte",
+        "note": "Es la salida principal hacia Bogotá y se congestiona en horas pico; el historial te muestra cuánto tardó realmente cada trayecto y dónde se detuvo el vehículo."
+      },
+      {
+        "name": "Avenida Pradilla",
+        "note": "Eje comercial del casco urbano con mucho movimiento de carros y motos; la alerta de encendido avisa si alguien usa el vehículo mientras haces diligencias."
+      },
+      {
+        "name": "Vía Chía–Cota",
+        "note": "Comunica con Cota, Siberia y la Calle 80; la usan transportadores y trabajadores de las zonas empresariales del occidente de la Sabana."
+      },
+      {
+        "name": "Vía Chía–Cajicá",
+        "note": "Conecta con Cajicá y Zipaquirá entre conjuntos y comercio; una geocerca te avisa cuando el carro sale del municipio y a qué hora regresa."
+      }
+    ],
+    "install_note": "Coordinamos por WhatsApp: nos dices si el vehículo está en tu casa, en un conjunto, en el parqueadero de la universidad o en una finca de vereda, y el técnico llega allí. Al estar tan cerca de Bogotá, la cita suele agendarse con rapidez y la instalación queda oculta.",
+    "faqs": [
+      {
+        "q": "¿Me sirve el GPS si dejo el carro todo el día en el parqueadero de la universidad?",
+        "a": "Sí. Puedes crear una geocerca alrededor del campus y la app te avisará si el carro sale antes de la hora habitual. Además recibes alertas de encendido, así que si alguien lo prende sin permiso lo sabrás en el momento y podrás actuar sin esperar a que termine la jornada de clases."
+      },
+      {
+        "q": "¿Funciona en las veredas de Chía, lejos del casco urbano?",
+        "a": "El GPS reporta por red celular, y por la cercanía con Bogotá las veredas de Chía por lo general tienen buena cobertura. Si en algún punto la señal se debilita, la ubicación se actualiza en cuanto el equipo la recupera. Las alertas y geocercas siguen configuradas todo el tiempo."
+      },
+      {
+        "q": "¿Puedo apagar el carro desde la app si lo roban en la Autopista Norte?",
+        "a": "La app permite el apagado remoto del motor, pensado para usarse con el vehículo detenido o a baja velocidad, por la seguridad de todos en la vía. Lo recomendable es ver la ubicación en tiempo real, llamar a la línea 123 y compartirla con la Policía para facilitar la recuperación, y enviar el apagado cuando las condiciones lo permitan."
+      }
+    ],
+    "nearby": [
+      "bogota",
+      "cajica",
+      "zipaquira",
+      "funza"
+    ]
+  },
+  {
+    "slug": "zipaquira",
+    "name": "Zipaquirá",
+    "dept": "cundinamarca",
+    "lat": 5.0225,
+    "lon": -74.005,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS para vehículos en Zipaquirá: controla tu carro, moto o camión entre la Catedral de Sal, Algarra y las veredas, con rastreo cada 30 segundos.",
+    "intro": [
+      "Zipaquirá es la capital salinera de Colombia y la capital de la provincia de Sabana Centro. La Catedral de Sal atrae turistas todo el año, el centro histórico se llena de visitantes los fines de semana y, al mismo tiempo, la ciudad presta servicios a municipios vecinos como Cogua, Nemocón y Tabio. Por sus calles se mueven vans de turismo, camiones de leche y de papa que bajan de las veredas, carros de quienes trabajan en Bogotá y motos que conectan barrios como Algarra, San Pablo y Julio Caro.",
+      "La geografía también cuenta: hacia el occidente están veredas altas como Ríofrío, El Empalizado y el Páramo de Guerrero, con ganadería lechera y caminos destapados, mientras hacia el norte y el oriente salen las vías a Ubaté y a Nemocón. Con Seguimiento Activo GPS ves tu vehículo en la app Monitor-X, recibes alertas de encendido y de velocidad y revisas recorridos de 12 meses. Donde la señal celular sea débil en el páramo, la ubicación se actualiza cuando el equipo recupera cobertura. Instalación de $120.000 y mensualidad de $47.600, sin permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🥛",
+        "title": "Camiones lecheros y de papa",
+        "text": "Los vehículos que recogen leche o bajan papa de las veredas altas hacen rutas tempranas y por caminos destapados. El GPS registra horas de salida, paradas y kilómetros para que el dueño tenga control de cada recorrido."
+      },
+      {
+        "icon": "🚐",
+        "title": "Turismo hacia la Catedral de Sal",
+        "text": "Las vans y busetas que traen visitantes desde Bogotá le muestran al operador la ruta completa del día, los tiempos de espera en el parqueadero y cualquier exceso de velocidad en la carretera."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en Algarra y San Pablo",
+        "text": "En Algarra, San Pablo o La Esperanza la moto se usa para todo. Las alertas de encendido te avisan si alguien la prende cuando está guardada, y la geocerca indica si sale del barrio."
+      },
+      {
+        "icon": "🏗️",
+        "title": "Volquetas y maquinaria amarilla",
+        "text": "Con el crecimiento de vivienda hay volquetas y maquinaria amarilla trabajando en obras. Somos proveedor autorizado por la Policía Nacional para el rastreo de maquinaria amarilla, con reportes de horas de encendido."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "La Concepción",
+      "San Juanito",
+      "Samaria",
+      "La Esperanza",
+      "Liberia",
+      "San Pablo",
+      "Algarra",
+      "Julio Caro",
+      "Barandillas",
+      "Ríofrío",
+      "El Empalizado",
+      "Paso Ancho",
+      "San Jorge"
+    ],
+    "roads": [
+      {
+        "name": "Corredor Zipaquirá–Cajicá–Chía",
+        "note": "Es la ruta diaria de quienes trabajan en Bogotá; el historial muestra horas de salida y regreso, y si el vehículo se detuvo en el camino."
+      },
+      {
+        "name": "Vía Zipaquirá–Briceño",
+        "note": "Sale por la calle 4 hacia Briceño y la Autopista Norte; alternativa para conectar con Bogotá sin pasar por Chía, útil para controlar rutas de carga."
+      },
+      {
+        "name": "Vía Zipaquirá–Ubaté",
+        "note": "Lleva hacia la provincia de Ubaté y Chiquinquirá; por ella circula carga pesada, y las alertas de velocidad ayudan a controlar a los conductores en las curvas."
+      },
+      {
+        "name": "Vía Zipaquirá–Pacho",
+        "note": "Baja hacia Pacho por Ríofrío, con curvas y cambios de clima; si en algún tramo cae la señal celular, la ubicación se actualiza al recuperarla."
+      }
+    ],
+    "install_note": "Agenda por WhatsApp y el técnico va a tu casa, finca o negocio en Zipaquirá. Si el vehículo está en una vereda alta, cuéntanos el sector para coordinar la fecha y la hora con anticipación. Siempre sales con la app instalada y una explicación de cómo usarla.",
+    "faqs": [
+      {
+        "q": "¿Sirve para un camión que recoge leche en las veredas?",
+        "a": "Sí. Puedes crear una geocerca en cada finca o punto de acopio y recibir un aviso cuando el camión llega y se va. En el historial ves la ruta completa de la madrugada, las paradas y los kilómetros, útil para cuadrar pagos con el conductor y detectar desvíos. Las alertas de velocidad ayudan en los caminos destapados."
+      },
+      {
+        "q": "¿El GPS funciona en el Páramo de Guerrero y en las veredas altas?",
+        "a": "Funciona donde haya cobertura de red celular. En las partes altas puede haber puntos con señal débil; en esos tramos la ubicación se actualiza cuando el equipo recupera la conexión. Antes de instalar puedes contarnos la vereda exacta y te explicamos qué esperar según la zona."
+      },
+      {
+        "q": "¿Cuánto cuesta el servicio en Zipaquirá?",
+        "a": "El precio es el mismo en todo el país: $120.000 por la instalación, que se paga una sola vez e incluye el equipo en comodato, la instalación oculta y la capacitación. Luego pagas $47.600 al mes, con rastreo 24/7, alertas ilimitadas y soporte técnico. No hay cláusula de permanencia."
+      }
+    ],
+    "nearby": [
+      "cajica",
+      "chia",
+      "bogota",
+      "chiquinquira"
+    ]
+  },
+  {
+    "slug": "facatativa",
+    "name": "Facatativá",
+    "dept": "cundinamarca",
+    "lat": 4.8136,
+    "lon": -74.3545,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS en Facatativá para carros, motos y transporte de flores: ubica tu vehículo en la Calle 13, Cartagenita o las veredas, con alertas al instante.",
+    "intro": [
+      "Facatativá es la puerta occidental de la Sabana de Bogotá. Aquí llega el corredor de la Calle 13 que pasa por Mosquera y Madrid, y de aquí salen las vías que bajan hacia Albán y Villeta por el Alto de La Tribuna. La floricultura es la actividad que más empleo genera: las llamadas floras reciben a diario buses de trabajadores, camiones con flor y motos que se mueven entre veredas como Mancilla, La Selva o Pueblo Viejo. A eso se suman empresas de alimentos, el comercio del centro y una ciudad que crece hacia Cartagenita y Manablanca.",
+      "Para ese movimiento, Seguimiento Activo GPS te da ubicación cada 30 segundos en la app Monitor-X, alertas de encendido y velocidad, geocercas con registro de entrada y salida, y reportes de uso en la plataforma web. Sirve tanto para el carro de la familia que duerme en la calle como para la flota que saca la flor hacia Bogotá o la buseta que recoge operarios al amanecer. La instalación vale $120.000, la mensualidad $47.600, no hay cláusula de permanencia y el equipo queda en comodato."
+    ],
+    "uses": [
+      {
+        "icon": "🌸",
+        "title": "Transporte de flores y operarios",
+        "text": "Las busetas que recogen trabajadores de los cultivos y los camiones que sacan la flor hacia Bogotá se controlan con geocercas en cada finca, para saber a qué hora entraron y salieron."
+      },
+      {
+        "icon": "🚛",
+        "title": "Carga por la Troncal de Occidente",
+        "text": "Si mueves mercancía entre Facatativá, Madrid, Mosquera y Bogotá, el historial de 12 meses te muestra rutas, paradas y kilómetros para liquidar viajes y planear mantenimientos."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en Cartagenita y Manablanca",
+        "text": "Muchas motos de trabajo pasan la noche en andenes o patios. Recibe una alerta si la encienden a deshoras y, si se la llevan, comparte la ubicación con la Policía por la línea 123."
+      },
+      {
+        "icon": "🚜",
+        "title": "Tractores y maquinaria agrícola",
+        "text": "En las veredas de papa, fresa y hortalizas, el GPS registra horas de encendido de tractores y maquinaria agrícola y te avisa si un equipo sale del predio sin tu autorización."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Chapinero",
+      "Cartagenita",
+      "Manablanca",
+      "Villa Alba",
+      "Mancilla",
+      "La Selva",
+      "Pueblo Viejo",
+      "Los Manzanos",
+      "Paso Ancho",
+      "San Rafael Bajo",
+      "Tierra Grata",
+      "Alto de Córdoba"
+    ],
+    "roads": [
+      {
+        "name": "Troncal de Occidente (Calle 13)",
+        "note": "Une a Facatativá con Madrid, Mosquera y Bogotá; es el corredor de carga y de trabajadores, con congestión frecuente en horas pico."
+      },
+      {
+        "name": "Vía Facatativá–Albán (Alto de La Tribuna)",
+        "note": "Baja hacia Albán y Villeta con curvas y neblina; las alertas de velocidad ayudan a controlar a conductores de carga y de transporte."
+      },
+      {
+        "name": "Vía Facatativá–El Rosal",
+        "note": "Enlaza con El Rosal y la salida por la Calle 80; con geocercas sabes cuándo un vehículo deja el municipio y hacia dónde se dirige."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp con la dirección: casa en el casco urbano, bodega, cultivo o finca en vereda. El técnico coordina contigo la fecha y la hora; para cultivos o fincas, envía la ubicación exacta del portón o de la portería para llegar sin demoras.",
+    "faqs": [
+      {
+        "q": "Tengo busetas que llevan trabajadores a los cultivos de flores, ¿cómo las controlo?",
+        "a": "Crea una geocerca en cada cultivo y en los puntos de recogida. La app registra la hora de entrada y salida de cada buseta, y el historial muestra si hizo la ruta completa. Con las alertas de velocidad sabes si algún conductor va más rápido de lo permitido en la Calle 13 o en las vías veredales."
+      },
+      {
+        "q": "¿Sirve el GPS si mi carro sale hacia Villeta por la vía a Albán?",
+        "a": "Sí, funciona en todo el trayecto donde haya cobertura celular. En la bajada hay curvas y tramos de montaña donde la señal puede variar; si se pierde por momentos, la ubicación se actualiza en cuanto el equipo recupera cobertura. Las alertas de velocidad siguen activas durante todo el recorrido."
+      },
+      {
+        "q": "¿Hay que pagar algo extra por vivir fuera del casco urbano?",
+        "a": "No. La instalación cuesta $120.000 y la mensualidad $47.600, sin importar si estás en el centro de Facatativá o en una vereda. Lo único que cambia es la coordinación: en zonas rurales se agenda una fecha y hora específicas para que el técnico llegue sin contratiempos."
+      }
+    ],
+    "nearby": [
+      "madrid",
+      "mosquera",
+      "funza",
+      "bogota"
+    ]
+  },
+  {
+    "slug": "fusagasuga",
+    "name": "Fusagasugá",
+    "dept": "cundinamarca",
+    "lat": 4.3367,
+    "lon": -74.3639,
+    "metro": null,
+    "lead": "Rastreo satelital en Fusagasugá: controla carros, motos y camionetas de finca entre Chinauta, Llano Largo y la vía a Bogotá desde la app Monitor-X.",
+    "intro": [
+      "Fusagasugá, la Ciudad Jardín de Colombia, es la capital de la provincia del Sumapaz y un punto de paso obligado en la vía entre Bogotá y Girardot. Su clima templado atrae a pensionados, a familias que compran casa campestre y a bogotanos que llegan el fin de semana a las fincas de Chinauta. Al mismo tiempo, la ciudad vive del mercadeo agropecuario regional, el comercio, la construcción y el transporte, con camionetas que traen productos del campo y motos que recorren barrios como Balmoral, Pekín o Llano Largo.",
+      "El municipio combina un casco urbano en crecimiento, veredas como Bermejal, Tierra Negra o Usatama y la zona de Chinauta, más cálida, sobre la vía hacia Melgar. Con Seguimiento Activo GPS ves tu vehículo en tiempo real, defines geocercas alrededor de la finca o del conjunto y recibes alertas si alguien lo enciende sin permiso. Si pasas semanas en Bogotá y el carro se queda en la casa de descanso, la app te avisa de cualquier movimiento. Instalación de $120.000 y mensualidad de $47.600, sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🏡",
+        "title": "Casas campestres y fincas de descanso",
+        "text": "En Chinauta y en los condominios de la vía a Melgar muchos carros pasan días sin moverse. Una geocerca alrededor de la finca te avisa en el celular si el vehículo sale sin que lo sepas."
+      },
+      {
+        "icon": "🥕",
+        "title": "Camionetas de productos agrícolas",
+        "text": "Las camionetas que traen productos de las veredas al mercado de Fusagasugá quedan registradas con rutas, paradas y kilómetros, útil para liquidar fletes y programar el mantenimiento por kilometraje."
+      },
+      {
+        "icon": "🛵",
+        "title": "Domiciliarios y mensajeros",
+        "text": "Domiciliarios y mensajeros recorren a diario barrios como Pekín, Balmoral y Llano Largo. Las alertas de encendido y el apagado remoto te dan control si la moto se usa sin permiso."
+      },
+      {
+        "icon": "👵",
+        "title": "Carro de pensionados y familias",
+        "text": "Si un familiar mayor maneja dentro de Fusagasugá o viaja a Bogotá, puedes ver su ubicación desde tu celular y confirmar que llegó bien, sin interrumpirlo con llamadas mientras conduce."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Balmoral",
+      "Pekín",
+      "Llano Largo",
+      "La Venta",
+      "Fusacatán",
+      "Chinauta",
+      "La Aguadita",
+      "Bermejal",
+      "Tierra Negra",
+      "Usatama",
+      "Bosachoque"
+    ],
+    "roads": [
+      {
+        "name": "Vía Bogotá–Girardot (tramo Silvania–Fusagasugá)",
+        "note": "Es la conexión con Bogotá y con el sur del país; el GPS registra trayectos de ida y vuelta, paradas y velocidad en cada viaje."
+      },
+      {
+        "name": "Tramo Fusagasugá–Chinauta–Melgar",
+        "note": "Baja hacia tierra caliente entre fincas y condominios; las alertas de velocidad son útiles en las curvas y en los puentes festivos de mucho tráfico."
+      },
+      {
+        "name": "Vía Fusagasugá–La Aguadita–Sibaté",
+        "note": "Ruta alterna hacia Bogotá por la montaña, con neblina y curvas; donde la señal celular baje, la ubicación se actualiza al recuperar cobertura."
+      }
+    ],
+    "install_note": "Por WhatsApp nos indicas si el vehículo está en el casco urbano, en un conjunto o en una finca de Chinauta o de vereda. El técnico agenda la visita según el sector; si es una casa de descanso, puedes pedir que la cita coincida con los días en que estés allá.",
+    "faqs": [
+      {
+        "q": "Mi carro se queda en la finca de Chinauta entre semana, ¿cómo sé si alguien lo mueve?",
+        "a": "Configura una geocerca alrededor de la finca y activa las alertas de encendido. Si el carro se prende o sale del área, recibes una notificación en el celular aunque estés en Bogotá. Desde la app ves su ubicación en tiempo real y, si hace falta, puedes compartirla con la Policía por la línea 123."
+      },
+      {
+        "q": "¿El GPS sigue funcionando en la vía de Fusagasugá a Melgar?",
+        "a": "Sí, mientras haya cobertura de red celular, algo habitual en esa carretera principal. La ubicación se actualiza cada 30 segundos; si en algún tramo de montaña la señal se interrumpe, la posición se actualiza apenas el equipo vuelve a conectarse. Todo el viaje queda en el historial de 12 meses."
+      },
+      {
+        "q": "¿Me lo pueden instalar en una vereda como Bermejal o Usatama?",
+        "a": "Sí. La instalación es a domicilio y se coordina por WhatsApp. En veredas se agenda una fecha con anticipación para organizar la ruta del técnico. El precio no cambia: $120.000 de instalación una sola vez y $47.600 de mensualidad, con el equipo en comodato y sin permanencia."
+      }
+    ],
+    "nearby": [
+      "soacha",
+      "girardot",
+      "melgar",
+      "bogota"
+    ]
+  },
+  {
+    "slug": "girardot",
+    "name": "Girardot",
+    "dept": "cundinamarca",
+    "lat": 4.303,
+    "lon": -74.803,
+    "metro": null,
+    "lead": "GPS para carros, motos y vehículos de turismo en Girardot: rastreo en tiempo real entre el centro, El Peñón y la vía a Ibagué, sin cláusula de permanencia.",
+    "intro": [
+      "Girardot es uno de los grandes destinos de descanso del centro del país. Cada puente festivo llegan familias de Bogotá a casas de recreo, condominios y hoteles, y la ciudad cambia de ritmo: más carros en las avenidas, más motos de domicilio y más vehículos guardados en conjuntos cerrados como los del sector de El Peñón. Junto con Flandes y Ricaurte forma una zona urbana continua a orillas del río Magdalena, unida por el Puente Mariano Ospina Pérez y por el antiguo Puente Férreo, hoy patrimonio nacional.",
+      "Además del turismo, Girardot es un cruce de caminos: aquí se encuentran la vía que sube a Bogotá, la que sigue hacia Ibagué y la salida hacia el Huila. Con Seguimiento Activo GPS controlas tu vehículo con ubicación cada 30 segundos, geocercas alrededor de tu casa de recreo y alertas de encendido. Si tu carro pasa semanas guardado en un condominio mientras vives en Bogotá, la app te avisa si alguien lo mueve; si tienes un vehículo de servicio, el historial de 12 meses te muestra cada viaje. Instalación $120.000 y mensualidad $47.600."
+    ],
+    "uses": [
+      {
+        "icon": "🏖️",
+        "title": "Carros en casas de recreo",
+        "text": "Muchos vehículos se quedan guardados en condominios mientras sus dueños están en Bogotá. Con una geocerca y la alerta de encendido sabes al instante si alguien lo saca, aunque estés a horas de distancia."
+      },
+      {
+        "icon": "🚕",
+        "title": "Taxis y transporte turístico",
+        "text": "En temporada alta los taxis y las vans que llevan turistas a hoteles y piscinas trabajan sin descanso. El historial y los reportes de uso ayudan al propietario a revisar kilómetros y horarios del conductor."
+      },
+      {
+        "icon": "🛵",
+        "title": "Domicilios en temporada",
+        "text": "Cuando la ciudad se llena crece la demanda de domicilios en moto. El dueño puede seguir los recorridos, recibir alertas de velocidad y apagar el motor desde la app, con la moto detenida o a baja velocidad."
+      },
+      {
+        "icon": "🚛",
+        "title": "Carga entre el Tolima y Bogotá",
+        "text": "Los camiones que conectan Girardot con Espinal, Ibagué y Bogotá se controlan con alertas de velocidad, registro de paradas y avisos de mantenimiento por kilometraje para cuidar motor y llantas."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Granada",
+      "Puerto Montero",
+      "Alto de La Cruz",
+      "Gólgota",
+      "Estación",
+      "Santa Rita",
+      "Diamante",
+      "Kennedy",
+      "El Peñón",
+      "Barzalosa",
+      "San Lorenzo"
+    ],
+    "roads": [
+      {
+        "name": "Vía Girardot–Bogotá (por Melgar y Fusagasugá)",
+        "note": "Es la ruta de los turistas de fin de semana; el historial muestra salidas, paradas y velocidad, útil para vehículos de servicio y carros familiares."
+      },
+      {
+        "name": "Vía Girardot–Ibagué",
+        "note": "Corredor de carga hacia el Tolima y el occidente del país; las alertas de velocidad y el registro de paradas ayudan a controlar a los conductores."
+      },
+      {
+        "name": "Puente Mariano Ospina Pérez",
+        "note": "Une Girardot con Flandes sobre el río Magdalena; con geocercas sabes cuándo un vehículo cruza al Tolima o regresa a Cundinamarca."
+      }
+    ],
+    "install_note": "Nos escribes por WhatsApp y acordamos la visita en tu casa, condominio, hotel o negocio en Girardot. Si solo vienes los fines de semana, cuéntanos tus fechas para intentar coordinar la cita durante tu estadía; al terminar ya tienes la app funcionando en tu celular.",
+    "faqs": [
+      {
+        "q": "Vivo en Bogotá y mi carro se queda en el condominio de Girardot, ¿cómo lo vigilo?",
+        "a": "Desde la app Monitor-X ves dónde está el carro en todo momento. Configura una geocerca alrededor del condominio y activa la alerta de encendido: si alguien lo prende o lo saca, te llega el aviso. Si notas algo raro, comunícate con la administración o con la Policía por la línea 123 y comparte la ubicación."
+      },
+      {
+        "q": "¿Puedo saber si mi vehículo cruzó a Flandes o salió hacia Ibagué?",
+        "a": "Sí. Con las geocercas defines zonas en el mapa, por ejemplo el casco urbano de Girardot, y recibes un aviso cada vez que el vehículo entra o sale. El historial de 12 meses muestra la ruta exacta, la hora de cada paso y las paradas, útil para vehículos de servicio o para controlar préstamos del carro."
+      },
+      {
+        "q": "¿Los taxis de Girardot pueden usar el servicio para controlar turnos?",
+        "a": "Sí. El propietario ve en la plataforma web cuándo se encendió y apagó el taxi, cuántos kilómetros hizo y por dónde anduvo en cada turno. Eso ayuda a cuadrar entregas con el conductor y a programar alertas de mantenimiento por kilometraje. El servicio cuesta $47.600 al mes, sin permanencia."
+      }
+    ],
+    "nearby": [
+      "melgar",
+      "espinal",
+      "fusagasuga",
+      "ibague"
+    ]
+  },
+  {
+    "slug": "mosquera",
+    "name": "Mosquera",
+    "dept": "cundinamarca",
+    "lat": 4.7058,
+    "lon": -74.2302,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS en Mosquera para camiones, bodegas y carros: controla tu flota en la Troncal de Occidente y los parques industriales, y tu carro en Ciudad Sabana.",
+    "intro": [
+      "Mosquera es uno de los motores industriales de la Sabana de Occidente. Sobre la Troncal de Occidente, la prolongación de la Calle 13, se han instalado parques industriales, bodegas de logística y plantas de alimentos y materiales de construcción, y por ahí circulan a diario tractomulas, furgones y camionetas de reparto. A la vez, el municipio creció en vivienda: ciudadelas como Ciudad Sabana, Novaterra, El Trébol o Quintas de Serrezuela recibieron familias que trabajan en Bogotá y se mueven en carro o en moto.",
+      "En el campo se mantienen las haciendas lecheras y los cultivos de hortalizas, y al sur está la Laguna de la Herrera. Seguimiento Activo GPS se adapta a ambos mundos: geocercas para saber cuándo un camión entra o sale de una bodega, alertas de velocidad para los conductores, apagado remoto desde la app con el vehículo detenido o a baja velocidad, y reportes de uso en la plataforma web. Para el carro familiar tienes la app Monitor-X con historial de 12 meses. Instalación $120.000 y mensualidad $47.600, sin permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🏭",
+        "title": "Flotas de bodegas y logística",
+        "text": "Si despachas desde un parque industrial de Mosquera, cada camión puede tener una geocerca de salida y de llegada. Así sabes a qué hora dejó la bodega, cuánto tardó en la Calle 13 y dónde se detuvo."
+      },
+      {
+        "icon": "🥬",
+        "title": "Hortalizas y leche de las haciendas",
+        "text": "Las camionetas que sacan espinaca, lechuga o zanahoria de las veredas, y los carrotanques de leche, se controlan con registro de encendido, paradas y kilómetros para cuadrar cada entrega."
+      },
+      {
+        "icon": "🚗",
+        "title": "Carro familiar en las ciudadelas",
+        "text": "En Ciudad Sabana, Novaterra o El Trébol el carro duerme en parqueaderos comunales. Recibe una alerta si se enciende de noche y revisa en la app su ubicación cuando quieras."
+      },
+      {
+        "icon": "🏗️",
+        "title": "Volquetas y maquinaria de obra",
+        "text": "Con tantos proyectos de vivienda y bodegas hay volquetas y maquinaria amarilla en movimiento. Somos proveedor autorizado por la Policía Nacional para rastreo de maquinaria amarilla, con reporte de horas de uso."
+      }
+    ],
+    "zones": [
+      "Cuatro Esquinas",
+      "La Esperanza",
+      "El Porvenir",
+      "Villa Nueva",
+      "Alicante",
+      "Ciudad Sabana",
+      "Novaterra",
+      "El Trébol",
+      "Quintas de Serrezuela",
+      "Balsillas",
+      "San José",
+      "San Jorge",
+      "Siete Trojes",
+      "Parcelas"
+    ],
+    "roads": [
+      {
+        "name": "Troncal de Occidente (Calle 13)",
+        "note": "Corredor de carga entre Bogotá, Mosquera, Madrid y Facatativá; el historial muestra tiempos reales de viaje y paradas de cada vehículo."
+      },
+      {
+        "name": "Avenida Indumil",
+        "note": "Conecta Mosquera con Soacha y el sur de la Sabana; con geocercas sabes cuándo un vehículo cambia de municipio y a qué hora lo hizo."
+      },
+      {
+        "name": "Vía Mosquera–La Mesa",
+        "note": "Pasa por el sector de Mondoñedo y desciende hacia La Mesa; las alertas de velocidad ayudan a controlar a los conductores en la bajada a tierra caliente."
+      }
+    ],
+    "install_note": "Coordinamos por WhatsApp la visita a tu casa, conjunto, bodega o parque industrial en Mosquera. Para flotas, el técnico puede instalar varios vehículos en la misma jornada si los tienes disponibles en el patio, y al final te deja la plataforma web configurada.",
+    "faqs": [
+      {
+        "q": "Tengo cinco camiones en una bodega de la Troncal de Occidente, ¿los veo todos a la vez?",
+        "a": "Sí. En la plataforma web ves toda la flota en un solo mapa, con la posición de cada camión actualizada cada 30 segundos. Puedes crear geocercas en la bodega y en los clientes, recibir alertas de velocidad y sacar reportes de uso para revisar kilómetros, paradas y horarios de cada conductor."
+      },
+      {
+        "q": "¿Puedo saber si un conductor se desvía hacia otro municipio sin autorización?",
+        "a": "Con geocercas defines las zonas permitidas, por ejemplo Mosquera, Funza y la Calle 13 hasta Bogotá. Cuando el vehículo entra o sale de esas zonas recibes una notificación, y en el historial queda el recorrido con horas exactas. Así tienes información objetiva para hablar con el conductor."
+      },
+      {
+        "q": "¿Cuánto cuesta poner GPS a una flota en Mosquera?",
+        "a": "El precio es por vehículo y es el mismo para uno o para varios: $120.000 de instalación, pagados una sola vez, y $47.600 de mensualidad. Incluye el equipo en comodato, la configuración, la capacitación en la app y el soporte técnico. No hay cláusula de permanencia; si cancelas, devuelves el equipo sin costo."
+      }
+    ],
+    "nearby": [
+      "funza",
+      "madrid",
+      "facatativa",
+      "soacha",
+      "bogota"
+    ]
+  },
+  {
+    "slug": "madrid",
+    "name": "Madrid",
+    "dept": "cundinamarca",
+    "lat": 4.7325,
+    "lon": -74.2642,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS para vehículos en Madrid, Cundinamarca: rastrea carros, motos y busetas de los cultivos de flores entre el casco urbano, Puente de Piedra y la Calle 13.",
+    "intro": [
+      "Madrid, en la Sabana de Occidente, es tierra de flores. La floricultura es su actividad predominante y buena parte de la vida del municipio gira alrededor de los cultivos bajo invernadero: buses y busetas que recogen operarios al amanecer, camiones que sacan la flor hacia Bogotá y motos que se mueven por veredas como Puente de Piedra, La Cuesta o Moyano. Madrid también tiene una tradición industrial que se remonta a la llegada de Corona en 1952, y alberga el Comando Aéreo de Mantenimiento y la Escuela de Suboficiales de la Fuerza Aeroespacial Colombiana.",
+      "El casco urbano, con barrios como Barranquillita, Serrezuela, Loreto o la Ciudadela La Prosperidad, ha crecido con conjuntos de familias que trabajan en Bogotá, Mosquera o Facatativá. Con Seguimiento Activo GPS ves tu vehículo en la app Monitor-X con actualización cada 30 segundos, recibes alertas de encendido y velocidad, y defines geocercas alrededor de tu casa o del cultivo. Para empresas, la plataforma web muestra reportes de uso de cada vehículo. La instalación vale $120.000 una sola vez y la mensualidad $47.600, sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🌷",
+        "title": "Rutas de operarios de cultivos",
+        "text": "Las busetas que recogen trabajadores en Madrid y sus veredas pueden marcar cada punto de recogida con geocercas, para que el cultivo sepa a qué hora llegó la ruta y si cumplió el recorrido."
+      },
+      {
+        "icon": "🚚",
+        "title": "Camiones de flor hacia Bogotá",
+        "text": "Los vehículos que llevan flor cortada hacia Bogotá se controlan con alertas de velocidad, registro de paradas y tiempos de viaje por la Calle 13, para cuidar la carga y cumplir los horarios."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en las veredas",
+        "text": "En Puente de Piedra, La Cuesta o Chauta la moto es el transporte diario. Con alertas de encendido sabes si alguien la prende sin permiso, y puedes apagarla desde la app con la moto detenida o a baja velocidad."
+      },
+      {
+        "icon": "🔧",
+        "title": "Mantenimiento de vehículos de empresa",
+        "text": "Las empresas industriales y de servicios del municipio pueden programar alertas de mantenimiento por kilometraje y revisar el odómetro de cada vehículo en la plataforma web, sin depender de la memoria del conductor."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Barranquillita",
+      "Serrezuela",
+      "Loreto",
+      "Lusitania",
+      "Primero de Mayo",
+      "Ciudadela La Prosperidad",
+      "Hacienda Casablanca",
+      "Puente de Piedra",
+      "Valle del Abra",
+      "La Cuesta",
+      "Moyano",
+      "Chauta",
+      "El Corzo"
+    ],
+    "roads": [
+      {
+        "name": "Troncal de Occidente (Calle 13)",
+        "note": "Comunica a Madrid con Mosquera y Bogotá; es el eje de la carga y de los viajes diarios, y el GPS registra cada trayecto con hora y velocidad."
+      },
+      {
+        "name": "Vía Madrid–Facatativá",
+        "note": "Tramo de la misma troncal hacia el occidente de la Sabana; las geocercas indican cuándo un vehículo sale del municipio rumbo a Facatativá."
+      },
+      {
+        "name": "Vía Madrid–Puente de Piedra–Subachoque",
+        "note": "Vía secundaria que sube hacia Subachoque entre veredas productivas; útil para controlar camionetas de finca y rutas de recogida de personal."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp con la dirección en Madrid: casa, conjunto, empresa o cultivo. Si se trata de varias busetas o camiones, conviene tenerlos en el mismo patio a la hora acordada. Para veredas como Puente de Piedra o La Cuesta, el técnico confirma la llegada con la ubicación que nos envíes.",
+    "faqs": [
+      {
+        "q": "Trabajo en Bogotá y el carro se queda en Madrid, ¿puedo saber si alguien lo usa?",
+        "a": "Sí. Activa la alerta de encendido y una geocerca en tu parqueadero: si el carro se prende o se mueve mientras estás en el trabajo, recibes la notificación al instante. En el historial ves la hora, el recorrido y la velocidad, así sabes exactamente qué pasó y puedes actuar."
+      },
+      {
+        "q": "¿El servicio sirve para tractores o maquinaria del cultivo?",
+        "a": "Sí. Instalamos GPS en maquinaria agrícola y en maquinaria amarilla; somos proveedor autorizado por la Policía Nacional para el rastreo satelital de maquinaria amarilla. Verás ubicación, registro de encendido y apagado y alertas si el equipo sale del predio. El precio es el mismo: $120.000 de instalación y $47.600 al mes."
+      },
+      {
+        "q": "¿Qué pasa si cancelo el servicio?",
+        "a": "No hay cláusula de permanencia. Si decides cancelar, devuelves el dispositivo, que está en comodato, y no pagas nada por la devolución. Mientras estés activo, la mensualidad de $47.600 incluye rastreo 24/7, alertas ilimitadas, geocercas, soporte técnico y acceso a la app y a la plataforma web."
+      }
+    ],
+    "nearby": [
+      "mosquera",
+      "facatativa",
+      "funza",
+      "bogota"
+    ]
+  },
+  {
+    "slug": "funza",
+    "name": "Funza",
+    "dept": "cundinamarca",
+    "lat": 4.7166,
+    "lon": -74.2117,
+    "metro": "Sabana de Bogotá",
+    "lead": "Rastreo GPS en Funza para flotas, carros y motos: controla vehículos entre La Isla, El Hato, la vía a Siberia y la Calle 13 desde tu celular.",
+    "intro": [
+      "Funza está pegada al occidente de Bogotá y es uno de los municipios con más actividad empresarial de la Sabana. Entre la Avenida Centenario, la Troncal de Occidente y la vía que va hacia Siberia se ubican bodegas, centros de distribución y zonas empresariales como el sector de La Isla, mientras el casco urbano crece con barrios como El Hato, Ciudad Jardín o Prados de San Andrés. Esa combinación genera un tráfico intenso de camiones y furgones durante el día, y de carros y motos particulares en las horas en que la gente sale o regresa de Bogotá.",
+      "Seguimiento Activo GPS te ayuda a tener control en ese entorno: ves la posición de cada vehículo cada 30 segundos, recibes alertas de velocidad y de encendido, y defines geocercas para bodegas, clientes o la casa. Para empresas, los reportes de uso y el historial de 12 meses facilitan revisar recorridos y liquidar rutas; para particulares, la app Monitor-X permite apagar el motor de forma remota con el vehículo detenido o a baja velocidad. Instalación de $120.000, pago único, y $47.600 al mes sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "📦",
+        "title": "Centros de distribución",
+        "text": "Si tu empresa despacha desde una bodega en Funza, el GPS te muestra cuándo sale cada furgón, qué paradas hace en Bogotá y a qué hora regresa, con reportes de uso por vehículo."
+      },
+      {
+        "icon": "🛻",
+        "title": "Camionetas de servicio técnico",
+        "text": "Técnicos e instaladores que salen desde Funza hacia la Sabana y Bogotá se coordinan mejor: ves quién está más cerca de cada cliente y revisas los tiempos reales de cada visita."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos de quienes trabajan en Bogotá",
+        "text": "Muchos funzanos van en moto a Fontibón o a las zonas industriales de Bogotá. La alerta de encendido te avisa si alguien prende la tuya mientras está parqueada, en casa o en el trabajo."
+      },
+      {
+        "icon": "🌼",
+        "title": "Cultivos y fincas de la Sabana",
+        "text": "Funza conserva fincas y cultivos hacia El Cacique y Tienda Nueva. Las geocercas en cada predio te dicen cuándo entran y salen los vehículos de trabajo y la maquinaria agrícola."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "El Hato",
+      "La Isla",
+      "Ciudad Jardín",
+      "Renacer",
+      "La Fortuna",
+      "Prados de San Andrés",
+      "Villa Paola",
+      "El Palmar",
+      "Nueva Gerona",
+      "La Ramada",
+      "El Cacique",
+      "El Coclí",
+      "Tienda Nueva"
+    ],
+    "roads": [
+      {
+        "name": "Avenida Centenario (Calle 13)",
+        "note": "Acceso principal desde Bogotá y eje de bodegas; el historial muestra cuánto se demoran los vehículos en cada tramo y dónde se detienen."
+      },
+      {
+        "name": "Vía Funza–Siberia",
+        "note": "Conecta con Cota y la Calle 80; corredor de parques industriales donde las geocercas ayudan a registrar entradas y salidas de cada camión."
+      },
+      {
+        "name": "Troncal de Occidente hacia Mosquera y Madrid",
+        "note": "Continúa hacia el occidente de la Sabana; útil para controlar rutas de reparto entre municipios y detectar desvíos con geocercas."
+      }
+    ],
+    "install_note": "Coordina por WhatsApp la cita en Funza indicando la dirección y cuántos vehículos son. Si es un carro o una moto particular, el técnico va a tu casa o al trabajo; si es una flota, se acuerda un horario antes o después de los despachos para no frenar la operación.",
+    "faqs": [
+      {
+        "q": "Mis furgones entregan en Bogotá todo el día, ¿cómo sé qué tan cumplidos son?",
+        "a": "En el historial de cada furgón ves la hora de salida de la bodega en Funza, cada parada con su duración y la hora de regreso. Si creas geocercas en tus clientes principales, recibes aviso cuando el vehículo llega y sale de cada uno. Con esos datos puedes medir tiempos y corregir rutas."
+      },
+      {
+        "q": "¿Puedo poner alertas de velocidad para la vía a Siberia?",
+        "a": "Sí. Defines un límite de velocidad en la app o en la plataforma web y recibes una alerta cada vez que el vehículo lo supere, en cualquier vía. Es útil en corredores con tráfico pesado como la vía Funza–Siberia o la Calle 13, donde un exceso puede terminar en accidente o en comparendo."
+      },
+      {
+        "q": "¿El GPS sirve también para mi carro particular o solo para empresas?",
+        "a": "Sirve para ambos. Un carro particular tiene las mismas funciones que una flota: ubicación en tiempo real, geocercas, alertas ilimitadas, historial de 12 meses y apagado remoto del motor con el vehículo detenido o a baja velocidad. El precio es igual: $120.000 de instalación y $47.600 al mes."
+      }
+    ],
+    "nearby": [
+      "mosquera",
+      "madrid",
+      "bogota",
+      "facatativa"
+    ]
+  },
+  {
+    "slug": "cajica",
+    "name": "Cajicá",
+    "dept": "cundinamarca",
+    "lat": 4.9186,
+    "lon": -74.0278,
+    "metro": "Sabana de Bogotá",
+    "lead": "GPS en Cajicá para el carro de la familia, motos y camiones de obra: controla tus recorridos entre Capellanía, Canelón y la vía a Chía en tiempo real.",
+    "intro": [
+      "Cajicá ha cambiado rápido en pocos años. Lo que eran fincas y potreros entre Chía y Zipaquirá se convirtió en conjuntos residenciales, colegios, comercio y sedes universitarias como las de la Universidad Militar Nueva Granada y la FUCS. Hoy conviven el centro tradicional y barrios como Capellanía, Granjitas o El Rocío con veredas como Canelón, Chuntame, Calahorra y Río Grande, donde todavía hay ganadería y casas campestres. Muchos de sus habitantes se desplazan a diario a Bogotá, y la salida por Chía y la Autopista Norte se congestiona en las horas pico.",
+      "En un municipio con tanta construcción también circulan volquetas y camiones de materiales. Con Seguimiento Activo GPS ves cualquier vehículo en la app Monitor-X, con ubicación cada 30 segundos y alertas de encendido, velocidad y geocercas. Si varios miembros de la familia tienen carro o moto, todos pueden verse en la misma cuenta, cada uno con su historial. Para empresas de obra y depósitos, el registro de encendidos y los reportes de uso ayudan a controlar cada entrega. Instalación $120.000, mensualidad $47.600, sin permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🚸",
+        "title": "Rutas escolares",
+        "text": "Los propietarios de rutas que recogen estudiantes en Cajicá y Chía pueden revisar horarios, paradas y velocidad de cada recorrido, y tener respaldo si un padre pregunta a qué hora pasó el vehículo."
+      },
+      {
+        "icon": "🧱",
+        "title": "Camiones de materiales de construcción",
+        "text": "Los depósitos que despachan arena, ladrillo o cemento a las obras de Cajicá pueden ver cada camión en el mapa, confirmar entregas con geocercas y controlar los kilómetros recorridos."
+      },
+      {
+        "icon": "🐄",
+        "title": "Fincas de Chuntame y Canelón",
+        "text": "En las veredas aún hay fincas con camionetas y tractores. Las geocercas en cada predio y la alerta de encendido te avisan si un vehículo se mueve fuera del horario de trabajo."
+      },
+      {
+        "icon": "🚗",
+        "title": "Viajes diarios a Bogotá",
+        "text": "Si manejas todos los días hacia Bogotá, el historial te muestra cuánto tardas realmente por Chía o por la Autopista Norte, y el odómetro te avisa cuándo toca mantenimiento por kilometraje."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Capellanía",
+      "Granjitas",
+      "El Rocío",
+      "Gran Colombia",
+      "La Estación",
+      "Puerta del Sol",
+      "Santa Cruz",
+      "Puente Vargas",
+      "Calahorra",
+      "Canelón",
+      "Chuntame",
+      "Río Grande"
+    ],
+    "roads": [
+      {
+        "name": "Vía Chía–Cajicá",
+        "note": "Es el paso obligado hacia Chía y Bogotá; las alertas de velocidad y el registro de paradas sirven para controlar a conductores de rutas y empresas."
+      },
+      {
+        "name": "Vía Cajicá–Zipaquirá",
+        "note": "Continúa hacia el norte de la Sabana; con geocercas sabes cuándo el vehículo sale del municipio rumbo a Zipaquirá y a qué hora regresa."
+      },
+      {
+        "name": "Autopista Norte (por Chía)",
+        "note": "Es la vía principal hacia Bogotá; si el carro se usa a diario, el odómetro y las alertas de mantenimiento por kilometraje te ayudan a cuidarlo."
+      }
+    ],
+    "install_note": "Agenda por WhatsApp. El técnico llega a tu casa, al conjunto, al colegio o a la obra en Cajicá; si el vehículo está en una vereda como Chuntame o Río Grande, envía la ubicación para planear la llegada. Antes de irse, deja la app funcionando y te explica las alertas.",
+    "faqs": [
+      {
+        "q": "¿Se puede instalar el GPS en una volqueta que está trabajando en una obra?",
+        "a": "Sí. La instalación es en sitio, así que el técnico puede ir a la obra en Cajicá. Para volquetas y maquinaria amarilla, el GPS registra ubicación, encendido y apagado, y te avisa si el equipo sale del lote. Somos proveedor autorizado por la Policía Nacional para el rastreo satelital de maquinaria amarilla."
+      },
+      {
+        "q": "¿Puedo ver dónde estuvo el carro la semana pasada?",
+        "a": "Sí. El historial guarda los recorridos de los últimos 12 meses. Eliges una fecha en la app o en la plataforma web y ves la ruta, las paradas, la hora de cada movimiento y la velocidad. Es útil para revisar si el carro se usó cuando no debía o para recordar a qué hora llegaste a algún lugar."
+      },
+      {
+        "q": "¿Puedo tener varios carros de la familia en la misma cuenta?",
+        "a": "Sí. Cada vehículo lleva su propio equipo y paga su instalación y mensualidad, pero todos pueden verse desde la misma app Monitor-X y la plataforma web. Así, en un solo mapa ves el carro de tu pareja, el de tus hijos y la moto, cada uno con sus alertas y su historial."
+      }
+    ],
+    "nearby": [
+      "chia",
+      "zipaquira",
+      "bogota"
+    ]
+  },
+  {
+    "slug": "bello",
+    "name": "Bello",
+    "dept": "antioquia",
+    "lat": 6.3373,
+    "lon": -75.558,
+    "metro": "Área Metropolitana del Valle de Aburrá",
+    "lead": "GPS para motos, carros y camiones en Bello: rastrea tu vehículo en Niquía, París o Zamora y por la Autopista Norte, con apagado remoto desde la app.",
+    "intro": [
+      "Bello es el segundo municipio más poblado del Valle de Aburrá y la salida norte del área metropolitana. Durante décadas fue una ciudad textil, marcada por Fabricato, y hoy combina comercio, servicios y vivienda en comunas como Niquía, París, La Madera, Santa Ana o Zamora. El Metro la conecta con Medellín por las estaciones Madera, Bello y Niquía, pero mucha gente se mueve en moto o en carro, y la Autopista Norte recibe a diario el tráfico que entra y sale hacia Copacabana, el norte de Antioquia y la Costa.",
+      "En comunas de ladera como Altos de Niquía las calles son empinadas y la moto es el transporte más práctico; en la parte baja abundan los parqueaderos de conjunto y los vehículos de reparto. Con Seguimiento Activo GPS ves la ubicación cada 30 segundos en la app Monitor-X, recibes alertas de encendido y de velocidad, y puedes apagar el motor desde el celular con el vehículo detenido o a baja velocidad. Si te roban, compartes la ubicación con la Policía por la línea 123. El servicio cuesta $120.000 de instalación y $47.600 mensuales, y puedes cancelar cuando quieras."
+    ],
+    "uses": [
+      {
+        "icon": "🏍️",
+        "title": "Motos en las comunas de ladera",
+        "text": "En Altos de Niquía y otros sectores empinados la moto es la forma más rápida de moverse. Las alertas de encendido y la geocerca alrededor de la casa te avisan de cualquier uso no autorizado."
+      },
+      {
+        "icon": "🚚",
+        "title": "Reparto hacia Medellín y el norte",
+        "text": "Distribuidores que salen de Bello hacia Medellín, Copacabana o Girardota pueden revisar recorridos, paradas y tiempos de cada vehículo, y programar el mantenimiento por kilometraje."
+      },
+      {
+        "icon": "🚕",
+        "title": "Taxis y conductores de plataformas",
+        "text": "Si tu carro trabaja por turnos, la plataforma web muestra horas de encendido, kilómetros y zonas recorridas por cada conductor, para cuadrar cuentas sin discusiones."
+      },
+      {
+        "icon": "🌄",
+        "title": "Carros que suben a San Félix",
+        "text": "La vía al corregimiento San Félix es empinada y con curvas. Las alertas de velocidad ayudan a controlar a quien maneja, y el historial muestra a qué hora subió y bajó el vehículo."
+      }
+    ],
+    "zones": [
+      "París",
+      "La Madera",
+      "Santa Ana",
+      "Suárez",
+      "La Cumbre",
+      "Bellavista",
+      "Altos de Niquía",
+      "Niquía",
+      "Guasimalito",
+      "Fontidueño",
+      "Zamora",
+      "San Félix"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Norte",
+        "note": "Eje de entrada y salida del norte del Valle de Aburrá; el GPS registra paradas y tiempos reales en los trancones hacia Medellín y Copacabana."
+      },
+      {
+        "name": "Vía Bello–San Félix–San Pedro de los Milagros",
+        "note": "Sube hacia el altiplano lechero del norte; útil para controlar camionetas y camiones de leche, con alertas de velocidad en las curvas."
+      },
+      {
+        "name": "Corredor de la Línea A del Metro",
+        "note": "Muchos dejan el carro o la moto cerca de las estaciones Madera, Bello o Niquía; con una geocerca sabes si el vehículo se mueve mientras estás en Medellín."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp con tu comuna o barrio en Bello. El técnico va a tu casa, al parqueadero del conjunto o al negocio; si la calle es muy empinada o no hay espacio, acordamos un sitio cercano y plano para hacer la instalación con seguridad.",
+    "faqs": [
+      {
+        "q": "Dejo la moto cerca de la estación Niquía del Metro, ¿cómo sé si se la llevan?",
+        "a": "Activa la alerta de encendido y crea una geocerca alrededor del sitio donde la dejas. Si alguien la prende o la mueve, te llega una notificación al celular mientras estás en Medellín. En ese momento abres la app, ves la ubicación en tiempo real y la compartes con la Policía por la línea 123."
+      },
+      {
+        "q": "¿Puedo controlar un camión que sale de Bello hacia la Costa?",
+        "a": "Sí. El GPS funciona en toda la ruta donde haya cobertura celular. En los tramos de montaña del norte de Antioquia la señal puede variar; si se pierde, la ubicación se actualiza cuando el equipo la recupera. Durante el viaje recibes alertas de velocidad y en el historial quedan paradas, horas y kilómetros."
+      },
+      {
+        "q": "¿El GPS funciona si guardo el carro en el sótano del conjunto?",
+        "a": "En parqueaderos abiertos o semicubiertos funciona con normalidad. En sótanos profundos la señal puede debilitarse; en ese caso la ubicación se actualiza en cuanto el vehículo sale y recupera cobertura, y la alerta de encendido sigue siendo tu primer aviso si alguien intenta moverlo."
+      }
+    ],
+    "nearby": [
+      "medellin",
+      "envigado",
+      "itagui",
+      "rionegro"
+    ]
+  },
+  {
+    "slug": "itagui",
+    "name": "Itagüí",
+    "dept": "antioquia",
+    "lat": 6.1728,
+    "lon": -75.6113,
+    "metro": "Área Metropolitana del Valle de Aburrá",
+    "lead": "GPS en Itagüí para flotas industriales, motos y carros: controla tus vehículos entre la Central Mayorista, Santa María, Ditaires y la Autopista Sur.",
+    "intro": [
+      "Itagüí es una de las ciudades más industrializadas de Colombia. Desde los años cincuenta se formó un corredor fabril junto al río Medellín, con empresas textileras, químicas y metalúrgicas, y hoy además reúne centros de negocios como la Central Mayorista de Antioquia, el Centro Nacional de Confección y Moda y el Centro Internacional del Mueble. Esa actividad mueve a diario camiones de carga, furgones de alimentos, motos de mensajería y carros de vendedores que salen hacia Medellín, Envigado, Sabaneta y La Estrella.",
+      "Es también una ciudad densa, con barrios como Santa María, San Pío X, Ditaires o Calatrava, y con el corregimiento El Manzanillo en la montaña. Con Seguimiento Activo GPS controlas cada vehículo desde la app Monitor-X o la plataforma web: ubicación cada 30 segundos, geocercas para la bodega y los clientes, alertas de velocidad y encendido, y odómetro con alertas de mantenimiento. La instalación cuesta $120.000 una sola vez, la mensualidad $47.600, y no firmas permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🥑",
+        "title": "Camiones de la Central Mayorista",
+        "text": "Los camiones que llegan con frutas y verduras de las regiones o salen a surtir tiendas se controlan con geocercas en la Mayorista, para saber a qué hora entraron, cuánto esperaron y cuándo salieron."
+      },
+      {
+        "icon": "🏭",
+        "title": "Flotas de las zonas industriales",
+        "text": "Las empresas de las zonas industriales de Itagüí pueden ver todos sus vehículos en un mapa, revisar reportes de uso por conductor y programar mantenimientos por kilometraje sin hojas de cálculo."
+      },
+      {
+        "icon": "🧵",
+        "title": "Mensajería de confección y moda",
+        "text": "Talleres y comercializadoras de ropa despachan pedidos todo el día en motos y furgones. El historial confirma cada entrega y ayuda a resolver reclamos de clientes con horas exactas."
+      },
+      {
+        "icon": "🛵",
+        "title": "Motos de domicilio en el Aburrá Sur",
+        "text": "Si tienes motos de domicilio trabajando en Itagüí y el Aburrá Sur, recibe alertas cuando superen la velocidad que definas y apaga el motor desde la app si la moto se usa sin permiso."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Santa María",
+      "San Pío X",
+      "Ditaires",
+      "Pilsen",
+      "Calatrava",
+      "Simón Bolívar",
+      "La Mayorista",
+      "Las Américas",
+      "Samaria",
+      "Yarumito",
+      "Zona Industrial No. 1",
+      "El Manzanillo",
+      "El Ajizal"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Sur",
+        "note": "Eje industrial que une Itagüí con Medellín, La Estrella y Caldas; el GPS registra tiempos y paradas de los camiones en las horas de más tráfico."
+      },
+      {
+        "name": "Accesos a la Central Mayorista (límite con Guayabal)",
+        "note": "Zona de cargue y descargue con movimiento desde la madrugada; las geocercas registran entradas y salidas de cada vehículo."
+      },
+      {
+        "name": "Vía a San Antonio de Prado",
+        "note": "Sube desde Itagüí hacia la montaña occidental del sur del valle; útil para controlar rutas de reparto y motos en pendiente."
+      }
+    ],
+    "install_note": "Coordinamos por WhatsApp. Si es una empresa, el técnico puede ir a la planta o a la bodega en una de las zonas industriales; si es un vehículo particular, a tu casa o al parqueadero. Para la Mayorista y otros sitios de cargue, conviene fijar una hora en que el vehículo esté quieto.",
+    "faqs": [
+      {
+        "q": "Mis camiones esperan horas para descargar en la Mayorista, ¿el GPS me muestra eso?",
+        "a": "Sí. Si creas una geocerca en la Central Mayorista, la app registra la hora exacta en que el camión entra y sale, y el historial muestra cuánto tiempo estuvo detenido. Con esa información puedes organizar mejor los turnos de cargue y saber cuándo un retraso viene de la espera y no del conductor."
+      },
+      {
+        "q": "¿Puedo tener alertas de mantenimiento para una flota de furgones?",
+        "a": "Sí. El sistema lleva el odómetro de cada vehículo y te permite programar alertas por kilometraje, por ejemplo para cambio de aceite o revisión de frenos. Así evitas que un furgón falle en plena ruta. En la plataforma web ves además los reportes de uso de toda la flota."
+      },
+      {
+        "q": "Vivo en Itagüí y trabajo en Medellín, ¿vale la pena para un solo carro?",
+        "a": "Sí, el servicio es igual para un carro particular que para una empresa. Tienes ubicación en tiempo real, alertas de encendido, geocercas y apagado remoto del motor con el vehículo detenido o a baja velocidad. Cuesta $120.000 de instalación una vez y $47.600 al mes, sin permanencia."
+      }
+    ],
+    "nearby": [
+      "medellin",
+      "envigado",
+      "sabaneta",
+      "bello"
+    ]
+  },
+  {
+    "slug": "envigado",
+    "name": "Envigado",
+    "dept": "antioquia",
+    "lat": 6.1707,
+    "lon": -75.5864,
+    "metro": "Área Metropolitana del Valle de Aburrá",
+    "lead": "GPS para carros y motos en Envigado: ubica tu vehículo entre Zúñiga, El Esmeraldal, Las Palmas y la Avenida Las Vegas, con alertas y apagado remoto.",
+    "intro": [
+      "Envigado tiene identidad propia dentro del Valle de Aburrá: un centro tradicional muy vivo, barrios residenciales como Zúñiga, La Magnolia, El Esmeraldal o Alcalá, y una zona rural que sube hacia Las Palmas con veredas como El Escobero, Perico y Pantanillo. Aquí tienen su sede grandes empresas como Almacenes Éxito y el periódico El Colombiano, y en su área de influencia está la ensambladora Sofasa. Por eso en sus vías se cruzan carros particulares, vehículos ejecutivos, camiones de distribución y motos de mensajería.",
+      "La topografía influye: la Loma del Escobero sube con pendientes fuertes hacia sectores campestres, y muchos vehículos pasan la noche en parqueaderos de edificios. Con Seguimiento Activo GPS ves la ubicación cada 30 segundos, recibes alertas de encendido y velocidad, creas geocercas alrededor del edificio, la finca o la oficina, y revisas recorridos de 12 meses. Si te roban, la ubicación en tiempo real se comparte con la Policía por la línea 123 para facilitar la recuperación. Instalación $120.000 y mensualidad $47.600."
+    ],
+    "uses": [
+      {
+        "icon": "🌲",
+        "title": "Fincas y casas en la zona rural",
+        "text": "En veredas como El Escobero, Perico o Pantanillo hay casas campestres con vehículos que se quedan solos entre semana. La geocerca y la alerta de encendido te avisan de cualquier movimiento."
+      },
+      {
+        "icon": "💼",
+        "title": "Carros ejecutivos y de empresa",
+        "text": "Las empresas con sede en Envigado pueden asignar vehículos a ejecutivos o vendedores y revisar en la plataforma web kilometraje, horarios y recorridos, con reportes de uso por vehículo."
+      },
+      {
+        "icon": "👨‍👩‍👧",
+        "title": "Carro que comparte la familia",
+        "text": "Cuando varios miembros de la familia usan el mismo carro, la app muestra dónde está, por dónde ha ido y si se excedió la velocidad, sin llamadas ni discusiones."
+      },
+      {
+        "icon": "🛵",
+        "title": "Mensajería en el centro",
+        "text": "Las motos de domicilio que trabajan en el centro de Envigado y el Aburrá Sur se controlan con alertas de velocidad y registro de encendido, ideal para dueños de varias motos."
+      }
+    ],
+    "zones": [
+      "Zona Centro",
+      "Zúñiga",
+      "La Magnolia",
+      "El Esmeraldal",
+      "Alcalá",
+      "El Dorado",
+      "Las Vegas",
+      "Loma de Las Brujas",
+      "San Marcos",
+      "Uribe Ángel",
+      "Las Palmas",
+      "El Escobero",
+      "Perico",
+      "Pantanillo"
+    ],
+    "roads": [
+      {
+        "name": "Avenida Las Vegas",
+        "note": "Comunica a Envigado con Medellín, Itagüí y Sabaneta; el historial muestra tiempos reales en uno de los corredores más transitados del sur del valle."
+      },
+      {
+        "name": "Avenida El Poblado (Carrera 43A)",
+        "note": "Continúa desde Medellín hasta el centro de Envigado; útil para revisar recorridos diarios entre la casa, la oficina y los colegios."
+      },
+      {
+        "name": "Loma del Escobero",
+        "note": "Vía empinada que sube hacia la zona campestre y Las Palmas; las alertas de velocidad ayudan a controlar a quien maneja en la bajada."
+      },
+      {
+        "name": "Vía Las Palmas",
+        "note": "Conecta con el aeropuerto José María Córdova y el Oriente; con geocercas sabes cuándo el vehículo sale del valle hacia Rionegro."
+      }
+    ],
+    "install_note": "Por WhatsApp acordamos dónde hacer la instalación: tu casa, el parqueadero del edificio, la oficina o una finca en la zona rural de Envigado. En edificios con sótano conviene avisar a la portería para que el técnico pueda ingresar y trabajar con comodidad.",
+    "faqs": [
+      {
+        "q": "Tengo una finca en la vereda El Escobero, ¿llega bien la señal?",
+        "a": "Por su cercanía con la zona urbana, la zona rural de Envigado suele tener cobertura celular, que es la que usa el GPS para reportar. En hondonadas o puntos altos puede haber señal débil; ahí la ubicación se refresca cuando el equipo vuelve a conectarse. Cuéntanos el sitio exacto y te orientamos antes de instalar."
+      },
+      {
+        "q": "¿Puedo ver en un solo lugar los carros de mi empresa en Envigado?",
+        "a": "Sí. La plataforma web muestra toda la flota en un mapa, con la posición de cada vehículo cada 30 segundos. Puedes sacar reportes de uso, revisar el historial de 12 meses y recibir alertas de velocidad o de geocercas. Cada vehículo paga $120.000 de instalación y $47.600 al mes, sin permanencia."
+      },
+      {
+        "q": "Si me roban el carro en la Avenida Las Vegas, ¿qué debo hacer?",
+        "a": "Pon tu seguridad primero. Luego abre la app Monitor-X, mira la ubicación en tiempo real y llama a la línea 123 para compartirla con la Policía, lo que facilita la recuperación. El apagado remoto del motor está pensado para usarse cuando el vehículo está detenido o a baja velocidad, para no poner en riesgo a otras personas."
+      }
+    ],
+    "nearby": [
+      "medellin",
+      "sabaneta",
+      "itagui",
+      "rionegro"
+    ]
+  },
+  {
+    "slug": "rionegro",
+    "name": "Rionegro",
+    "dept": "antioquia",
+    "lat": 6.1551,
+    "lon": -75.3737,
+    "metro": null,
+    "lead": "GPS en Rionegro para carros, camionetas y carga: rastrea tu vehículo entre el aeropuerto, Llanogrande, San Antonio de Pereira y la autopista a Bogotá.",
+    "intro": [
+      "Rionegro es el centro del Oriente antioqueño y uno de los municipios que más ha cambiado en los últimos años. Aquí está el Aeropuerto Internacional José María Córdova, que sirve a Medellín, y a su alrededor se han desarrollado la Zona Franca, bodegas, hoteles y empresas de logística. El Túnel de Oriente lo acercó al Valle de Aburrá y la Autopista Medellín–Bogotá pasa por su territorio, así que a diario circulan camiones, taxis y vans del aeropuerto, carros de quienes viven aquí y trabajan en Medellín, y vehículos de turismo hacia el resto del Oriente.",
+      "El campo también pesa: la floricultura y la avicultura son actividades agrícolas importantes, y en sectores como Llanogrande, Pontezuela o Cabeceras hay fincas, condominios campestres y casas de recreo. Con Seguimiento Activo GPS ves tu vehículo cada 30 segundos, creas geocercas para la finca, la bodega o el aeropuerto, y recibes alertas de velocidad y encendido. Para flotas, la plataforma web entrega reportes de uso y mantenimiento por kilometraje. Instalación $120.000, mensualidad $47.600, sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "✈️",
+        "title": "Vans y taxis del aeropuerto",
+        "text": "Los vehículos que recogen pasajeros en el José María Córdova pueden tener una geocerca en la terminal: sabes a qué hora llegó cada van, cuánto esperó y a qué hora salió hacia Medellín o el Oriente."
+      },
+      {
+        "icon": "🌺",
+        "title": "Carga de flores y productos del Oriente",
+        "text": "Los camiones que llevan flores y alimentos de las fincas del Oriente hacia el aeropuerto o hacia Medellín se controlan con registro de paradas, alertas de velocidad y tiempos de viaje."
+      },
+      {
+        "icon": "🏡",
+        "title": "Camionetas en Llanogrande",
+        "text": "En condominios y fincas de Llanogrande muchos vehículos se quedan solos mientras sus dueños viajan. La alerta de encendido y la geocerca te avisan de cualquier movimiento, aunque estés fuera del país."
+      },
+      {
+        "icon": "🏭",
+        "title": "Logística en la Zona Franca",
+        "text": "Las empresas de la Zona Franca y las bodegas cercanas pueden ver su flota en un mapa, programar mantenimientos por kilometraje y revisar cuánto tarda cada viaje a Medellín por el túnel o por Las Palmas."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "San Antonio de Pereira",
+      "Gualanday",
+      "Cuatro Esquinas",
+      "El Porvenir",
+      "Belchite",
+      "Alto del Medio",
+      "Cabeceras de Llanogrande",
+      "Pontezuela",
+      "El Tablazo",
+      "Galicia",
+      "Barro Blanco",
+      "Chachafruto",
+      "Santa Bárbara"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Medellín–Bogotá",
+        "note": "Atraviesa el Oriente y conecta con Marinilla y el Magdalena Medio; el GPS registra cada viaje largo con paradas, velocidad y kilómetros."
+      },
+      {
+        "name": "Túnel de Oriente",
+        "note": "Acerca a Rionegro con Medellín; el historial muestra cuándo un vehículo entró al valle y cuándo regresó, útil para flotas y vehículos de servicio."
+      },
+      {
+        "name": "Vía Las Palmas",
+        "note": "Ruta tradicional entre el aeropuerto y Medellín; las alertas de velocidad ayudan a controlar a los conductores en la bajada larga hacia el valle."
+      }
+    ],
+    "install_note": "Coordinamos por WhatsApp la visita en Rionegro: casa en el casco urbano, condominio en Llanogrande, bodega en la Zona Franca o finca en vereda. En condominios y zonas francas suele pedirse registro de ingreso, así que conviene autorizar al técnico con anticipación en la portería.",
+    "faqs": [
+      {
+        "q": "Viajo seguido y dejo la camioneta en Llanogrande, ¿puedo vigilarla desde el exterior?",
+        "a": "Sí. La app Monitor-X funciona en cualquier lugar donde tu celular tenga internet, así que desde otro país puedes ver la ubicación de la camioneta y recibir las alertas de encendido y de geocerca. Si algo pasa, puedes avisar a alguien de confianza o a la Policía por la línea 123 y compartir la ubicación."
+      },
+      {
+        "q": "¿Sirve para controlar las vans que recogen pasajeros en el aeropuerto?",
+        "a": "Sí. Crea una geocerca en el aeropuerto y otras en los hoteles o puntos de destino. La plataforma registra cada llegada y salida con hora exacta, así sabes cuánto esperó cada van y cuánto tardó el trayecto. También puedes poner alertas de velocidad para la vía Las Palmas o el túnel."
+      },
+      {
+        "q": "¿Qué pasa si el camión va por la Autopista Medellín–Bogotá y entra a una zona sin señal?",
+        "a": "El GPS reporta donde haya cobertura celular. En la autopista hay tramos de montaña donde la señal puede caer por ratos; en esos tramos la ubicación se actualiza cuando el equipo recupera conexión. El resto del viaje queda registrado con normalidad en el historial de 12 meses."
+      }
+    ],
+    "nearby": [
+      "medellin",
+      "envigado",
+      "itagui",
+      "bello"
+    ]
+  },
+  {
+    "slug": "sabaneta",
+    "name": "Sabaneta",
+    "dept": "antioquia",
+    "lat": 6.1515,
+    "lon": -75.6166,
+    "metro": "Área Metropolitana del Valle de Aburrá",
+    "lead": "GPS en Sabaneta para carros, motos y vehículos de empresa: rastrea tus recorridos entre el parque principal, Calle Larga, La Doctora y la Avenida Las Vegas.",
+    "intro": [
+      "Sabaneta es uno de los municipios más pequeños de Colombia, con apenas unos 15 kilómetros cuadrados, pero tiene una vida intensa. Su parque principal, la devoción al Santuario de María Auxiliadora y una oferta gastronómica reconocida atraen visitantes de todo el Valle de Aburrá. Al mismo tiempo tiene una presencia industrial marcada, con fábricas y bodegas que aportan buena parte de los ingresos del municipio, y un crecimiento acelerado de edificios residenciales en sectores como Calle Larga, Restrepo Naranjo y las faldas de La Doctora.",
+      "Con tantas torres nuevas, muchos vehículos duermen en parqueaderos de edificio y las vías internas se congestionan en las horas pico. Seguimiento Activo GPS te muestra la ubicación cada 30 segundos en la app Monitor-X, te avisa si el vehículo se enciende sin permiso y te deja crear geocercas alrededor de la casa, la empresa o el colegio. Si manejas vehículos de una de las fábricas del municipio, la plataforma web ofrece reportes de uso por vehículo. Todo por $120.000 de instalación y una mensualidad de $47.600, sin permanencia mínima."
+    ],
+    "uses": [
+      {
+        "icon": "🏢",
+        "title": "Carros en torres residenciales",
+        "text": "Si vives en uno de los edificios nuevos de Sabaneta, la geocerca alrededor de tu torre te avisa cuando el carro sale del parqueadero, y la alerta de encendido detecta usos a deshoras."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Domicilios de restaurantes",
+        "text": "Los restaurantes alrededor del parque y de Calle Larga despachan pedidos en moto. El dueño puede ver dónde va cada domiciliario, revisar tiempos de entrega y recibir alertas de velocidad."
+      },
+      {
+        "icon": "🏭",
+        "title": "Vehículos de la industria local",
+        "text": "Las fábricas de Sabaneta pueden controlar camionetas y furgones con odómetro, alertas de mantenimiento por kilometraje y reportes de uso, para saber qué vehículo trabaja más y cuál necesita revisión."
+      },
+      {
+        "icon": "🚸",
+        "title": "Rutas escolares del Aburrá Sur",
+        "text": "Las rutas que recogen estudiantes en Sabaneta, Envigado e Itagüí pueden revisar horarios y paradas en el historial, y recibir alertas si el conductor supera el límite de velocidad."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Calle Larga",
+      "Calle del Banco",
+      "Restrepo Naranjo",
+      "Entreamigos",
+      "Holanda",
+      "Betania",
+      "Prados de Sabaneta",
+      "Aliadas del Sur",
+      "La Doctora",
+      "Pan de Azúcar",
+      "Las Lomitas",
+      "Cañaveralejo",
+      "María Auxiliadora"
+    ],
+    "roads": [
+      {
+        "name": "Avenida Las Vegas",
+        "note": "Conecta a Sabaneta con Envigado y Medellín; el historial te muestra cuánto tardan tus recorridos diarios en las horas de mayor congestión."
+      },
+      {
+        "name": "Avenida El Poblado",
+        "note": "Otra salida hacia Medellín pasando por Envigado; útil para comparar rutas con el historial y elegir la que menos tiempo te toma."
+      },
+      {
+        "name": "Autopista Sur",
+        "note": "Eje de carga junto al río que conecta con Itagüí y La Estrella; las geocercas registran la salida de cada furgón desde la fábrica."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp y acordamos la visita en Sabaneta. Como el municipio es pequeño, el técnico llega con facilidad a cualquier barrio o vereda; en edificios con portería, deja autorizado su ingreso al parqueadero para hacer la instalación sin contratiempos.",
+    "faqs": [
+      {
+        "q": "¿Puedo controlar las motos de domicilio de mi restaurante?",
+        "a": "Sí. Cada moto lleva su equipo y todas se ven en la misma plataforma. Puedes revisar los recorridos de cada pedido, ver cuánto se demoró la entrega y recibir alertas si un domiciliario supera la velocidad que fijes. También tienes registro de encendido y apagado, útil para saber si la moto se usa fuera del turno."
+      },
+      {
+        "q": "¿Sirve para un carro que casi siempre está parqueado?",
+        "a": "Sí, y es justo cuando más útil resulta la alerta de encendido. Si el carro pasa días quieto en el parqueadero del edificio, cualquier encendido o salida de la geocerca te llega como notificación. Así te enteras rápido y puedes actuar, por ejemplo avisando a la portería o a la Policía por la línea 123."
+      },
+      {
+        "q": "¿Cuánto cuesta en Sabaneta y hay que firmar un contrato largo?",
+        "a": "El precio es el mismo en todo el país: $120.000 de instalación, pagados una sola vez, y $47.600 de mensualidad. No hay cláusula de permanencia, así que puedes cancelar cuando quieras; en ese caso devuelves el equipo, que está en comodato, sin ningún costo."
+      }
+    ],
+    "nearby": [
+      "envigado",
+      "itagui",
+      "medellin"
+    ]
+  },
+  {
+    "slug": "apartado",
+    "name": "Apartadó",
+    "dept": "antioquia",
+    "lat": 7.8829,
+    "lon": -76.6258,
+    "metro": null,
+    "lead": "GPS en Apartadó para motos, camiones de banano y camionetas de finca: rastrea tu vehículo en el eje bananero de Urabá y en la vía a Turbo y Chigorodó.",
+    "intro": [
+      "Apartadó es el centro urbano y comercial más importante del Urabá antioqueño y el corazón del eje bananero. El banano y el plátano son la base de su economía: alrededor de las fincas se mueven camiones que llevan la fruta empacada hacia los embarcaderos y el puerto, buses de trabajadores, tractores y muchas motos, que son un medio de transporte muy común en la región. La ciudad también presta servicios a Carepa, Chigorodó y Turbo, y el aeropuerto Antonio Roldán Betancourt, ubicado en Carepa, la conecta con Medellín y Bogotá.",
+      "El clima es cálido y lluvioso, y fuera del casco urbano hay vías destapadas hacia corregimientos como San José de Apartadó, El Reposo, Churidó o Puerto Girón. Con Seguimiento Activo GPS ves la ubicación de tu vehículo cada 30 segundos donde haya cobertura celular; en tramos rurales sin señal, como algunas zonas de la serranía, la posición se actualiza cuando el equipo la recupera. Tienes alertas de encendido y velocidad, geocercas para fincas y empacadoras, y apagado remoto desde la app. Pagas $120.000 de instalación una vez y $47.600 al mes, sin contratos de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🍌",
+        "title": "Camiones de fruta hacia el puerto",
+        "text": "Los camiones que sacan cajas de banano de las fincas hacia los embarcaderos y el puerto en Turbo se controlan con geocercas en cada empacadora, para saber horas de cargue, salida y llegada."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos de trabajo y familia",
+        "text": "En Apartadó la moto lleva al trabajador a la finca, a los niños al colegio y la mercancía al negocio. La alerta de encendido y el apagado remoto, con la moto detenida o a baja velocidad, protegen ese patrimonio."
+      },
+      {
+        "icon": "🚜",
+        "title": "Tractores y equipos de finca",
+        "text": "Los tractores y la maquinaria agrícola de las fincas bananeras y plataneras reportan horas de encendido y ubicación, con aviso si un equipo sale del predio fuera del horario de labores."
+      },
+      {
+        "icon": "🚌",
+        "title": "Buses de trabajadores",
+        "text": "Las empresas que transportan personal desde los barrios de Apartadó hasta las fincas pueden verificar recorridos, horarios y velocidad de cada bus en la plataforma web."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Bernardo Jaramillo Ossa",
+      "Ocho de Febrero",
+      "Pueblo Nuevo",
+      "José Joaquín Vélez",
+      "San José de Apartadó",
+      "El Reposo",
+      "Churidó",
+      "Puerto Girón"
+    ],
+    "roads": [
+      {
+        "name": "Carretera al Mar (Medellín–Urabá)",
+        "note": "Une a Apartadó con Medellín por Dabeiba y Mutatá; en los tramos de montaña la señal puede variar y el GPS actualiza la posición al recuperarla."
+      },
+      {
+        "name": "Vía Apartadó–Turbo",
+        "note": "Corredor bananero hacia Currulao y Turbo; las geocercas registran el paso de los camiones de fruta entre fincas, empacadoras y embarcaderos."
+      },
+      {
+        "name": "Vía Apartadó–Carepa–Chigorodó",
+        "note": "Tramo sur del eje bananero con mucho tráfico de motos y buses; las alertas de velocidad ayudan a controlar a los conductores."
+      },
+      {
+        "name": "Vía a San José de Apartadó",
+        "note": "Sube hacia la serranía con tramos destapados; en zonas sin cobertura celular la ubicación se actualiza cuando vuelve la señal."
+      }
+    ],
+    "install_note": "Agenda por WhatsApp. En el casco urbano de Apartadó la instalación se hace en tu casa, negocio o parqueadero; para fincas y corregimientos se programa una fecha con anticipación. Envía la ubicación de la finca y el tipo de vehículo, sea moto, camión o tractor.",
+    "faqs": [
+      {
+        "q": "¿Puedo controlar los camiones que llevan la fruta de la finca al puerto?",
+        "a": "Sí. Crea una geocerca en la empacadora y otra en el punto de entrega. Cada vez que el camión entra o sale recibes un aviso con la hora, y en el historial ves el recorrido completo, las paradas y la velocidad. Así puedes revisar tiempos de cargue y detectar desvíos."
+      },
+      {
+        "q": "¿Funciona el GPS en la vía a San José de Apartadó y en las veredas?",
+        "a": "Funciona donde haya cobertura celular. En el casco urbano y en el eje bananero por lo general hay buena señal, pero en partes de la serranía puede haber tramos sin cobertura. Ahí el equipo conserva su configuración y la ubicación se actualiza en cuanto recupera la señal."
+      },
+      {
+        "q": "¿Vale la pena el GPS para una moto en Apartadó?",
+        "a": "Si la moto es tu medio de trabajo, sí. Por $47.600 al mes sabes dónde está en todo momento, recibes un aviso si alguien la enciende y puedes apagar el motor desde el celular con la moto detenida o a baja velocidad. En caso de robo, compartes la ubicación con la Policía por la línea 123 para facilitar la recuperación."
+      }
+    ],
+    "nearby": [
+      "turbo",
+      "monteria",
+      "medellin",
+      "quibdo"
+    ]
+  },
+  {
+    "slug": "turbo",
+    "name": "Turbo",
+    "dept": "antioquia",
+    "lat": 8.0926,
+    "lon": -76.7282,
+    "metro": null,
+    "lead": "GPS en Turbo para camiones portuarios, motos y vehículos de finca: sigue tus rutas entre Currulao, Nueva Colonia y Puerto Antioquia desde el celular.",
+    "intro": [
+      "Turbo, a orillas del golfo de Urabá, es la puerta marítima de Antioquia. Las plantaciones de banano y plátano son su principal fuente de empleo, y en zonas como Nueva Colonia y Currulao se concentra buena parte de la actividad bananera. A eso se suma Puerto Antioquia, la nueva terminal portuaria multipropósito que empezó a operar en 2026 y que acerca el interior del país a la actividad portuaria, con más camiones de contenedores y carga circulando por la zona y por las vías que la conectan con Apartadó y Medellín.",
+      "El territorio es amplio y diverso: además del casco urbano, con barrios como Gaitán, Obrero, Brisas del Mar o Punta Las Vacas, tiene una franja agrícola hacia Apartadó, un sector norte hacia Necoclí y el litoral del Atrato, donde buena parte de la movilidad es por agua. Con Seguimiento Activo GPS ves tus vehículos donde haya cobertura celular, con actualización cada 30 segundos; en tramos rurales o costeros sin señal, la ubicación se actualiza cuando el equipo la recupera. Instalación $120.000 y mensualidad $47.600."
+    ],
+    "uses": [
+      {
+        "icon": "⚓",
+        "title": "Camiones de contenedores y carga",
+        "text": "Con la operación portuaria en Turbo, los transportadores pueden marcar el puerto y sus patios como geocercas y saber cuándo entra y sale cada vehículo, cuánto esperó y qué ruta tomó hacia el interior."
+      },
+      {
+        "icon": "🍌",
+        "title": "Fruta desde Nueva Colonia y Currulao",
+        "text": "Los camiones que mueven cajas de banano y plátano entre fincas, empacadoras y embarcaderos quedan registrados con horas, paradas y kilómetros, útil para liquidar cada viaje."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en el casco urbano",
+        "text": "En Turbo la moto es el transporte del día a día. La alerta de encendido avisa si alguien la prende de noche, y la ubicación en tiempo real se comparte con la Policía si te la roban."
+      },
+      {
+        "icon": "🛻",
+        "title": "Camionetas hacia Necoclí y el norte",
+        "text": "Comerciantes y ganaderos que se mueven por la vía Turbo–Necoclí pueden revisar recorridos, recibir alertas de velocidad y programar mantenimiento por kilometraje para vías con tramos difíciles."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Gaitán",
+      "Obrero",
+      "Brisas del Mar",
+      "Punta Las Vacas",
+      "Las Flores",
+      "Currulao",
+      "Nueva Colonia",
+      "Nuevo Antioquia",
+      "Ríogrande",
+      "El Tres",
+      "El Dos",
+      "Pueblo Bello",
+      "Bocas del Atrato"
+    ],
+    "roads": [
+      {
+        "name": "Vía Turbo–Apartadó (Ruta Nacional 62)",
+        "note": "Es la conexión con el eje bananero y con la Carretera al Mar hacia Medellín; el historial muestra paradas y tiempos de cada camión."
+      },
+      {
+        "name": "Transversal del Caribe (Ruta Nacional 90)",
+        "note": "Sale hacia Necoclí, Arboletes y la costa de Córdoba; útil para seguir viajes largos con alertas de velocidad y registro de paradas."
+      },
+      {
+        "name": "Accesos a Puerto Antioquia",
+        "note": "Zona de patios y vías de acceso a la nueva terminal; las geocercas registran la hora de llegada y salida de cada vehículo de carga."
+      }
+    ],
+    "install_note": "Coordina por WhatsApp. En el casco urbano de Turbo se acuerda la visita en tu casa, negocio o patio de carga; para fincas en Currulao, Nueva Colonia o el norte del municipio se agenda la fecha con anticipación. Envía la ubicación exacta de la finca para planear la ruta.",
+    "faqs": [
+      {
+        "q": "¿Puedo controlar camiones que entran y salen de Puerto Antioquia?",
+        "a": "Sí. Puedes crear una geocerca alrededor de la terminal o de los patios donde esperan los vehículos. Cada entrada y salida queda registrada con hora, y en el historial ves cuánto tiempo estuvo el camión en la zona y qué ruta tomó después. Es información útil para liquidar fletes y organizar turnos de cargue."
+      },
+      {
+        "q": "¿Llega la señal a Bocas del Atrato o a las veredas del litoral?",
+        "a": "El GPS funciona donde hay cobertura celular. En el casco urbano y en la franja bananera suele haber señal, pero en zonas del litoral y del Atrato la cobertura puede ser limitada o inexistente. En esos tramos la ubicación se actualiza cuando el equipo recupera conexión, algo que conviene tener en cuenta para vehículos que trabajan allí."
+      },
+      {
+        "q": "¿Cómo me sirve el historial si trabajo con fletes por viaje?",
+        "a": "El historial de 12 meses guarda cada recorrido con fecha, hora de salida y de llegada, paradas y kilómetros. Si cobras o pagas fletes por viaje entre Turbo, Apartadó o Necoclí, tienes un registro objetivo para cuadrar cuentas con el conductor o con el cliente, además de los reportes de uso de la plataforma web."
+      }
+    ],
+    "nearby": [
+      "apartado",
+      "monteria",
+      "quibdo",
+      "medellin"
+    ]
+  },
+  {
+    "slug": "caucasia",
+    "name": "Caucasia",
+    "dept": "antioquia",
+    "lat": 7.9865,
+    "lon": -75.1935,
+    "metro": null,
+    "lead": "GPS en Caucasia para tractomulas de la Troncal, motos y camionetas ganaderas: rastrea tu vehículo en el Bajo Cauca con alertas y apagado remoto.",
+    "intro": [
+      "Caucasia es el gran centro comercial del Bajo Cauca antioqueño y un punto clave de la Troncal de Occidente, la carretera que une a Medellín con la Costa Caribe. Por aquí pasan a toda hora tractomulas, buses intermunicipales y camiones de carga, y el municipio funciona como centro de abastecimiento para una amplia zona de la subregión. Su economía se apoya en la ganadería, en la que es el mayor productor del Bajo Cauca, en la pesca, la agricultura y la minería de oro, que todavía da empleo a parte de la población.",
+      "El río Cauca marca la vida local, y fuera del casco urbano hay corregimientos como Margento, Cuturú, Palanca o Puerto Triana, con vías destapadas y zonas de explotación minera. Con Seguimiento Activo GPS controlas tus vehículos con ubicación cada 30 segundos donde haya cobertura celular; en las zonas rurales sin señal, la posición se actualiza cuando el equipo la recupera. Tienes alertas de velocidad para la Troncal, geocercas para fincas y patios, y registro de encendido para maquinaria. La instalación vale $120.000 y la mensualidad $47.600, sin amarrarte a ningún plazo."
+    ],
+    "uses": [
+      {
+        "icon": "🚛",
+        "title": "Tractomulas en la Troncal",
+        "text": "Las empresas y propietarios con vehículos en la ruta Medellín–Costa pueden seguir cada viaje, ver las paradas en Caucasia, recibir alertas de velocidad y revisar cuánto tiempo pasa el camión detenido en cada punto."
+      },
+      {
+        "icon": "🐂",
+        "title": "Camionetas y camiones ganaderos",
+        "text": "Los ganaderos que mueven animales entre fincas del Bajo Cauca controlan sus vehículos con geocercas en cada predio y registro de kilómetros, útil en vías destapadas y viajes largos."
+      },
+      {
+        "icon": "⛏️",
+        "title": "Maquinaria amarilla en obra y minería",
+        "text": "Retroexcavadoras y otra maquinaria amarilla son comunes en la región. Somos proveedor autorizado por la Policía Nacional para el rastreo satelital de maquinaria amarilla, con registro de encendido y ubicación."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en el casco urbano",
+        "text": "En el calor de Caucasia la moto es el transporte de todos los días. La alerta de encendido te avisa si la prenden sin permiso, y puedes apagarla desde la app si está detenida o a baja velocidad."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "La Victoria",
+      "Las Brisas",
+      "La Esperanza",
+      "Margento",
+      "Cuturú",
+      "Palanca",
+      "Puerto Triana",
+      "Santa Rosita",
+      "Cacerí",
+      "El Pando",
+      "Palomar",
+      "Puerto Colombia",
+      "Las Malvinas"
+    ],
+    "roads": [
+      {
+        "name": "Troncal de Occidente hacia Medellín",
+        "note": "Sube por Tarazá, Valdivia y Yarumal con tramos de montaña; si la señal cae por ratos, la ubicación se actualiza al recuperarla."
+      },
+      {
+        "name": "Troncal de Occidente hacia la Costa",
+        "note": "Sale hacia Planeta Rica, Montería y Sincelejo; útil para controlar tractomulas y buses en viajes largos por tierra caliente."
+      },
+      {
+        "name": "Puente Carlos Lleras Restrepo",
+        "note": "Cruza el río Cauca en Caucasia y conecta varios municipios de la región; con geocercas sabes cuándo un vehículo pasa al otro lado del río."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp. Como Caucasia está lejos de las capitales, la instalación se agenda con fecha: nos indicas la dirección en el casco urbano, el patio de la empresa o la finca, y el tipo de vehículo. Para tractomulas de paso, se puede coordinar cuando el camión pare en el municipio.",
+    "faqs": [
+      {
+        "q": "Mi tractomula hace Medellín–Caucasia–Costa, ¿la puedo seguir todo el viaje?",
+        "a": "Sí, donde haya cobertura celular la verás en tiempo real, con actualización cada 30 segundos. En tramos de montaña entre Valdivia y Yarumal o en zonas rurales puede haber cortes de señal; en esos casos la posición se actualiza cuando el equipo la recupera. Al final del viaje tienes en el historial paradas, horas y velocidad."
+      },
+      {
+        "q": "¿El GPS sirve para retroexcavadoras y maquinaria amarilla?",
+        "a": "Sí, y contamos con autorización de la Policía Nacional como proveedor de rastreo satelital de maquinaria amarilla. El equipo registra ubicación, encendido y apagado, y puedes crear geocercas para que te avise si la máquina sale del frente de trabajo. El precio es el mismo que para un carro: $120.000 de instalación y $47.600 al mes."
+      },
+      {
+        "q": "¿Funciona en corregimientos como Cuturú o Puerto Triana?",
+        "a": "El GPS trabaja donde haya cobertura de red celular. En el casco urbano de Caucasia suele haber buena señal, pero en corregimientos y veredas alejadas puede ser débil o intermitente. Allí la ubicación se actualiza cuando el equipo vuelve a tener señal. Antes de instalar, cuéntanos dónde trabaja el vehículo y te orientamos con honestidad."
+      }
+    ],
+    "nearby": [
+      "monteria",
+      "sahagun",
+      "sincelejo",
+      "medellin"
+    ]
+  },
+  {
+    "slug": "palmira",
+    "name": "Palmira",
+    "dept": "valle-del-cauca",
+    "lat": 3.5394,
+    "lon": -76.3036,
+    "metro": null,
+    "lead": "GPS en Palmira para carros, motos y vehículos del campo: rastrea tu vehículo entre el centro, Rozo, el aeropuerto y la Recta Cali–Palmira en tiempo real.",
+    "intro": [
+      "Palmira, la Villa de las Palmas, es uno de los grandes centros agrícolas del Valle del Cauca. La caña de azúcar domina el paisaje y alrededor de los ingenios se mueven tractores, camiones cañeros y vehículos de servicio a casi cualquier hora. En su territorio está el Aeropuerto Internacional Alfonso Bonilla Aragón, que sirve a Cali, y funcionan la Zona Franca del Pacífico y la Zona Franca Palmaseca, con bodegas y empresas de distribución. A eso se suma una vida universitaria activa, con sedes de la Universidad Nacional y la Universidad del Valle.",
+      "La Recta Cali–Palmira es el corredor de quienes viven en una ciudad y trabajan en la otra, y corregimientos como Rozo, Amaime o Palmaseca conectan con el aeropuerto y las zonas rurales. Con Seguimiento Activo GPS ves tu vehículo cada 30 segundos, recibes alertas de velocidad y encendido, y creas geocercas alrededor de la casa, la finca o la bodega. Si te roban, compartes la ubicación en tiempo real con la Policía por la línea 123. Pagas $120.000 al instalar y $47.600 mensuales, sin permanencia y con el equipo en comodato."
+    ],
+    "uses": [
+      {
+        "icon": "🌾",
+        "title": "Vehículos de la caña y el campo",
+        "text": "Tractores, camionetas de supervisión y vehículos que trabajan entre los cultivos de caña registran horas de encendido y ubicación, con aviso si salen de la hacienda fuera de horario."
+      },
+      {
+        "icon": "✈️",
+        "title": "Transporte hacia el aeropuerto",
+        "text": "Taxis, vans y conductores que llevan pasajeros al Alfonso Bonilla Aragón pueden respaldar tiempos de llegada y recorridos con el historial, y el dueño del vehículo lleva control de cada servicio."
+      },
+      {
+        "icon": "📦",
+        "title": "Bodegas de las zonas francas",
+        "text": "Las empresas de las zonas francas pueden ver su flota en la plataforma web, crear geocercas en la bodega y en los clientes de Cali, y programar mantenimientos por kilometraje."
+      },
+      {
+        "icon": "🚗",
+        "title": "Viajes diarios por la Recta",
+        "text": "Si vives en Palmira y trabajas en Cali, o al revés, el historial muestra cuánto te toma cada trayecto, y las alertas de velocidad ayudan a controlar a quien maneja el carro de la familia."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Zamorano",
+      "Coronado",
+      "El Prado",
+      "Versalles",
+      "Chapinero",
+      "Alfonso López",
+      "Santa Bárbara",
+      "Rozo",
+      "Amaime",
+      "Palmaseca",
+      "Bolo San Isidro",
+      "Guayabal",
+      "Combia"
+    ],
+    "roads": [
+      {
+        "name": "Recta Cali–Palmira",
+        "note": "Corredor diario entre las dos ciudades, con tráfico de carga y particulares; el historial muestra tiempos de viaje y paradas de cada vehículo."
+      },
+      {
+        "name": "Carretera Panamericana hacia Buga",
+        "note": "Sale al norte hacia El Cerrito, Buga y Tuluá; útil para controlar camiones y vehículos de reparto con alertas de velocidad."
+      },
+      {
+        "name": "Vía Cencar–Aeropuerto",
+        "note": "Conecta el aeropuerto con Yumbo y la zona industrial del norte de Cali; las geocercas registran la entrada y salida de vehículos de carga."
+      }
+    ],
+    "install_note": "Por WhatsApp acordamos la visita en Palmira: casa en el casco urbano, conjunto, bodega en zona franca o finca en un corregimiento como Rozo o Amaime. Para vehículos que trabajan en la caña, conviene coordinar la hora fuera de las jornadas de corte o de transporte.",
+    "faqs": [
+      {
+        "q": "¿Puedo saber cuánto trabaja cada tractor en la hacienda?",
+        "a": "Sí. El GPS registra cada encendido y apagado, así que ves cuántas horas estuvo funcionando el tractor y dónde. Con una geocerca alrededor de la hacienda recibes un aviso si el equipo sale del predio. En la plataforma web puedes sacar reportes de uso por vehículo para comparar semanas o lotes."
+      },
+      {
+        "q": "Hago servicios al aeropuerto, ¿el historial sirve como respaldo con los clientes?",
+        "a": "El historial muestra con fecha y hora en qué momento llegaste al aeropuerto, cuánto esperaste y qué ruta tomaste. Esa información, guardada 12 meses, te sirve para aclarar dudas con un cliente o con la empresa que te contrata. Puedes consultarla desde la app o desde la plataforma web."
+      },
+      {
+        "q": "¿El GPS funciona en los corregimientos de la parte alta, hacia la cordillera?",
+        "a": "Funciona donde haya cobertura celular. En el casco urbano, la Recta y la zona plana de la caña la señal suele ser buena; en corregimientos de montaña hacia la cordillera Central puede haber puntos débiles. Allí la ubicación se actualiza cuando el equipo recupera la señal, y el resto del recorrido queda en el historial."
+      }
+    ],
+    "nearby": [
+      "cali",
+      "yumbo",
+      "buga",
+      "jamundi"
+    ]
+  },
+  {
+    "slug": "buenaventura",
+    "name": "Buenaventura",
+    "dept": "valle-del-cauca",
+    "lat": 3.8801,
+    "lon": -77.0312,
+    "metro": null,
+    "lead": "GPS para tractomulas, camiones y carros en Buenaventura: controla la ruta al puerto por la vía a Buga, las esperas en terminales y tus recorridos urbanos.",
+    "intro": [
+      "Buenaventura es el principal puerto de Colombia sobre el Pacífico, y por sus terminales entra y sale una parte muy importante del comercio exterior del país. La ciudad se divide entre la Isla Cascajal, donde están el centro y la terminal marítima tradicional, y la zona continental de El Pailón, conectada por el Puente El Piñal. Todos los días bajan y suben tractomulas y camiones de contenedores por la vía a Buga, y en la ciudad se forman filas y esperas para entrar a los puertos, algo que cualquier transportador conoce bien.",
+      "Fuera del casco urbano el territorio es selva húmeda, ríos y costa, con lugares como Bajo Calima, San Cipriano, Córdoba o las playas de Juanchaco y Ladrilleros. La cobertura celular en esas zonas es limitada: el GPS reporta donde haya señal y, en los tramos sin cobertura de la carretera o de la zona rural, la ubicación se actualiza cuando el equipo la recupera. Donde hay señal tienes ubicación cada 30 segundos, alertas, geocercas y apagado remoto. Instalación $120.000 y mensualidad $47.600, sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🚛",
+        "title": "Tractomulas de contenedores",
+        "text": "Las empresas que suben y bajan contenedores entre el puerto y el interior pueden ver cada tractomula en el mapa, saber cuánto tiempo pasó en la fila o en el patio y revisar las paradas en la vía a Buga."
+      },
+      {
+        "icon": "⚓",
+        "title": "Control de esperas en terminales",
+        "text": "Con geocercas en las terminales de la Isla Cascajal y Aguadulce, el sistema registra a qué hora llegó y salió cada vehículo, útil para medir esperas y planear turnos de cargue."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en la isla y el continente",
+        "text": "En los barrios de la isla y del continente la moto es el medio más ágil. La alerta de encendido avisa si alguien la prende sin permiso, y en caso de robo compartes la ubicación con la Policía por la línea 123."
+      },
+      {
+        "icon": "🛻",
+        "title": "Camionetas de agencias y logística",
+        "text": "Las agencias de aduana y los operadores logísticos coordinan mejor sus camionetas y mensajeros entre terminales, bodegas y oficinas al ver la ubicación de cada vehículo en tiempo real."
+      }
+    ],
+    "zones": [
+      "Isla Cascajal",
+      "El Pailón",
+      "Centro",
+      "Pueblo Nuevo",
+      "La Playita",
+      "Bajo Calima",
+      "Córdoba",
+      "San Cipriano",
+      "Zaragoza",
+      "Triana",
+      "Juanchaco",
+      "Ladrilleros"
+    ],
+    "roads": [
+      {
+        "name": "Vía Buga–Buenaventura (Vía al Mar)",
+        "note": "Es la salida de la carga hacia el interior, con tramos de montaña y obras; el GPS registra paradas y tiempos, y actualiza la ubicación donde vuelve la señal."
+      },
+      {
+        "name": "Vía Alterna Interna",
+        "note": "Corredor pensado para el tráfico de carga hacia la zona portuaria; con geocercas se registran las llegadas y salidas de cada camión."
+      },
+      {
+        "name": "Avenida Simón Bolívar",
+        "note": "Eje principal de la ciudad entre el continente y la isla; útil para seguir motos y carros en el tráfico diario y revisar sus recorridos."
+      },
+      {
+        "name": "Puente El Piñal",
+        "note": "Une la Isla Cascajal con el continente; con una geocerca sabes cuándo un vehículo entra o sale de la isla y a qué hora."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp y agendamos la fecha de instalación en Buenaventura. Indica si el vehículo está en el casco urbano, en un patio de contenedores o en una empresa de la zona portuaria. Para tractomulas que viajan seguido, se puede coordinar la cita en un momento en que el camión esté detenido en la ciudad.",
+    "faqs": [
+      {
+        "q": "¿Puedo controlar camiones que bajan al puerto de Buenaventura desde Buga o Cali?",
+        "a": "Sí. Verás la tractomula en tiempo real donde haya cobertura celular, con alertas de velocidad y registro de cada parada. En los tramos de montaña con poca señal la ubicación se actualiza cuando el equipo la recupera. Al llegar, la geocerca del puerto te avisa de la entrada y luego de la salida."
+      },
+      {
+        "q": "¿Hay señal en San Cipriano, Juanchaco o la zona rural?",
+        "a": "La cobertura celular en la zona rural de Buenaventura es limitada, y el GPS depende de ella para reportar. En la ciudad funciona con normalidad, pero en ríos, playas y veredas puede no haber señal. En esos lugares la ubicación se actualiza solo cuando el equipo vuelve a tener cobertura, así que conviene saberlo antes de instalar."
+      },
+      {
+        "q": "¿Sirve para medir cuánto tiempo pasan mis camiones esperando para entrar al puerto?",
+        "a": "Sí, es uno de los usos más prácticos. Crea geocercas en las filas, patios o terminales y el sistema registra la hora de llegada y de salida de cada camión. En el historial y en los reportes de uso ves cuánto tiempo estuvo detenido, información útil para planear turnos y explicar retrasos a tus clientes."
+      }
+    ],
+    "nearby": [
+      "cali",
+      "buga",
+      "yumbo",
+      "palmira"
+    ]
+  },
+  {
+    "slug": "tulua",
+    "name": "Tuluá",
+    "dept": "valle-del-cauca",
+    "lat": 4.0847,
+    "lon": -76.1954,
+    "metro": null,
+    "lead": "GPS en Tuluá para carros, motos y camiones del centro del Valle: rastrea tus recorridos entre el casco urbano, Mateguadua, Barragán y la Panamericana.",
+    "intro": [
+      "Tuluá, conocida como el Corazón del Valle, es el centro comercial y de servicios del centro del departamento. Su ubicación sobre la Carretera Panamericana la convierte en punto de paso entre Cali y el Eje Cafetero, y su comercio atiende también a municipios vecinos como Andalucía, Bugalagrande, Riofrío y San Pedro. Tiene centros comerciales, la Unidad Central del Valle del Cauca y una feria tradicional, y en barrios como Sajonia, Pueblo Nuevo, La Graciela o Victoria se mueven a diario motos y carros particulares.",
+      "Su territorio va desde la zona plana del río Cauca, con caña, maíz y plátano, hasta la cordillera Central, donde corregimientos como Barragán y Santa Lucía cultivan papa y trigo, pasando por una franja media de café y frutales. Con Seguimiento Activo GPS ves tu vehículo cada 30 segundos donde haya cobertura celular; en las partes altas, donde la señal puede faltar, la ubicación se actualiza cuando el equipo la recupera. Tienes alertas, geocercas, odómetro y apagado remoto. El precio es $120.000 de instalación y $47.600 de mensualidad, sin cláusula de permanencia."
+    ],
+    "uses": [
+      {
+        "icon": "🥔",
+        "title": "Camionetas de la cordillera",
+        "text": "Quienes bajan papa, café o frutas desde Barragán, Santa Lucía o La Moralia hacia Tuluá pueden revisar recorridos, paradas y kilómetros, y programar mantenimiento por kilometraje para vías de montaña."
+      },
+      {
+        "icon": "🛒",
+        "title": "Reparto al comercio del centro del Valle",
+        "text": "Los distribuidores que abastecen tiendas en Tuluá y municipios vecinos pueden ver su flota en un mapa, crear geocercas en cada cliente y comprobar con horas exactas las entregas realizadas."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en los barrios",
+        "text": "En Tuluá la moto es vehículo de trabajo y de familia. La alerta de encendido te avisa si alguien la prende sin permiso, y en caso de robo compartes la ubicación con la Policía por la línea 123."
+      },
+      {
+        "icon": "🌳",
+        "title": "Fincas y paseos en Mateguadua",
+        "text": "Si tienes finca o pasas fines de semana por la zona del Jardín Botánico Juan María Céspedes, en Mateguadua, una geocerca te avisa si el vehículo sale del predio mientras estás en la ciudad."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Sajonia",
+      "Pueblo Nuevo",
+      "La Graciela",
+      "El Lago",
+      "Victoria",
+      "Villa Campestre",
+      "Mateguadua",
+      "Aguaclara",
+      "Nariño",
+      "Tres Esquinas",
+      "La Moralia",
+      "Barragán",
+      "Santa Lucía"
+    ],
+    "roads": [
+      {
+        "name": "Doble calzada Buga–Tuluá–La Paila (Panamericana)",
+        "note": "Conecta con Cali y el Eje Cafetero; el historial registra viajes de carga y de reparto con velocidad, paradas y kilómetros."
+      },
+      {
+        "name": "Vía Panorama",
+        "note": "Corre por la otra margen del río Cauca hacia Riofrío y el norte del Valle; útil como ruta alterna para camiones y vehículos de reparto."
+      },
+      {
+        "name": "Vía Tuluá–Barragán",
+        "note": "Sube hacia la cordillera Central y el páramo con tramos destapados; donde no haya señal, la ubicación se actualiza al recuperar cobertura."
+      }
+    ],
+    "install_note": "Coordina por WhatsApp la instalación en Tuluá: en tu casa, negocio o parqueadero del casco urbano, o en una finca de corregimiento. Si el vehículo está en la parte alta, como Barragán o Santa Lucía, se agenda una fecha con anticipación y se confirma la ruta de acceso.",
+    "faqs": [
+      {
+        "q": "¿Funciona el GPS si subo con la camioneta a Barragán?",
+        "a": "Funciona donde haya cobertura celular. En el casco urbano y la zona plana de Tuluá la señal suele ser buena, pero en la cordillera hay tramos con señal débil o sin ella. En esos tramos la ubicación se actualiza cuando el equipo vuelve a tener cobertura. Las alertas y la configuración siguen activas durante todo el viaje."
+      },
+      {
+        "q": "Tengo una distribuidora con tres furgones, ¿cómo sé si cumplen las rutas?",
+        "a": "Crea una geocerca en cada cliente importante y en la bodega. El sistema te avisa cuando cada furgón llega y sale, y en el historial ves el orden de las visitas, las paradas y la velocidad. Con los reportes de uso de la plataforma web comparas el rendimiento de cada vehículo y conductor."
+      },
+      {
+        "q": "¿Puedo pagar la mensualidad y cancelar cuando quiera?",
+        "a": "Sí. La mensualidad es de $47.600 y no hay cláusula de permanencia. Si decides cancelar, devuelves el equipo, que está en comodato, sin costo. La instalación de $120.000 se paga una sola vez e incluye el dispositivo en préstamo, la instalación oculta, la configuración y la capacitación en la app."
+      }
+    ],
+    "nearby": [
+      "buga",
+      "cartago",
+      "palmira",
+      "armenia"
+    ]
+  },
+  {
+    "slug": "cartago",
+    "name": "Cartago",
+    "dept": "valle-del-cauca",
+    "lat": 4.7464,
+    "lon": -75.9117,
+    "metro": null,
+    "lead": "GPS en Cartago para carros, motos y camiones del norte del Valle: rastrea tus viajes a Pereira y por la Panamericana desde la app Monitor-X.",
+    "intro": [
+      "Cartago, en el extremo norte del Valle del Cauca, es conocida como la capital mundial del bordado, y sus talleres y almacenes de bordados son parte de su identidad. Está a orillas del río La Vieja, cerca de su desembocadura en el Cauca, y a corta distancia de Pereira, lo que la conecta con la vida del Eje Cafetero tanto como con la del Valle. Su economía combina agricultura, ganadería, comercio y pequeña industria, y su posición sobre la Panamericana la vuelve punto de paso para camiones y viajeros.",
+      "En el casco urbano, barrios como Ortez, Bellavista, El Guadual, Santa Bárbara o Los Lagos tienen mucho movimiento de motos, mientras hacia la zona rural están Zaragoza, Coloradas o Modín. El aeropuerto Santa Ana, al occidente de la ciudad, completa el mapa. Con Seguimiento Activo GPS ves tu vehículo cada 30 segundos, recibes alertas de encendido y velocidad, y creas geocercas para saber cuándo cruza al Risaralda o vuelve a casa. Instalación $120.000 y mensualidad $47.600, sin cláusula de permanencia y con el equipo en comodato."
+    ],
+    "uses": [
+      {
+        "icon": "🧵",
+        "title": "Reparto de bordados y confecciones",
+        "text": "Los talleres y almacenes que envían pedidos a Pereira, Armenia o Cali pueden seguir sus vehículos de reparto, confirmar entregas con geocercas y revisar en el historial los tiempos de cada viaje."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos que van a Pereira",
+        "text": "Muchos cartagüeños trabajan o estudian en Pereira y viajan en moto. La alerta de velocidad ayuda en la carretera, y la alerta de encendido te avisa si alguien usa la moto mientras estás fuera."
+      },
+      {
+        "icon": "🐄",
+        "title": "Camionetas ganaderas y agrícolas",
+        "text": "En las fincas de la zona rural de Cartago y del norte del Valle, las camionetas y tractores reportan ubicación y horas de encendido, con aviso si salen del predio sin autorización."
+      },
+      {
+        "icon": "🚛",
+        "title": "Camiones de paso por la Panamericana",
+        "text": "Los transportadores que cruzan el norte del Valle hacia el Eje Cafetero o el sur pueden revisar sus paradas en Cartago, la velocidad en la variante y los kilómetros de cada viaje."
+      }
+    ],
+    "zones": [
+      "El Centro",
+      "Ortez",
+      "Bellavista",
+      "San Fernando",
+      "El Guadual",
+      "Santa Bárbara",
+      "Ciudad Jardín",
+      "Los Lagos",
+      "Guadalupe",
+      "El Prado",
+      "Zaragoza",
+      "Coloradas",
+      "Modín",
+      "Piedra de Moler"
+    ],
+    "roads": [
+      {
+        "name": "Vía Panamericana (La Variante)",
+        "note": "Bordea la ciudad y concentra el tráfico de carga del norte del Valle; el historial muestra paradas y velocidad de cada camión."
+      },
+      {
+        "name": "Vía Cartago–Pereira",
+        "note": "Conecta con Pereira y el Eje Cafetero en un trayecto corto y transitado; útil para controlar viajes diarios de trabajo y reparto con alertas de velocidad."
+      },
+      {
+        "name": "Avenida del Río",
+        "note": "Eje urbano junto al río La Vieja; el historial te muestra por dónde se movió la moto o el carro dentro de la ciudad."
+      }
+    ],
+    "install_note": "Escríbenos por WhatsApp con tu dirección en Cartago o en la zona rural. El técnico va a tu casa, al taller, al almacén o a la finca; si eres transportador de paso, podemos coordinar un horario en el que el camión esté detenido en la ciudad.",
+    "faqs": [
+      {
+        "q": "Trabajo en Pereira y vivo en Cartago, ¿el GPS sirve en los dos departamentos?",
+        "a": "Sí. El servicio funciona en todo el país donde haya cobertura celular, sin importar el departamento. Puedes crear una geocerca en Cartago y otra en tu trabajo en Pereira para recibir avisos de llegada y salida, y en el historial ves cada trayecto con hora y velocidad."
+      },
+      {
+        "q": "¿Me sirve para un vehículo que entrega bordados en varias ciudades?",
+        "a": "Sí. Con el historial de 12 meses tienes registro de cada viaje a Pereira, Armenia, Cali u otras ciudades, con paradas y tiempos. Puedes crear geocercas en los clientes principales y recibir alertas de velocidad. El odómetro y las alertas de mantenimiento por kilometraje ayudan a cuidar el vehículo en viajes frecuentes."
+      },
+      {
+        "q": "¿Puedo recibir una alerta si la moto pasa de cierta velocidad?",
+        "a": "Sí. Defines el límite que quieras, por ejemplo para la variante o la vía a Pereira, y cada vez que la moto lo supere te llega una notificación al celular. En el historial también queda la velocidad de cada tramo, útil si la moto la maneja un hijo o un empleado. Las alertas son ilimitadas y están incluidas en la mensualidad."
+      }
+    ],
+    "nearby": [
+      "pereira",
+      "dosquebradas",
+      "santa-rosa-de-cabal",
+      "armenia",
+      "tulua"
+    ]
+  },
+  {
+    "slug": "buga",
+    "name": "Buga",
+    "dept": "valle-del-cauca",
+    "lat": 3.9009,
+    "lon": -76.2978,
+    "metro": null,
+    "lead": "GPS en Buga para carros, motos y camiones que van al puerto: rastrea tus viajes por la vía Buga–Buenaventura, la Panamericana y el centro histórico.",
+    "intro": [
+      "Guadalajara de Buga es conocida en todo el país por la Basílica del Señor de los Milagros, que recibe peregrinos durante todo el año. Su centro histórico, sus hoteles y su comercio viven en buena medida del turismo religioso, y los fines de semana llegan buses, vans y carros particulares desde Cali, el Eje Cafetero y otras regiones. Al mismo tiempo, Buga es un nudo vial: aquí convergen la Panamericana y la Panorama, y de aquí parte la carretera hacia Buenaventura, la ruta de la carga que va y viene del puerto.",
+      "La economía local suma comercio, cultivos de caña, café, maíz y plátano, ganadería, avicultura e industria, y cerca de la ciudad está la Laguna de Sonso, un humedal del valle del río Cauca. Con Seguimiento Activo GPS ves tus vehículos con actualización cada 30 segundos, recibes alertas de velocidad para la vía al puerto, creas geocercas en bodegas o fincas y registras encendidos y apagados. En caso de robo, la ubicación en tiempo real se comparte con la Policía, línea 123, para facilitar la recuperación. El costo es de $120.000 por la instalación y $47.600 al mes, y si cancelas solo devuelves el equipo."
+    ],
+    "uses": [
+      {
+        "icon": "🚛",
+        "title": "Carga hacia Buenaventura",
+        "text": "Los transportadores que salen de Buga hacia el puerto pueden seguir cada viaje, ver las paradas en Loboguerrero o en la vía y recibir alertas de velocidad en los tramos de montaña."
+      },
+      {
+        "icon": "⛪",
+        "title": "Turismo religioso a la Basílica",
+        "text": "Las vans y buses que traen peregrinos a la Basílica le muestran al operador la ruta completa, los tiempos de espera en Buga y cualquier exceso de velocidad en el regreso."
+      },
+      {
+        "icon": "🌽",
+        "title": "Vehículos de finca y agroindustria",
+        "text": "Camionetas, tractores y camiones que trabajan en la caña, el maíz o las granjas avícolas de la zona registran horas de encendido y ubicación, con aviso si salen del predio."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos en el centro y los barrios",
+        "text": "En barrios como Santa Bárbara, San Antonio o El Jardín la moto es transporte diario. La alerta de encendido te avisa si alguien la usa sin permiso y el historial muestra cada recorrido."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Santiago Vergara",
+      "Crespo",
+      "El Molino",
+      "Alto Bonito",
+      "San Antonio",
+      "Santa Bárbara",
+      "Paloblanco",
+      "San Juanito",
+      "Los Ángeles",
+      "Ricaurte",
+      "El Jardín",
+      "La Habana",
+      "Monterrey"
+    ],
+    "roads": [
+      {
+        "name": "Vía Buga–Buenaventura",
+        "note": "Carretera hacia Loboguerrero y el Pacífico con mucho tráfico de tractomulas; donde la señal falle en la montaña, la ubicación se actualiza al recuperarla."
+      },
+      {
+        "name": "Doble calzada Buga–Tuluá–La Paila",
+        "note": "Lleva al norte del Valle y al Eje Cafetero; el historial muestra tiempos de viaje, paradas y velocidad de cada vehículo."
+      },
+      {
+        "name": "Carretera Panamericana hacia Palmira y Cali",
+        "note": "Sale al sur por El Cerrito y Palmira; útil para controlar reparto y viajes diarios con alertas de velocidad."
+      },
+      {
+        "name": "Vía Panorama",
+        "note": "Converge en Buga y corre por la margen occidental del Cauca; ruta alterna para la carga entre el centro y el norte del Valle."
+      }
+    ],
+    "install_note": "Por WhatsApp agendamos la visita a tu casa, hotel, negocio o finca en Buga. Si tienes una empresa con camiones que viajan al puerto, conviene programar la instalación un día en que estén en el patio; si son varios, se pueden hacer en la misma jornada.",
+    "faqs": [
+      {
+        "q": "Tengo una van que trae peregrinos a la Basílica, ¿cómo controlo al conductor?",
+        "a": "Desde la plataforma web ves la ruta completa de cada viaje, la hora de salida y de llegada a Buga, el tiempo que la van estuvo parqueada y la velocidad en carretera. Si defines un límite, recibes una alerta cada vez que el conductor lo supere. El historial se guarda 12 meses para revisar cualquier queja."
+      },
+      {
+        "q": "¿Puedo poner una alerta si mi carro sale de Buga sin que yo lo sepa?",
+        "a": "Sí. Crea una geocerca que cubra el casco urbano de Buga o solo tu barrio. Si el vehículo sale de esa zona, recibes una notificación con la hora. Combinado con la alerta de encendido, sabes de inmediato si alguien tomó el carro y hacia dónde va, por ejemplo hacia la Panamericana o la vía al puerto."
+      },
+      {
+        "q": "¿El servicio tiene soporte si algo falla en el equipo?",
+        "a": "Sí. La mensualidad de $47.600 incluye soporte técnico, así que si notas algo raro en la app o en los reportes del vehículo, te comunicas y te ayudan a revisarlo. Recuerda que el equipo está en comodato: si algún día cancelas, lo devuelves sin costo, porque no hay cláusula de permanencia."
+      }
+    ],
+    "nearby": [
+      "tulua",
+      "palmira",
+      "cali",
+      "buenaventura"
+    ]
+  },
+  {
+    "slug": "jamundi",
+    "name": "Jamundí",
+    "dept": "valle-del-cauca",
+    "lat": 3.261,
+    "lon": -76.535,
+    "metro": null,
+    "lead": "GPS en Jamundí para carros y motos de quienes viajan a Cali: rastrea tu vehículo entre Alfaguara, Terranova, la Panamericana y la zona de los Farallones.",
+    "intro": [
+      "Jamundí, al sur de Cali, se ha convertido en una de las grandes zonas de vivienda del Valle. Sobre la vía que la une con Cali se levantan conjuntos residenciales y urbanizaciones como Alfaguara, Ciudad Country, Bonanza o Terranova, y buena parte de sus habitantes hace el viaje diario a Cali para trabajar o estudiar. El tráfico en la entrada sur de Cali es parte de la rutina, igual que los carros que pasan el día en parqueaderos de conjunto, de centro comercial o de oficina.",
+      "Más allá del casco urbano, Jamundí es campo: cultivos de caña, arroz, maíz, cacao y plátano, y una zona de montaña hacia los Farallones de Cali, con corregimientos como Potrerito, Ampudia o Villa Colombia, ríos y fincas de recreo. Con Seguimiento Activo GPS ves tu vehículo cada 30 segundos, recibes alertas de encendido y velocidad y creas geocercas para la casa o la finca. En la montaña, donde la señal puede faltar, la ubicación se actualiza cuando el equipo recupera cobertura. Instalación $120.000 y mensualidad $47.600."
+    ],
+    "uses": [
+      {
+        "icon": "🏘️",
+        "title": "Carros en conjuntos de Alfaguara",
+        "text": "Si vives en uno de los conjuntos de Alfaguara, Terranova o Ciudad Country, la geocerca alrededor del parqueadero te avisa cuando el carro sale, y la alerta de encendido detecta cualquier uso en la madrugada."
+      },
+      {
+        "icon": "🍫",
+        "title": "Camionetas de cacao, frutas y caña",
+        "text": "Los productores que sacan cacao, plátano o frutas de sus fincas pueden registrar horas de salida y llegada, paradas y kilómetros, y programar mantenimiento por kilometraje para vías destapadas."
+      },
+      {
+        "icon": "🏍️",
+        "title": "Motos de quienes trabajan en Cali",
+        "text": "Muchos se mueven en moto entre Jamundí y Cali por la Panamericana o la vía Cali–Jamundí. Las alertas de velocidad y encendido, junto con el apagado remoto, dan control y respaldo."
+      },
+      {
+        "icon": "🏡",
+        "title": "Fincas de recreo en la ladera",
+        "text": "En Potrerito, Ampudia o Villa Colombia hay fincas con vehículos que se quedan solos entre semana. La geocerca te avisa si alguien saca el carro del predio mientras estás en la ciudad."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Alfaguara",
+      "Terranova",
+      "Ciudad Country",
+      "Bonanza",
+      "Belalcázar",
+      "El Rosario",
+      "Potrerito",
+      "Ampudia",
+      "Villa Colombia",
+      "Robles",
+      "Timba",
+      "Quinamayó",
+      "Paso de La Bolsa"
+    ],
+    "roads": [
+      {
+        "name": "Vía Cali–Jamundí",
+        "note": "Corredor residencial con trancones diarios hacia el sur de Cali; el historial muestra cuánto tardas realmente y dónde se detiene el vehículo."
+      },
+      {
+        "name": "Carretera Panamericana hacia Santander de Quilichao",
+        "note": "Salida al Cauca y al sur del país; útil para camiones y viajes largos con alertas de velocidad y registro de paradas."
+      },
+      {
+        "name": "Vías de ladera hacia Potrerito y Ampudia",
+        "note": "Suben hacia la zona de los Farallones; en los tramos de montaña con poca señal la ubicación se actualiza al recuperar cobertura."
+      }
+    ],
+    "install_note": "Agenda por WhatsApp. El técnico llega a tu casa o conjunto en Jamundí; en urbanizaciones cerradas conviene dejar autorizado el ingreso en portería. Si el vehículo está en una finca de la zona rural, se coordina la fecha y la ruta con anticipación.",
+    "faqs": [
+      {
+        "q": "Vivo en un conjunto de Jamundí y trabajo en Cali, ¿cómo me sirve el GPS?",
+        "a": "Te sirve en los dos extremos del día. En la noche, la geocerca del conjunto y la alerta de encendido te avisan si alguien mueve el carro. De día, si lo dejas en un parqueadero en Cali, recibes el mismo aviso. Y si lo roban, ves la ubicación en tiempo real y la compartes con la Policía por la línea 123."
+      },
+      {
+        "q": "¿Hay señal en la zona de montaña, hacia los Farallones?",
+        "a": "El GPS reporta por red celular, y en la ladera de los Farallones la cobertura puede ser irregular. En el casco urbano y en la zona plana suele funcionar sin problema. Donde la señal se pierda, la ubicación se actualiza en cuanto el equipo vuelva a conectarse, y las alertas siguen configuradas."
+      },
+      {
+        "q": "¿Me sirve para una camioneta que saca fruta o cacao de la finca?",
+        "a": "Sí. Puedes ver la camioneta en tiempo real, registrar a qué hora salió de la finca y a qué hora llegó al comprador, y revisar paradas y kilómetros en el historial. Con el odómetro programas alertas de mantenimiento por kilometraje, útiles si la camioneta anda por vías destapadas."
+      }
+    ],
+    "nearby": [
+      "cali",
+      "santander-de-quilichao",
+      "palmira",
+      "yumbo"
+    ]
+  },
+  {
+    "slug": "yumbo",
+    "name": "Yumbo",
+    "dept": "valle-del-cauca",
+    "lat": 3.5823,
+    "lon": -76.4914,
+    "metro": null,
+    "lead": "GPS en Yumbo para flotas industriales, camiones y carros: controla tus vehículos en Acopi, la Autopista Cali–Yumbo y la vía al aeropuerto desde el celular.",
+    "intro": [
+      "Yumbo es la capital industrial del Valle del Cauca. En su zona industrial, que incluye sectores como Acopi, funcionan grandes empresas de cemento, bebidas, papel, alimentos y llantas, y alrededor de ellas trabajan proveedores, transportadores y operadores logísticos. Por eso la Autopista Cali–Yumbo y las vías que conectan con el aeropuerto y con Palmira reciben a diario un flujo constante de tractomulas, camiones de reparto, furgones y buses de personal que entran y salen de las plantas.",
+      "Pero Yumbo no es solo fábricas: tiene un casco urbano con vida propia y corregimientos como Dapa, conocido por su clima fresco, Montañitas, Mulaló o Santa Inés, con fincas y casas campestres. En Arroyohondo está el Centro de Eventos Valle del Pacífico. Con Seguimiento Activo GPS ves cada vehículo cada 30 segundos, recibes alertas de velocidad y de geocercas, y programas mantenimientos por kilometraje. Instalación $120.000 y mensualidad $47.600 por vehículo, sin cláusula de permanencia y con el equipo en comodato."
+    ],
+    "uses": [
+      {
+        "icon": "🏭",
+        "title": "Flotas de la zona industrial",
+        "text": "Las empresas de Acopi y de la zona industrial pueden ver toda su flota en la plataforma web, revisar reportes de uso por conductor y recibir alertas si un vehículo sale de la ruta asignada."
+      },
+      {
+        "icon": "🚛",
+        "title": "Tractomulas hacia el Pacífico",
+        "text": "Los camiones que cargan en Yumbo y bajan al puerto de Buenaventura se pueden seguir donde haya cobertura, con alertas de velocidad y registro de cada parada en la vía al Pacífico."
+      },
+      {
+        "icon": "🏡",
+        "title": "Fincas y casas en Dapa",
+        "text": "En Dapa y otros corregimientos de ladera hay casas campestres con vehículos que se quedan solos entre semana. Una geocerca y la alerta de encendido te avisan si alguien los mueve."
+      },
+      {
+        "icon": "✈️",
+        "title": "Carga hacia el aeropuerto",
+        "text": "Los vehículos que llevan mercancía de Yumbo al Alfonso Bonilla Aragón por la vía Cencar–Aeropuerto pueden registrar con geocercas la llegada a la zona de carga y el regreso a la planta."
+      }
+    ],
+    "zones": [
+      "Centro",
+      "Acopi",
+      "Arroyohondo",
+      "Dapa",
+      "Mulaló",
+      "Montañitas",
+      "Santa Inés",
+      "San Marcos",
+      "El Pedregal",
+      "Yumbillo"
+    ],
+    "roads": [
+      {
+        "name": "Autopista Cali–Yumbo",
+        "note": "Eje de la zona industrial y del Centro de Eventos Valle del Pacífico; el historial registra tiempos y paradas de cada vehículo en horas pico."
+      },
+      {
+        "name": "Vía Cencar–Aeropuerto",
+        "note": "Conecta la zona industrial con el aeropuerto y con Palmira; útil para controlar carga aérea y transporte de personal con geocercas."
+      },
+      {
+        "name": "Vía Panorama",
+        "note": "Sale hacia Vijes, Yotoco y el norte del Valle por la margen occidental del Cauca; en esta ruta de carga las alertas de velocidad ayudan a prevenir excesos."
+      }
+    ],
+    "install_note": "Coordinamos por WhatsApp. Para empresas de la zona industrial, el técnico puede ir a la planta o al patio de vehículos en el horario acordado, respetando los protocolos de ingreso de cada compañía. Para particulares, la instalación se hace en tu casa del casco urbano o en tu finca de Dapa o Montañitas.",
+    "faqs": [
+      {
+        "q": "¿Cuál es la diferencia entre la app y la plataforma web para mi empresa?",
+        "a": "La app Monitor-X, para Android e iPhone, es ideal para ver la ubicación y recibir alertas en el celular. La plataforma web está pensada para el trabajo de oficina: ves toda la flota en pantalla grande, revisas historiales de 12 meses y sacas reportes de uso por vehículo. Ambas están incluidas en la mensualidad."
+      },
+      {
+        "q": "¿El GPS funciona en Dapa y en los corregimientos de ladera?",
+        "a": "Funciona donde haya cobertura celular. En el casco urbano y la zona industrial suele haber buena señal; en algunas partes de la ladera puede ser más débil. Si se pierde por momentos, la ubicación se actualiza cuando el equipo recupera conexión. Antes de instalar puedes contarnos el sector exacto de tu finca."
+      },
+      {
+        "q": "¿Puedo apagar un camión desde la app si se desvía de la ruta?",
+        "a": "El apagado remoto del motor existe, pero se usa con el vehículo detenido o a baja velocidad, nunca en plena marcha por la autopista. Para desvíos, lo práctico es usar geocercas y alertas: te enteras al instante y puedes llamar al conductor. Si sospechas un robo, comparte la ubicación en tiempo real con la Policía por la línea 123."
+      }
+    ],
+    "nearby": [
+      "cali",
+      "palmira",
+      "jamundi",
+      "buga"
+    ]
+  }
+]

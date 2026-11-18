@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>OG image source (1200x630) - render with _tools/render_og.sh</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1200px;height:630px;overflow:hidden}
+  body{font-family:"Segoe UI",Arial,sans-serif;color:#fff;
+    background:radial-gradient(circle at 85% 20%,rgba(16,185,129,.28),transparent 40%),
+               linear-gradient(135deg,#0f172a 0%,#1e3a8a 55%,#1e40af 100%);
+    position:relative}
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.05) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,.05) 1px,transparent 1px);background-size:40px 40px}
+  .wrap{position:relative;display:flex;height:100%;padding:56px 56px 56px 64px;gap:36px}
+  .left{flex:1;display:flex;flex-direction:column}
+  .logo{background:#fff;border-radius:14px;padding:8px 18px;width:max-content;margin-bottom:26px}
+  .logo img{height:84px;display:block}
+  h1{font-size:62px;line-height:1.05;font-weight:800;letter-spacing:-1px}
+  h1 span{color:#34d399}
+  .sub{font-size:22px;color:#cbd5e1;margin-top:18px;white-space:nowrap}
+  .prices{display:flex;gap:16px;margin-top:30px}
+  .chip{border-radius:999px;padding:12px 24px;font-size:24px;font-weight:700}
+  .chip.a{background:rgba(255,255,255,.14)}
+  .chip.b{background:#10b981}
+  .certs{margin-top:auto;font-size:21px;color:#94a3b8}
+  .right{width:330px;flex-shrink:0;display:flex;flex-direction:column;justify-content:center;gap:18px}
+  .wa{background:#25D366;border-radius:22px;padding:26px 24px;text-align:center}
+  .wa .t{font-size:22px;font-weight:600;opacity:.95}
+  .wa .n{font-size:38px;font-weight:800;margin-top:6px;letter-spacing:.5px;white-space:nowrap}
+  .who{text-align:center;font-size:22px;color:#e2e8f0}
+  .site{text-align:center;font-size:30px;font-weight:700;color:#93c5fd}
+</style>
+</head>
+<body>
+<div class="grid"></div>
+<div class="wrap">
+  <div class="left">
+    <div class="logo"><img src="../logo.png" alt=""></div>
+    <h1>GPS para carros, motos<br>y camiones <span>en toda Colombia</span></h1>
+    <p class="sub">Rastreo en tiempo real · Geocercas · Apagado remoto · App Monitor-X</p>
+    <div class="prices">
+      <div class="chip a">Instalación $120.000</div>
+      <div class="chip b">Mensualidad $47.600</div>
+    </div>
+    <p class="certs">✓ Certificado MinTIC &nbsp; ✓ Policía Nacional &nbsp; ✓ Sin permanencia</p>
+  </div>
+  <div class="right">
+    <div class="wa"><div class="t">Cotiza por WhatsApp</div><div class="n">316 059 2569</div></div>
+    <div class="who">Seguimiento Activo GPS · Asesor</div>
+    <div class="site">gpscarro.com</div>
+  </div>
+</div>
+</body>
+</html>
