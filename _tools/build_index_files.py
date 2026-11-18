@@ -121,7 +121,7 @@ FACTS = f"""- Nombre: {BRAND} (sitio web: gpscarro.com)
 - La mensualidad incluye: ubicación cada 30 segundos, rastreo 24/7, historial de 12 meses, geocercas, alertas ilimitadas (velocidad, encendido, zonas), apagado remoto del motor (con el vehículo detenido o a baja velocidad), odómetro y alertas de mantenimiento, app Monitor-X (Android e iPhone), plataforma web, plan de datos y soporte.
 - Cobertura: los 32 departamentos de Colombia, con instalación a domicilio (casa, trabajo, parqueadero, bodega u obra). Funciona donde haya cobertura celular.
 - Certificaciones: registro ante MinTIC; proveedor autorizado por la Policía Nacional para rastreo satelital de maquinaria amarilla.
-- Contacto: WhatsApp y llamadas {PHONE_INTL} (asesor comercial). Lunes a sábado, 7:00 a.m. a 7:00 p.m.
+- Contacto: WhatsApp y llamadas {PHONE_INTL} (asesor comercial). Atención y soporte 24/7, todos los días.
 - Sitio corporativo de la empresa: https://www.seguimientoactivo.com"""
 
 

@@ -137,16 +137,9 @@
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday"
-          ],
-          "opens": "07:00",
-          "closes": "19:00"
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+            "opens": "00:00",
+            "closes": "23:59"
         }
       ],
       "contactPoint": [
@@ -205,78 +198,27 @@
 
     <!-- STRUCTURED DATA - PRODUCT -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Servicio GPS Vehicular Seguimiento Activo",
-        "description": "Sistema de rastreo GPS vehicular en tiempo real con actualización cada 30 segundos, app móvil Monitor-X, geocercas, alertas de velocidad e historial de 12 meses.",
-        "brand": {
-            "@type": "Brand",
-            "name": "Seguimiento Activo"
-        },
-        "offers": {
-            "@type": "AggregateOffer",
-            "lowPrice": "47600",
-            "highPrice": "120000",
-            "priceCurrency": "COP",
-            "availability": "https://schema.org/InStock",
-            "seller": {
-                "@id": "https://gpscarro.com/#organization"
-            }
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "127",
-            "bestRating": "5",
-            "worstRating": "1"
-        },
-        "review": [
-            {
-                "@type": "Review",
-                "reviewRating": {
-                    "@type": "Rating",
-                    "ratingValue": "5",
-                    "bestRating": "5"
-                },
-                "author": {
-                    "@type": "Person",
-                    "name": "Carlos Ramírez"
-                },
-                "reviewBody": "Instalé el GPS en mi camioneta hace 6 meses. La tranquilidad de saber dónde está mi vehículo en todo momento no tiene precio. La app Monitor-X es muy fácil de usar.",
-                "datePublished": "2025-11-15"
-            },
-            {
-                "@type": "Review",
-                "reviewRating": {
-                    "@type": "Rating",
-                    "ratingValue": "5",
-                    "bestRating": "5"
-                },
-                "author": {
-                    "@type": "Person",
-                    "name": "Laura Pérez"
-                },
-                "reviewBody": "Tengo 12 camiones con GPS de Seguimiento Activo. Redujimos el consumo de combustible un 15% gracias al control de rutas. El soporte es excelente.",
-                "datePublished": "2025-12-08"
-            },
-            {
-                "@type": "Review",
-                "reviewRating": {
-                    "@type": "Rating",
-                    "ratingValue": "5",
-                    "bestRating": "5"
-                },
-                "author": {
-                    "@type": "Person",
-                    "name": "Andrés Martínez"
-                },
-                "reviewBody": "Me robaron la moto y gracias al GPS la recuperamos en menos de 2 horas. La policía pudo rastrearla en tiempo real. 100% recomendado.",
-                "datePublished": "2026-02-20"
-            }
-        ]
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Servicio GPS Vehicular Seguimiento Activo",
+  "description": "Sistema de rastreo GPS vehicular en tiempo real con actualización cada 30 segundos, app móvil Monitor-X, geocercas, alertas de velocidad e historial de 12 meses.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Seguimiento Activo"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "47600",
+    "highPrice": "120000",
+    "priceCurrency": "COP",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://gpscarro.com/#organization"
     }
-    </script>
+  }
+}
+</script>
 
     <!-- STRUCTURED DATA - SERVICE -->
     <script type="application/ld+json">
@@ -472,25 +414,23 @@
 
     <!-- STRUCTURED DATA - SOFTWARE APPLICATION (Monitor-X App) -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "Monitor-X",
-        "operatingSystem": ["iOS", "Android"],
-        "applicationCategory": "UtilitiesApplication",
-        "description": "Aplicación móvil para rastreo GPS vehicular en tiempo real. Monitorea tu carro, moto o camión desde tu celular.",
-        "offers": {
-            "@type": "Offer",
-            "price": "0",
-            "priceCurrency": "COP"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.8",
-            "ratingCount": "1250"
-        }
-    }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Monitor-X",
+  "operatingSystem": [
+    "iOS",
+    "Android"
+  ],
+  "applicationCategory": "UtilitiesApplication",
+  "description": "Aplicación móvil para rastreo GPS vehicular en tiempo real. Monitorea tu carro, moto o camión desde tu celular.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "COP"
+  }
+}
+</script>
 
     <style>
         :root {
@@ -2340,7 +2280,7 @@
                         <div class="contact-detail-icon">🕐</div>
                         <div>
                             <strong>Horario</strong><br>
-                            Lunes a Sábado: 7am - 7pm
+                            24/7, todos los días
                         </div>
                     </div>
                     <div class="contact-detail">
@@ -2390,7 +2330,7 @@
                     </div>
                     <button type="button" class="btn-submit" id="sendWa" style="background:#25D366;">💬 Enviar por WhatsApp (respuesta rápida)</button>
                     <button type="submit" class="btn-submit" style="margin-top:10px;background:#1e40af;">📩 Enviar por correo</button>
-                    <p style="font-size:.85rem;opacity:.75;margin-top:10px;text-align:center;">Te respondemos de lunes a sábado, 7 a.m. a 7 p.m.</p>
+                    <p style="font-size:.85rem;opacity:.75;margin-top:10px;text-align:center;">Te respondemos las 24 horas, todos los días.</p>
                 </form>
             </div>
         </section>

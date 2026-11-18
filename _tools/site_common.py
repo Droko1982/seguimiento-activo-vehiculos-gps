@@ -146,7 +146,7 @@ def footer_html(p):
     return f"""<!-- SA:FOOTER --><footer class="sa-footer" role="contentinfo"><div class="sa-in"><div class="sa-fgrid">
 <div class="sa-fcol"><h4>📍 {BRAND}</h4><p>Rastreo GPS vehicular en tiempo real para carros, motos, camiones y maquinaria. Instalación a domicilio en toda Colombia.</p>
 <p><strong>WhatsApp:</strong> <a href="https://wa.me/{PHONE_WA}" target="_blank" rel="noopener">{PHONE_INTL}</a><br><strong>Llamadas:</strong> <a href="{tel()}">{PHONE_HUMAN}</a></p>
-<p>Lunes a sábado, 7:00 a.m. a 7:00 p.m.<br>Certificado MinTIC · Policía Nacional</p></div>
+<p>Atención y soporte 24/7, todos los días<br>Certificado MinTIC · Policía Nacional</p></div>
 <div class="sa-fcol"><h4>Servicios</h4><ul>
 <li><a href="{p}servicios/gps-carros.html">GPS para carros</a></li>
 <li><a href="{p}servicios/gps-motos.html">GPS para motos</a></li>

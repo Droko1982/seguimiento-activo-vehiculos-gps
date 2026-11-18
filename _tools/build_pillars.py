@@ -103,7 +103,7 @@ FAQ_GROUPS = [
          "Está registrado ante el MinTIC (Ministerio de Tecnologías de la Información y las Comunicaciones) y es proveedor autorizado por la Policía Nacional "
          "para el rastreo satelital de maquinaria amarilla."),
         ("¿Cómo los contacto?",
-         f"Por WhatsApp o llamada al {PHONE_INTL}, de lunes a sábado de 7:00 a.m. a 7:00 p.m. Te atiende un asesor comercial. "
+         f"Por WhatsApp o llamada al {PHONE_INTL}, las 24 horas, todos los días. Te atiende un asesor comercial. "
          "También puedes dejar tus datos en el formulario de cotización de gpscarro.com."),
         ("¿En qué ciudades tienen servicio?",
          "En todo Colombia: los 32 departamentos, con instalación a domicilio en ciudades principales, municipios intermedios y zonas rurales con cobertura celular."),
@@ -190,7 +190,7 @@ def precios():
     items = "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faqs)
     out.append(f'<section id="preguntas"><h2>Preguntas sobre el precio</h2>{items}<p><a href="preguntas-frecuentes.html">Ver todas las preguntas frecuentes →</a></p></section>')
     out.append('<section><h2>Mismo precio en toda Colombia</h2><p>Instalamos a domicilio en los 32 departamentos. Revisa la cobertura de <a href="ciudades/">tu ciudad o municipio</a> o de <a href="departamentos/">tu departamento</a>.</p></section>')
-    out.append(f'<div class="cta-final"><h2>Pide tu cotización ahora</h2><p>Te respondemos por WhatsApp, de lunes a sábado de 7 a.m. a 7 p.m.</p>{ctas(wa_text)}</div>')
+    out.append(f'<div class="cta-final"><h2>Pide tu cotización ahora</h2><p>Te respondemos por WhatsApp, las 24 horas, todos los días.</p>{ctas(wa_text)}</div>')
     out.append(end(p, wa_text))
     write("precios.html", "".join(out))
 
@@ -259,7 +259,7 @@ def about_page():
         ("Servicio", "Rastreo y monitoreo GPS vehicular en tiempo real"),
         ("Atención comercial", "Seguimiento Activo GPS, asesor comercial"),
         ("WhatsApp y llamadas", PHONE_INTL),
-        ("Horario", "Lunes a sábado, 7:00 a.m. a 7:00 p.m."),
+        ("Horario", "Atención y soporte 24/7, todos los días"),
         ("Cobertura", "Los 32 departamentos de Colombia, con instalación a domicilio"),
         ("Precio", f"Instalación {PRICE_INSTALL_TXT} (pago único) y mensualidad {PRICE_MONTH_TXT}"),
         ("Permanencia", "No hay cláusula de permanencia; el equipo es prestado"),
@@ -276,8 +276,8 @@ def about_page():
         "contactPoint": [{"@type": "ContactPoint", "telephone": PHONE_E164, "contactType": "sales", "areaServed": "CO",
                           "availableLanguage": ["es", "en"]}],
         "openingHoursSpecification": [{"@type": "OpeningHoursSpecification",
-                                       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-                                       "opens": "07:00", "closes": "19:00"}],
+                                       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+                                       "opens": "00:00", "closes": "23:59"}],
         "knowsAbout": ["Rastreo GPS vehicular", "Control de flotas", "Geocercas", "Inmovilización remota de vehículos",
                        "Rastreo de maquinaria amarilla", "Telemetría vehicular"],
         "sameAs": ["https://www.seguimientoactivo.com", "https://wa.me/573160592569"],
