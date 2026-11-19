@@ -2291,18 +2291,11 @@
                         </div>
                     </div>
                 </div>
-                <form class="contact-form" action="https://formsubmit.co/" method="POST">
+                <form class="contact-form" onsubmit="return false;">
                     <h3>Solicitar Cotización Gratis</h3>
-                    <input type="hidden" name="_subject" value="Nueva cotización GPS - gpscarro.com">
-                    <input type="hidden" name="_next" value="https://gpscarro.com/gracias.html">
-                    <input type="hidden" name="_autoresponse" value="Gracias por contactarnos. Un asesor te contactará pronto por WhatsApp. Seguimiento Activo GPS.">
                     <div class="form-group">
                         <label for="nombre">Nombre completo</label>
                         <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="email">Correo electrónico</label>
-                        <input type="email" id="email" name="email" placeholder="tu@email.com">
                     </div>
                     <div class="form-group">
                         <label for="telefono">WhatsApp / Teléfono</label>
@@ -2329,7 +2322,6 @@
                         <textarea id="mensaje" name="mensaje" placeholder="¿Cuántos vehículos? ¿Alguna pregunta?"></textarea>
                     </div>
                     <button type="button" class="btn-submit" id="sendWa" style="background:#25D366;">💬 Enviar por WhatsApp (respuesta rápida)</button>
-                    <button type="submit" class="btn-submit" style="margin-top:10px;background:#1e40af;">📩 Enviar por correo</button>
                     <p style="font-size:.85rem;opacity:.75;margin-top:10px;text-align:center;">Te respondemos las 24 horas, todos los días.</p>
                 </form>
             </div>
